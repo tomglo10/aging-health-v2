@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Lewy Body Dementia and the Latest Research"
 date: 2024-06-09T16:57:00+00:00
 description: "Worried about memory decline? Learn about Lewy body dementia symptoms, causes, treatments, and promising new research. #LewyBodyDementia #Alzheimers"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mpox: Symptoms, Causes, Diagnosis, and Treatment"
 date: 2024-08-26T21:01:00+00:00
 description: "Get informed about Mpox with details on symptoms, causes, diagnosis, and the latest treatment options. Safeguard yourself and your community today."

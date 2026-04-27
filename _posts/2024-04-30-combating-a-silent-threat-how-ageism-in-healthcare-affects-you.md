@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Combating a Silent Threat: How Ageism in Healthcare Affects You"
 date: 2024-04-30T15:27:00+00:00
 description: "Ageism in healthcare is a widespread issue with dire consequences. Explore research on age bias effects on patients and ensuring equitable care."

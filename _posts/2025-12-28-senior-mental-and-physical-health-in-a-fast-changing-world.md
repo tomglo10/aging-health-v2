@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Senior Mental and Physical Health in a Fast-Changing World"
 date: 2025-12-28T08:06:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Aging: Top Ten Things Medicare Does Not Cover"
 date: 2023-11-12T05:20:00+00:00
 description: "Medicare is a valuable health insurance program for adults aged 65 and older. Medicare does not cover everything."

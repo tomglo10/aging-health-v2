@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Your ENT: The Inside Scoop on Ear, Nose, and Throat Doctors"
 date: 2024-06-28T14:42:00+00:00
 description: "Discover the relief you've been seeking! Learn the conditions ENT doctors treat and when to seek their advice. Don't suffer in silence any longer."

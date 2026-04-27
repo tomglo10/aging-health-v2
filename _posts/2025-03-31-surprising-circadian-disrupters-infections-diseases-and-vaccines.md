@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Surprising Circadian Disrupters: Infections, Diseases, and Vaccines"
 date: 2025-03-31T15:48:00+00:00
 description: "Explore the impact of vaccines, infections, and diseases on your circadian rhythm. Understand how they influence sleep, mood, and overall well-being."

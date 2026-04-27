@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "RNA Innovations: The Future of Targeted Therapies"
 date: 2025-07-01T22:46:00+00:00
 description: "RNA therapeutics are transforming medicine. Learn how mRNA, siRNA, and ASO technologies are revolutionizing treatments for diverse diseases."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Ageism in the Workplace: Challenges and Solutions"
 date: 2024-04-30T05:44:00+00:00
 description: "Age discrimination in the workplace is a problem. However, there are ways to promote diversity and equal opportunities for all employees."

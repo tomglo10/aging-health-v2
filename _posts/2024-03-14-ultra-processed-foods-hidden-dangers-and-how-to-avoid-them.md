@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Ultra-Processed Foods: Hidden Dangers and How to Avoid Them"
 date: 2024-03-14T22:50:00+00:00
 description: "Unveiling the Hazards and Risks of Ultra-Processed Foods: Discover the dangers of consuming these convenient yet potentially risky dietary choices."

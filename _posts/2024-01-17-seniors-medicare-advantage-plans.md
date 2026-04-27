@@ -1,5 +1,5 @@
 ---  
-layout: single  
+layout: post  
 title: "Seniors: About Medicare Advantage Plans"  
 date: 2024-01-17  
 description: "A comprehensive clinical guide to Medicare Part C, detailing networks, supplemental benefits, and out-of-pocket maximums specifically designed for seniors."  

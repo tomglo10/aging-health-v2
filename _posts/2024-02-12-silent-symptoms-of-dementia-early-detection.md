@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Silent Symptoms of Dementia: Early Detection"
 date: 2024-02-12T16:58:00+00:00
 description: ""

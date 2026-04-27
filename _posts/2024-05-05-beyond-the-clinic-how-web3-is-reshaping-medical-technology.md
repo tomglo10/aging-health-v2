@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Beyond the Clinic: How Web3 is Reshaping Medical Technology"
 date: 2024-05-05T22:15:00+00:00
 description: "Web3 is revolutionizing medical technology, offering patient data ownership, enhanced security, and decentralized innovation. Explore its potential."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Chasing Sunrises: New Hope for Autoimmune Arthritis Care"
 date: 2024-01-22
 description: "A 2026 roadmap exploring precision medicine, GZMK protein research, and the gut-joint axis in autoimmune arthritis."

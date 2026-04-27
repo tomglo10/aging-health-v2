@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Metformin's Surprising Benefits Beyond Diabetes"
 date: 2024-07-11T00:20:00+00:00
 description: "Is metformin a wonder drug? Explore research on its potential benefits for lowering the risks of cancer, dementia, stroke, aging, and even COVID-19."

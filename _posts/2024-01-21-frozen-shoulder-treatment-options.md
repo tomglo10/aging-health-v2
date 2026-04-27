@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How to Fix a Frozen Shoulder - Treatment Options"
 date: 2024-01-21
 description: "A 10-year thaw perspective on Adhesive Capsulitis, exploring GZMK protein research and 2026 clinical breakthroughs."

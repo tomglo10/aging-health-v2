@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Be Ready: Things to Know For Emergency Preparedness"
 date: 2025-07-13T04:26:00+00:00
 description: "Enhance emergency preparedness plans to build resilience and ensure security. Equip yourself and your community to face life's unforeseen challenges."

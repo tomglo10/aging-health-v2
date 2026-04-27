@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Grains: Friend or Foe? Whole Grains and Health"
 date: 2023-09-04T07:54:00+00:00
 description: "If you are trying to improve gut health, brain function, blood sugar control, or weight management, learn when whole grains may help—and when they may need to be limited or avoided."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Osteopenia: Silent Bone Loss—What You Should Know"
 date: 2024-08-14T15:05:00+00:00
 description: "Osteopenia: The causes, symptoms, and diagnosis of this bone-weakening condition. Discover the latest research and treatment options for osteopenia."

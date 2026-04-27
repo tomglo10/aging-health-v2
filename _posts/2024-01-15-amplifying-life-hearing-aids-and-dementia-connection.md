@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Amplifying Life: Hearing Aids and Dementia Connection"
 date: 2024-01-15T03:43:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Alzheimer's Prevention: Optimizing Brain Health Tweaks"
 date: 2024-06-21T18:53:00+00:00
 description: "Discover the latest Alzheimer's research, lifestyle changes, FDA-approved drugs, and the power of Tai Chi for optimizing brain health. #Brainhealth"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How to Stay Keto on a Budget: 17 Easy Tips"
 date: 2023-09-04T00:59:00+00:00
 description: "The ketogenic (keto) diet is a popular low-carb approach. This guide shows how to follow keto on a budget without sacrificing nutrition or flavor."

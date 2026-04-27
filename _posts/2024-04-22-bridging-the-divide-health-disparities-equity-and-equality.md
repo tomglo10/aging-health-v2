@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Bridging the Divide: Health Disparities, Equity, and Equality"
 date: 2024-04-22T06:08:00+00:00
 description: "Unequal access to healthcare creates significant health disparities. Explore health equity and equality, and how to improve the healthcare system."

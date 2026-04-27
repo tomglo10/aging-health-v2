@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Psoriasis and Cardiovascular Disease: What Patients Need to Know"
 date: 2026-01-24T17:24:00+00:00
 description: ""

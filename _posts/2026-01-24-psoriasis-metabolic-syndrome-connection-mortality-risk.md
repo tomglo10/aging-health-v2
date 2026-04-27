@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Psoriasis-Metabolic Syndrome Connection: Mortality Risk"
 date: 2026-01-24T14:09:00+00:00
 description: ""

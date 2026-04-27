@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Shingles: Essential Insights and Prevention Tips"
 date: 2024-07-09T20:19:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "9 Tips for Healthy Aging You Should Know"
 date: 2023-12-16
 description: "Nine essential strategies for aging gracefully, from functional fitness to proactive mental healthcare, to help you thrive in your later years."

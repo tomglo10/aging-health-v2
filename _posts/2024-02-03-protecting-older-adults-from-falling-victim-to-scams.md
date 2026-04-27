@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Protecting Older Adults from Falling Victim to Scams"
 date: 2024-02-03T13:31:00+00:00
 description: "Scams: what you should know. Scammers may tailor their strategies to target any susceptible person, regardless of age, money, or educational level."

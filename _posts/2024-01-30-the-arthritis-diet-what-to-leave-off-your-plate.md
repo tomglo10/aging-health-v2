@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Arthritis Diet: What to Leave Off Your Plate"
 date: 2024-01-30T18:28:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Cataract Surgery: What Seniors Need to Know"
 date: 2024-03-22
 description: "A clinical and personal look at cataract types, the surgical procedure, and how restoring vision reduces fall risks for seniors."

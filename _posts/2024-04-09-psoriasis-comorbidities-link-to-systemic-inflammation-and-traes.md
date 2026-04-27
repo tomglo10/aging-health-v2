@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Psoriasis Comorbidities: Link to Systemic Inflammation and TRAEs"
 date: 2024-04-09T22:25:00+00:00
 description: ""

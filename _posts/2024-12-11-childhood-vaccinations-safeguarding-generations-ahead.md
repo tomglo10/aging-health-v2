@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Childhood Vaccinations: Safeguarding Generations Ahead"
 date: 2024-12-11T21:00:00+00:00
 description: "Childhood vaccinations are vital for protection from serious illnesses, and promoting good health. Parents need to make informed health decisions."

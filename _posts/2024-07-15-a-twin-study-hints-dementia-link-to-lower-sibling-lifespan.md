@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A Twin Study: Hints Dementia Link to Lower Sibling Lifespan"
 date: 2024-07-15T19:57:00+00:00
 description: "Recent research suggests that having a sibling with dementia could increase the likelihood of premature death, even for individuals in good health."

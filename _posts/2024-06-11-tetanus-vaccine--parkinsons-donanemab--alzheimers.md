@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Tetanus Vaccine & Parkinson's: Donanemab & Alzheimer's "
 date: 2024-06-11T22:38:00+00:00
 description: "New research suggests tetanus shots may slow down Parkinson's progression, while newly FDA-approved Donanemab shows promise for Alzheimer's treatment."

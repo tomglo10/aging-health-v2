@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Reality vs. Perception:  The Fabric of Our Experiences"
 date: 2023-11-18T14:28:00+00:00
 description: "Unveil the secrets of reality and perception as we delve into the intricate fabric of our experiences on our website."

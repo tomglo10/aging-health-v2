@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Top Ten Reasons to Walk Everyday"
 date: 2023-12-05T16:57:00+00:00
 description: ""

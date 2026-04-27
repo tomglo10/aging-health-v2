@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Effective Ways to Alleviate Nausea"
 date: 2024-01-17T00:36:00+00:00
 description: "T I understand how uncomfortable nausea can be. Here are some effective home remedies and prevention strategies to help you feel better."

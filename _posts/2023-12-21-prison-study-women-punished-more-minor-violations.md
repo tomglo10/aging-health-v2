@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Prison Study: Women Punished More for Minor Violations"
 date: 2023-12-21
 description: "A clinical look at behavioral health and disciplinary disparities in the correctional system."

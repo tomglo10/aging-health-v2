@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Exploring Women's Heart Disease Risks and Prevention"
 date: 2024-07-14T07:19:00+00:00
 description: "A study from the Women's Health Initiative has revealed predictors of death from coronary heart disease and risk factors for heart disease fatalities."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Can Your Speech Predict Frontotemporal Degeneration?"
 date: 2024-06-03T13:38:00+00:00
 description: "Struggling with speech changes? New research suggests digital speech analysis may offer earlier detection of Frontotemporal Degeneration (FTD)"

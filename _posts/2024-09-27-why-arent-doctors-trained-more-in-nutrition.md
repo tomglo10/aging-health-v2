@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Why Aren't Doctors Trained More in Nutrition?"
 date: 2024-09-27T01:10:00+00:00
 description: "Discover essential nutrition training for doctors at our medical school. Learn how diet impacts health and disease prevention for better patient care."

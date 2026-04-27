@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Do Ultra-Processed Foods Affect Brain Function?"
 date: 2024-05-25T20:20:00+00:00
 description: ""

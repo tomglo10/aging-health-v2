@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Toxic Stress: A Dangerous Silent Threat to Health and Life"
 date: 2024-07-17T23:15:00+00:00
 description: "Discover how toxic stress impacts your health with conditions like obesity, diabetes, and depression. Learn to manage stress and improve health."

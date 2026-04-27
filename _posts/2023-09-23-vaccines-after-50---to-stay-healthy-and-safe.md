@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Vaccines After 50: The Essential Guide to Senior Immunity"
 date: 2023-09-23
 description: "As we age, our 'immune memory' fades. Learn which vaccines are critical for adults over 50 to maintain longevity and prevent complications."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "CRISPR and You: How to Stay Informed About Gene Editing"
 date: 2024-12-18T13:53:00+00:00
 description: "How to stay informed about CRISPR advancements, participate in discussions, and contribute to shaping the future of this groundbreaking technology."

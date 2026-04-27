@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Comprehensive Protocol to Human Longevity"
 date: 2026-01-17T09:20:00+00:00
 description: "Master your healthspan with the 2026 Longevity Protocol. A data-driven guide to biomarkers, cellular health, and the metrics for optimal aging."

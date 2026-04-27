@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Cellular Pillar: Autophagy & Metabolic Signaling"
 date: 2026-01-17T08:16:00+00:00
 description: ""

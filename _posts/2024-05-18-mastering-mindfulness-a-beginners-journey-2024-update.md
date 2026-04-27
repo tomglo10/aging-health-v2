@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mastering Mindfulness: A Beginner's Journey (2024 Update)"
 date: 2024-05-18T17:26:00+00:00
 description: "Discover the power of mindfulness practices to conquer stress, enhance focus, and embrace a more fulfilling life. Say goodbye to feeling overwhelmed!"

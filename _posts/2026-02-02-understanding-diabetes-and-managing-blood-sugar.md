@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
 description: ""

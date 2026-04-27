@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How Does Urgent Care Differ from Emergency Rooms?"
 date: 2025-01-17T17:27:00+00:00
 description: "The Differences Between Urgent Care and Emergency Rooms: Understanding the key distinctions to improve healthcare decisions and discussions."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Medical Questionnaires: Why They Confuse Patients and Fixes"
 date: 2026-01-27T23:29:00+00:00
 description: ""

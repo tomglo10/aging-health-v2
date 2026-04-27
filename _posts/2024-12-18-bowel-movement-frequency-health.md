@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Pooping More Often: A Key to Better Health?"
 date: 2024-12-18
 description: "New 2026 research identifies a Goldilocks zone for bowel frequency that supports the microbiome and reduces chronic disease risk."

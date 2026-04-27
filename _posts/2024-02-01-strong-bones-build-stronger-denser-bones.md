@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Strong Bones: Build Stronger, Denser Bones at Any Age"
 date: 2024-02-01
 description: "A clinical guide to osteogenic loading, nutrient synergy, and building bone density to preserve independence at any age."

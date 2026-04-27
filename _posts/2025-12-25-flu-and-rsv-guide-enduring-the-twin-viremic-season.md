@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Flu and RSV Guide: Enduring the \"Twin-Viremic\" Season"
 date: 2025-12-25T05:55:00+00:00
 description: "An in-depth guide to understanding flu and RSV symptoms, diagnostic testing, and the latest antiviral treatments to empower patient healthcare convers"

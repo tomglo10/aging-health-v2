@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Bird Flu Outbreak: Separating Fact from Fear (2026 Update)"
 date: 2024-05-17T21:24:00+00:00
 description: "Explore the risks of bird flu to humans and stay protected. Get updates on recent outbreaks, risk factors, and safety measures to prevent infection."

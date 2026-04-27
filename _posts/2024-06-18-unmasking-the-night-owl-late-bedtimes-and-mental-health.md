@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Unmasking the Night Owl: Late Bedtimes and Mental Health"
 date: 2024-06-18T02:19:00+00:00
 description: "Staying up late can impact your mood. Learn how consistent sleep schedules and healthy bedtime routines can be game changers for your mental health."

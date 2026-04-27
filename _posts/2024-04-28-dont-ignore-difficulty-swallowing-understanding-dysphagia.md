@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Don't Ignore Difficulty Swallowing: Understanding Dysphagia"
 date: 2024-04-28T10:20:00+00:00
 description: ""

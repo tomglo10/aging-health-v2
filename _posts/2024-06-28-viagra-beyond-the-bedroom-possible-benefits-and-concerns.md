@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Viagra Beyond the Bedroom: Possible Benefits and Concerns "
 date: 2024-06-28T08:16:00+00:00
 description: "Does Viagra's use extend beyond erectile dysfunction? Exploring potential benefits, safety, dosage, and alternatives for improved well-being."

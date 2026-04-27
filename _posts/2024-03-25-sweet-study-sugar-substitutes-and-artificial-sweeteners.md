@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "SWEET Study: Sugar Substitutes and Artificial Sweeteners"
 date: 2024-03-25T02:09:00+00:00
 description: ""

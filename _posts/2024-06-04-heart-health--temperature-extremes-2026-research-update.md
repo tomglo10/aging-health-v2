@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Heart Health & Temperature Extremes: 2026 Research Update"
 date: 2024-06-04T19:13:00+00:00
 description: "Learn how extreme cold and rising heat impact heart attack risk. A 2026 update for patients with heart failure, obesity, and hypertension."

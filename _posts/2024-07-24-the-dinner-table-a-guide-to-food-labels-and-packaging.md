@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Dinner Table: A Guide to Food Labels and Packaging "
 date: 2024-07-24T20:15:00+00:00
 description: "Find food labels confusing? Discover the history of food packaging, acquire new shopping skills, and become familiar with terminology and ingredients!"

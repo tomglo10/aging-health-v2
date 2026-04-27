@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Recent Breakthroughs in Anti-Aging Research"
 date: 2024-05-05T22:14:00+00:00
 description: "Discover the latest breakthroughs in anti-aging research. Explore innovative studies and advancements that promise to enhance longevity and vitality."

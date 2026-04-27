@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Sepsis: A Medical Emergency You Can't Ignore"
 date: 2024-01-05T01:12:00+00:00
 description: "Sepsis is a life-threatening condition. This article helps you recognize its septic symptoms and take action to protect yourself and your loved ones."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Optimizing the Path from Diagnosis to IBD Treatment"
 date: 2024-06-26T13:12:00+00:00
 description: "Why is IBD diagnosis so lengthy? Explore a new 12-point plan to streamline Crohn’s and Colitis care and improve patient health."

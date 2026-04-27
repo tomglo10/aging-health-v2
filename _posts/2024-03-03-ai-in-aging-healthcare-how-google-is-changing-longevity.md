@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI in Aging Healthcare: How Google Is Changing Longevity"
 date: 2024-03-03T17:12:00+00:00
 description: "Explore how AI in aging healthcare—led by Google—is transforming medical research, longevity, and patient care."

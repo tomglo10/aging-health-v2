@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Navigating Life When Your Spouse Has a Chronic Illness"
 date: 2025-12-17T23:37:00+00:00
 description: "Find useful advice for senior spouses caring for partners with chronic illnesses. Learn how to manage burnout and access caregiver support in 2025."

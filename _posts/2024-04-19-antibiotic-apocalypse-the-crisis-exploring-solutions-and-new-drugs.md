@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Antibiotic Apocalypse: the Crisis, Exploring Solutions, and New Drugs "
 date: 2024-04-19T22:13:00+00:00
 description: "The growing crisis of antibiotic resistance, its impact, and the new drug race. Solutions, responsible use, and keeping antibiotics effective."

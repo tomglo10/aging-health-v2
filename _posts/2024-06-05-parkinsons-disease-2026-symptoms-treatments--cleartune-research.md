@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Parkinson’s Disease 2026: Symptoms, Treatments & Cleartune Research"
 date: 2024-06-05T14:58:00+00:00
 description: "Parkinson’s Disease in 2026, featuring the alpha-synuclein assay, Cleartune DBS algorithm, and strategies for managing motor and non-motor symptoms."

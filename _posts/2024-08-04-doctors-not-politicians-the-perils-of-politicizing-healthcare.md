@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Doctors, Not Politicians: The Perils of Politicizing Healthcare"
 date: 2024-08-04T00:01:00+00:00
 description: "Ensuring patient health needs medical expertise, not political agendas. It is vital to keep politics separate from the patient's right to healthcare."

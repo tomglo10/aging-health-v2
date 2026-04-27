@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Unlocking the Secrets to a Successful Doctor Visit"
 date: 2023-12-16T21:37:00+00:00
 description: "Tips on getting the most from doctor visits include planning, bringing medical records, and keeping track of any changes in your symptoms."

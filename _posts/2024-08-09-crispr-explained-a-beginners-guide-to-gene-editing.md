@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "CRISPR Explained: A Beginner's Guide to Gene Editing"
 date: 2024-08-09T22:10:00+00:00
 description: "Decipher the complex world of CRISPR gene editing with this explanatory guide, understanding how it works, its potential, and why it's a game-changer."

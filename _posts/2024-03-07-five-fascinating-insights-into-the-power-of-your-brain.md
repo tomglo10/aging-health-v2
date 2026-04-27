@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Five Fascinating Insights into the Power of Your Brain"
 date: 2024-03-07T18:05:00+00:00
 description: "Your brain is an intricate marvel, constantly shaping who you are and how you experience the world. About your brain and unlock its hidden potential!"

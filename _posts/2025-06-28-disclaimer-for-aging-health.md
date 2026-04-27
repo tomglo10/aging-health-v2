@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Disclaimer for Aging Health"
 date: 2025-06-28T07:56:00+00:00
 description: "Discover essential information on medical, legal, and financial topics. Remember, this content is not a substitute for professional advice."

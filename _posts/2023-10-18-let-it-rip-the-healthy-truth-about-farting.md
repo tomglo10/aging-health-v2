@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Let It Rip: The Healthy Truth About Farting"
 date: 2023-10-18
 description: "A science-backed look at gas, gut health, and why passing wind is a critical sign of a functioning digestive system."

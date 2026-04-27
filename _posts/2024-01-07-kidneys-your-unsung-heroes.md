@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Kidneys - Your Unsung Heroes "
 date: 2024-01-07T21:25:00+00:00
 description: "Your kidneys are two little bean-shaped organs under the ribs on your back. They help clean your blood by getting rid of waste and extra water."

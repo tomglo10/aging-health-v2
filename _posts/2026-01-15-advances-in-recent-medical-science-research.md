@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Advances In Recent Medical Science Research"
 date: 2026-01-15T23:08:00+00:00
 description: "Medical science advances in 2026 showcase AI diagnostics, gene therapy, spatial biology, and early‑detection tools that improve senior health outcomes"

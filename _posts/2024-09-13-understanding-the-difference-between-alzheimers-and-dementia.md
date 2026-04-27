@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding the Difference Between Alzheimer's and Dementia"
 date: 2024-09-13T12:32:00+00:00
 description: "Discover the differences between Alzheimer’s and dementia. This guide covers symptoms, causes, and treatment options for caregivers and families."

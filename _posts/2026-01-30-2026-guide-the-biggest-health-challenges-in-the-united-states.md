@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "2026 Guide: The Biggest Health Challenges in the United States"
 date: 2026-01-30T18:24:00+00:00
 description: ""

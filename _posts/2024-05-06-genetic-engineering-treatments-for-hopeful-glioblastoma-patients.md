@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Genetic Engineering Treatments for Hopeful Glioblastoma Patients"
 date: 2024-05-06T23:03:00+00:00
 description: "Discover the latest advancements in genetic engineering for brain tumors, including a promising new immunotherapy for glioblastoma treatment."

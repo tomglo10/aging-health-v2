@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Erosive Esophagitis: Causes, Symptoms, and Treatment Options "
 date: 2024-04-26T21:50:00+00:00
 description: "Erosive esophagitis causes inflammation and damage to the esophagus lining. Discover the symptoms, causes, and treatment options for complete healing."

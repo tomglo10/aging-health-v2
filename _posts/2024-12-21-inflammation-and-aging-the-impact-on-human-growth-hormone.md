@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Inflammation and Aging: The Impact on Human Growth Hormone"
 date: 2024-12-21T15:51:00+00:00
 description: "Explore the connection between inflammation and aging. Chronic inflammation can lower human growth hormone levels leading to faster aging and lethargy"

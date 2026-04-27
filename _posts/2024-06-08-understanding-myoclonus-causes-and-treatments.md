@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Myoclonus: Causes and Treatments"
 date: 2024-06-08T13:05:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Silent Epidemic: Recognizing Undiagnosed Mild Cognitive Impairment"
 date: 2024-03-22T22:37:00+00:00
 description: ""

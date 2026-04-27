@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Beyond the Brain: The Surprising Intelligence of Simple Cells"
 date: 2024-09-10T23:50:00+00:00
 description: "Explore the remarkable mental capacities of simple cellular structures that question our conventional understandings of what constitutes intelligence."

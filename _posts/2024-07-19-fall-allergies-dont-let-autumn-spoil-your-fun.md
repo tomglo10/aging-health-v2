@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Fall Allergies: Don't Let Autumn Spoil Your Fun!"
 date: 2024-07-19T17:52:00+00:00
 description: ""

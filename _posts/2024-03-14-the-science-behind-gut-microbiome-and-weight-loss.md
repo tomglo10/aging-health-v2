@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Science Behind Gut Microbiome and Weight Loss"
 date: 2024-03-14T02:27:00+00:00
 description: "How the gut microbiome influences metabolism, insulin resistance, and weight loss. Learn science-backed strategies to reset your gut flora today."

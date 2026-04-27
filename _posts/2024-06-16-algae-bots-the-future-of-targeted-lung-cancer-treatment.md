@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Algae-Bots: The Future of Targeted Lung Cancer Treatment?"
 date: 2024-06-16T22:52:00+00:00
 description: "Scientists create microscopic robots from algae that carry chemotherapy drugs directly to lung tumors and may offer hope to lung cancer patients."

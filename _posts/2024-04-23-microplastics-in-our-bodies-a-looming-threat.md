@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Microplastics in Our Bodies: A Looming Threat? "
 date: 2024-04-23T18:40:00+00:00
 description: ""

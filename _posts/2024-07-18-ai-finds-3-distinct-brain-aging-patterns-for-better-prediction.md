@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI Finds 3 Distinct Brain Aging Patterns for Better Prediction"
 date: 2024-07-18T19:31:00+00:00
 description: "Artificial intelligence sheds light on brain aging! Discover three distinct patterns: dementia risk and the path to personalized prevention strategies."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Metabolic Syndrome Criteria and Health Risks in Psoriasis"
 date: 2026-01-24T16:53:00+00:00
 description: ""

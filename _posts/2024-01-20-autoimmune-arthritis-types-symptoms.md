@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Autoimmune Arthritis: Types, Symptoms, and Therapy"
 date: 2024-01-20
 description: "A clinical guide to identifying and managing various forms of autoimmune arthritis, including RA, PsA, and Lupus-related joint pain."

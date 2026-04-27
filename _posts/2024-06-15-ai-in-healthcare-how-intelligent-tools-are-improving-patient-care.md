@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI in Healthcare: How Intelligent Tools Are Improving Patient Care"
 date: 2024-06-15T11:43:00+00:00
 description: "Explore how AI in healthcare improves diagnosis, safety, and patient‑doctor collaboration with real-world examples."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Sustainable Living: A Green, Healthy Life That Truly Lasts"
 date: 2023-10-29
 description: "A patient-centered guide connecting green choices with better heart health, respiratory function, and metabolic stability."

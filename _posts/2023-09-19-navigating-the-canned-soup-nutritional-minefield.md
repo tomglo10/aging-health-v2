@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Navigating the Canned Soup Nutritional Minefield"
 date: 2023-09-19T01:44:00+00:00
 description: "Decode canned soup labels to spot hidden sodium and additives, and choose safer options, especially for those with heart, kidney, or metabolic conditions."

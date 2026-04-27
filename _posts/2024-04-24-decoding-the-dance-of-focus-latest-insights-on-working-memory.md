@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Decoding the Dance of Focus: Latest Insights on Working Memory"
 date: 2024-04-24T14:45:00+00:00
 description: "Recent scientific discoveries on how brain cells coordinate focus and short-term storage hold promise for improving memory-related treatments."

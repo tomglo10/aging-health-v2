@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Unmasking Alpha-1: The Hidden Gene Link Between Lung & Liver Health"
 date: 2025-12-04T21:35:00+00:00
 description: ""

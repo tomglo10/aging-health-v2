@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "NIA's 50-Year History of Aging and Alzheimer's Research "
 date: 2024-02-04T15:21:00+00:00
 description: ""

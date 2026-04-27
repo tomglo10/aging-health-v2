@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gut Revolution: Small Intestine Secrets on Health And Brain Benefits"
 date: 2024-06-21T18:51:00+00:00
 description: "Discover the mysteries of your gut! New research on the small intestine has revealed novel ways to enhance digestion, gut health, and brain function."

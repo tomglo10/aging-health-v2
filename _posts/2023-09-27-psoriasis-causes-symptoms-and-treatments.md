@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Psoriasis: Personal Advocacy and Systemic Research"
 date: 2023-09-27
 description: "A 4-year journey through plaque psoriasis and the transition to psoriatic arthritis, combined with a guide to navigating the biologic paywall."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Demystifying Medical Information: Understanding Complex Medical Terms"
 date: 2024-05-16T19:41:00+00:00
 description: ""

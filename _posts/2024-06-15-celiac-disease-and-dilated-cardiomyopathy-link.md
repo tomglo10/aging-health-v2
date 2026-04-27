@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Celiac Disease and Dilated Cardiomyopathy Link"
 date: 2024-06-15T11:40:00+00:00
 description: "Learn how celiac disease may relate to dilated cardiomyopathy, symptoms, risks, and when to screen for heart complications."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Leaky Gut Syndrome: Fact or Fiction?"
 date: 2023-12-16
 description: "Separating medical hype from science regarding intestinal permeability and its impact on senior health."

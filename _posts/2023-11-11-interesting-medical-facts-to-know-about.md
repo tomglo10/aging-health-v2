@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Interesting Medical Facts to Know About"
 date: 2023-11-11T15:33:00+00:00
 description: "Discover unusual and intriguing medical facts that reveal the astonishing complexities of the human body that highlight the oddities of our health."

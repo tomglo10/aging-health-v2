@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Social Economics and Its Impact on Our World"
 date: 2024-01-09T00:36:00+00:00
 description: "As we reach beyond superficial labels, social economics emerges as a powerful tool connecting money and humanity, and provides a brighter future."

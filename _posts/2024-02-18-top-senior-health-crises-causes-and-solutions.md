@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Top Senior Health Crises Causes and Solutions"
 date: 2024-02-18T08:49:00+00:00
 description: ""

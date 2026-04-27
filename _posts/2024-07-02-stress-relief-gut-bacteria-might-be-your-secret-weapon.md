@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Stress Relief: Gut Bacteria Might Be Your Secret Weapon"
 date: 2024-07-02T19:15:00+00:00
 description: "Are you feeling stressed? Your gut bacteria might play a role! Find out how a healthy microbiome can boost resilience. #stress #guthealth #wellbeing"

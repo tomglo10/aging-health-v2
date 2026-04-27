@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Tips to Stay Active and Healthy After 50"
 date: 2025-10-06
 description: "Explore effective strategies for Baby Boomers to maintain an active lifestyle. Learn how to age gracefully and enjoy every moment of life!"

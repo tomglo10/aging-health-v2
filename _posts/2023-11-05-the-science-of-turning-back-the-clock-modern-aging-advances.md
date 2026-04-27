@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Science of Turning Back the Clock: Modern Aging Advances"
 date: 2023-11-05T14:46:00+00:00
 description: "A guide to the latest science on turning back the clock, including advances, therapies, decision tools, glossary, FAQs, and real‑life case studies."

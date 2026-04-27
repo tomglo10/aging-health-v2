@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "WHO’s Intrinsic Capacity Framework Explained"
 date: 2026-01-28T05:17:41+00:00
 description: ""

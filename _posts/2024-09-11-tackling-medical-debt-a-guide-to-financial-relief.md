@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Tackling Medical Debt: A Guide to Financial Relief"
 date: 2024-09-11T20:37:00+00:00
 description: "Are you struggling with medical debt? To achieve financial freedom, educate yourself on debt relief programs, credit counseling, and negotiation tips."

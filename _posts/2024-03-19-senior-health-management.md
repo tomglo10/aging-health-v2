@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Importance of Senior Health Management"
 date: 2024-03-19
 description: "A clinical look at why proactive health management is the strongest predictor of healthy aging and independence."

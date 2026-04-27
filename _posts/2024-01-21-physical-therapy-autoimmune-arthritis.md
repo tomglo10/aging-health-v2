@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Physical Therapy: Benefits for Autoimmune Arthritis Patients"
 date: 2024-01-21
 description: "How customized physical therapy improves joint function, reduces systemic inflammation, and empowers patients to manage chronic flares."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Avoid Norovirus: Proven Strategies for to Stay Safe"
 date: 2024-03-16T13:11:00+00:00
 description: ""

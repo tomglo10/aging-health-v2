@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Family Health Vaccines: Choosing Pharmacies or Clinics for Care"
 date: 2023-08-30
 description: "Learn how pharmacies and clinics support family vaccination needs, including safety, convenience, eligibility, and how to choose the right setting for each family member."

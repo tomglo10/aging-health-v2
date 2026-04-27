@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gluten-Linked Issues You May Not Know"
 date: 2023-10-08
 description: "Research from 2024-2025 highlights the complex link between gluten exposure, intestinal permeability, and neurological symptoms."

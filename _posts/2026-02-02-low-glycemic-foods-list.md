@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A Low-Glycemic Foods List for Sugar Management"
 date: 2026-02-02
 description: "Master blood sugar with the senior guide to low-glycemic living and vascular defense."

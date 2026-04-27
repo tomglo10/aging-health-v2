@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Social Security 2025: Your Guide to Upcoming Changes"
 date: 2023-12-18T02:47:00+00:00
 description: "By staying informed engaged and taking these simple actions, the average person can make a significant difference in the future of Social Security."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Do Biologic Therapies Reduce Mortality in Psoriasis?"
 date: 2026-01-24T18:04:00+00:00
 description: ""

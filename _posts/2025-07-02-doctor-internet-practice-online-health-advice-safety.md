@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Doctor Internet: Practice Online Health Advice Safety"
 date: 2025-07-02T19:06:00+00:00
 description: "Understand the risks of online medical advice. Distinguish reliable information from misleading content, and seeking professional for medical advice."

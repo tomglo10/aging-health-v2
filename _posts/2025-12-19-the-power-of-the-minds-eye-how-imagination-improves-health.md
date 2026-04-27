@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Power of the Mind's Eye: How Imagination Improves Health"
 date: 2025-12-19T23:32:00+00:00
 description: "Discover how your thoughts and dreams influence your biology. Learn to harness your imagination for a vibrant, youthful life and age with vitality."

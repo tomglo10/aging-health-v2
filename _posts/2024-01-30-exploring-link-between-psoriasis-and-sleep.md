@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Exploring the Link Between Psoriasis and Sleep"
 date: 2024-01-30
 description: "How poor sleep and skin inflammation create a bidirectional cycle that affects metabolic health and quality of life."

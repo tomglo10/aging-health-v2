@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Contact & Corrections"
 date: 2025-08-09T20:45:00+00:00
 description: "Reach out to us with any questions or concerns. Our dedicated team is here to assist you promptly and ensure your needs are met. Contact us today!"

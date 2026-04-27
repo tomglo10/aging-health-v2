@@ -1,5 +1,5 @@
 ---  
-layout: single  
+layout: post  
 title: "Celiac Disease: Unveiling the Gluten Connection"  
 date: 2024-07-16  
 description: "An in-depth clinical exploration of the autoimmune processes involved in Celiac disease, the challenges of delayed diagnosis, and approaches to relief specifically for seniors."  

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Path to Safer Vaccines: What Needs to Change?"
 date: 2025-06-27T02:42:00+00:00
 description: "Explore the untold story of vaccine safety and the experiences of those like Brianne Dressen, who faced unexpected health challenges post-vaccination."

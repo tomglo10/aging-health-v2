@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "What Foods Can Lower or Raise Testosterone Levels?"
 date: 2023-12-01T20:48:00+00:00
 description: "Optimize Your Hormones: Discover Foods That Influence Testosterone Levels and Effective Strategies to Boost Testosterone Naturally"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Evolving Mind: Embracing the Wisdom of the Aging Brain"
 date: 2025-07-07T11:52:00+00:00
 description: "Uncover the hidden potential of the aging brain. Learn about cognitive shifts, enhanced wisdom, and how to nurture your mind for lifelong vitality."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Improve Brainpower: Choline, the Vital Nutrient You May Be Missing"
 date: 2024-07-08T18:02:00+00:00
 description: " Are you feeling foggy? Choline can boost memory, mood & more! Learn about this vital nutrient and supercharge your brainpower. #choline #brainhealth"

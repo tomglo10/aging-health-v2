@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Smiling Through the Decades: Oral Health Care for Seniors"
 date: 2024-04-23T13:53:00+00:00
 description: "Keeping older Americans’ teeth and gums healthy is crucial for overall well-being, but Medicare rarely covers dental costs. Affordable options."

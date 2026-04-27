@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Exploring Vitamin D's Role in Senior Health"
 date: 2024-03-19
 description: "A comprehensive look at the advantages and potential risks of Vitamin D supplements for older adults."

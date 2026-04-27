@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mind Over Matter: Brain's Control Over the Immune System"
 date: 2024-07-27T16:04:00+00:00
 description: "The brain regulates the immune system, challenging the mind-body problem. Interesting new research offers groundbreaking insights and potential issues"

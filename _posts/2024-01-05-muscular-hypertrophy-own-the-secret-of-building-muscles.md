@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Muscular Hypertrophy: Own the Secret of Building Muscles"
 date: 2024-01-05T23:40:00+00:00
 description: "Embrace the science behind muscular hypertrophy and uncover the key to shaping your physique and achieving the strength and muscle growth you desire."

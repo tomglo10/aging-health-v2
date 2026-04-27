@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Breathe Easy: New Treatments for Obstructive Sleep Apnea"
 date: 2024-06-23T19:59:00+00:00
 description: "Millions struggle with sleep apnea. Discover new options like Tirzepatide, hypoglossal nerve stimulation, & oral appliances to get restful sleep."

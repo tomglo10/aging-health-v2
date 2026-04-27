@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Diverticulitis vs. Crohn's Disease: A Gut Inflammation Review"
 date: 2024-07-01T13:18:00+00:00
 description: "Discover what makes Crohn's disease and diverticulitis different! Learn about gut inflammation's symptoms, causes, diagnosis, and treatment options."

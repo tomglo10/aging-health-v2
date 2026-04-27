@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "From Teeth to Bones: Can Xylitol Can Transform Your Well-being?"
 date: 2025-10-26T07:43:00+00:00
 description: "Xylitol's holistic health benefits for teeth, bones, immunity, and gut health. Discover how this natural sweetener enhances well-being."

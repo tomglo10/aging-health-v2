@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Connection Between Falls and Traumatic Brain Injury"
 date: 2025-10-06T01:37:00+00:00
 description: "Explore the connection between falls and traumatic brain injury in seniors. Find essential tips for prevention and ensuring safety for your aging love"

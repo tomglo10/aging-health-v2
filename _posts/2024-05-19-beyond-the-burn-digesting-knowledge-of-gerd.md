@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Beyond the Burn: Digesting Knowledge of GERD"
 date: 2024-05-19T15:06:00+00:00
 description: "Take heartburn seriously. GERD can mimic heart attack chest pain, disrupt sleep, and cause long‑term esophagus damage, especially in older adults."

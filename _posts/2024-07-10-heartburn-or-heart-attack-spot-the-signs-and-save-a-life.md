@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Heartburn or Heart Attack? Spot the Signs and Save a Life"
 date: 2024-07-10T18:47:00+00:00
 description: "Chest pain? Don't panic! Learn to differentiate heartburn from a heart attack & take the right course of action. #heartburn #heartattack #chestpain"

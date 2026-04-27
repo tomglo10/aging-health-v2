@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Our Poor Night Vision Driving and Seeing in the Dark"
 date: 2024-02-03T22:45:00+00:00
 description: "Poor night vision can affect various aspects of life, limit what we do after dark, when behind the wheel is dangerous, and make it hard to read a menu"

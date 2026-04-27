@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Unveiling Dangers: How Movie Tropes Can Impact Real-Life Safety"
 date: 2025-12-01T01:18:00+00:00
 description: "The 24-hour missing person rule from movies is a myth. Learn the real health and legal risks of delaying a report and how TV tropes can harm your fami"

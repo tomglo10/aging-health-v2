@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Brain Health Secrets: Exploring Neuroplasticity Benefits"
 date: 2026-01-09T02:59:15+00:00
 description: "How Cognitive Reserve and Neuroplasticity protect your brain's health. Understand the science behind staying mentally sharp throughout your life."

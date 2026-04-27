@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Building Life From Scratch: Artificial Cell Research in 2024"
 date: 2024-05-03T09:05:00+00:00
 description: ""

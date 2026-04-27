@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Seniors Chair Yoga: Strength, Mobility, and Balance"
 date: 2025-01-11T21:49:00+00:00
 description: "Seniors don't pay to learn Chair Yoga. Find out how to improve strength flexibility, and balance, and reduce stress with easy-to-follow exercises."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Masters of Cells: Understanding the Role of Pathologists"
 date: 2024-05-17T06:41:00+00:00
 description: ""

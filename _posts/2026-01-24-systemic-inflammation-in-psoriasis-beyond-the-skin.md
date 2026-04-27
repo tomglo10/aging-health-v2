@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Systemic Inflammation in Psoriasis: Beyond the Skin"
 date: 2026-01-24T14:48:00+00:00
 description: ""

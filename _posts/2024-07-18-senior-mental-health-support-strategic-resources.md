@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Senior Mental Health Support: Strategic Resources "
 date: 2024-07-18T13:16:00+00:00
 description: "Empower seniors with the tools and knowledge needed to maintain good mental health. Visit our website for relevent strategies and helpful resources."

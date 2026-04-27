@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mind Matters: Diabetes: What Patients Want to Know"
 date: 2026-04-12
 image: "/assets/images/diabetes.webp"

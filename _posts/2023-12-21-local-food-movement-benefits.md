@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Local Food Movement Benefits: Getting the Best Products"
 date: 2023-12-21
 description: "Why buying from local food producers is a vital step toward a healthier, more sustainable future for seniors."

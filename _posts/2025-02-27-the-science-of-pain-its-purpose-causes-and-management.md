@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Science of Pain: Its Purpose, Causes, and Management"
 date: 2025-02-27T18:25:00+00:00
 description: ""

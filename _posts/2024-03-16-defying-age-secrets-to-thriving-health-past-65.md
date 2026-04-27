@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Defying Age: Secrets to Thriving Health Past 65"
 date: 2024-03-16T13:12:00+00:00
 description: ""

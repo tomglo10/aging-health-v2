@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Breathe Easy: How HVAC Maintenance Impacts Your Health"
 date: 2023-08-23
 description: "A guide to how seasonal HVAC maintenance improves indoor air quality, reduces respiratory risks, and promotes overall wellness."

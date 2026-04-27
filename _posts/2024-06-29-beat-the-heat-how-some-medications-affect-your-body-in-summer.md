@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Beat the Heat: How Some Medications Affect Your Body in Summer"
 date: 2024-06-29T22:17:00+00:00
 description: ""

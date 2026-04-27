@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Watchman Device: Minimally Invasive Heart Technology"
 date: 2024-01-17
 description: "A patient-centered review of the Watchman implant as a stroke-prevention alternative for those who cannot tolerate blood thinners."

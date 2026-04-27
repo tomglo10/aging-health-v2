@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How Omega-3s Can Boost Your Lung Health"
 date: 2024-03-11T23:02:00+00:00
 description: "Omega-3 fatty acids are essential for heart, brain, and lung health. Learn how they improve respiratory function and find out where to get them."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Proteomic Fingerprint: Can 63 Proteins Predict Your Brain Age?"
 date: 2024-07-07T21:31:00+00:00
 description: "Why does your brain age differently? Learn about the 2026 \"Brain Age Gap\" and how proteins like GFAP and NEFL predict dementia risk early."

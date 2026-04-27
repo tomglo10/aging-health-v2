@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Brain's Orchestra: The Gene Regulation Networks"
 date: 2024-07-21T20:39:00+00:00
 description: "NIH-funded scientists map gene networks in the brain, showing how genes interact to influence brain development and function across various disorders."

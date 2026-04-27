@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Healthspan Not Only Living Long but Living Well"
 date: 2024-03-06T18:08:00+00:00
 description: "Closing the gap between lifespan and healthspan. Researcher Tommy T. Douglas explores ApoB, Lp(a), and the gut-heart connection for healthy aging."

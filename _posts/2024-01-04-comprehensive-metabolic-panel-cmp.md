@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "CMP: Your Comprehensive Metabolic Panel Blood Test"
 date: 2024-01-04
 description: "A patient-centered guide to understanding the 14 markers in a CMP, from liver enzymes to kidney function."

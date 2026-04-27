@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Managing High Blood Pressure in Older Adults"
 date: 2023-12-14T12:41:00+00:00
 description: "Managing high blood pressure is a journey, not a destination.. Celebrate small victories, stay motivated, and enjoy the rewards of a healthier you."

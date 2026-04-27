@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Deciphering Epilepsy: Symptoms, Causes, and 2026 Treatments"
 date: 2024-06-13T16:04:00+00:00
 description: "A comprehensive 2026 guide to epilepsy symptoms, causes, and therapies. Learn how to manage seizures and navigate the path to recovery."

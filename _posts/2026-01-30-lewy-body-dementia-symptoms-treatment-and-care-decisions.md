@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Lewy Body Dementia: Symptoms, Treatment, and Care Decisions"
 date: 2026-01-30T20:21:00+00:00
 description: ""

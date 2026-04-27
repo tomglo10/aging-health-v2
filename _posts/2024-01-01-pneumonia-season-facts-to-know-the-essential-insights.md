@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Pneumonia Season Facts to Know the Essential Insights "
 date: 2024-01-01T03:22:00+00:00
 description: "Pneumonia is an inflammation of the air sacs in the lungs. There are three causes of pneumonia: bacteria, viruses, or fungi. "

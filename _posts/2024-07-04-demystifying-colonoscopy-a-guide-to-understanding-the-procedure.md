@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Demystifying Colonoscopy: A Guide to Understanding the Procedure"
 date: 2024-07-04T12:07:00+00:00
 description: "What is a colonoscopy, and do you need one? Learn about the procedure, preparation steps, potential risks, and how to ensure a comfortable experience."

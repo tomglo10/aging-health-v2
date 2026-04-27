@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Burden Unseen: How Anxiety Accelerates Aging "
 date: 2025-04-15T19:23:00+00:00
 description: "Learn how chronic anxiety affects aging and learn effective strategies for healthier living. Improve your body and mind for a better quality of life."

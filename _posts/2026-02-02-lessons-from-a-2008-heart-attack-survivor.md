@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Lessons from a 2008 Heart Attack Survivor"
 date: 2026-02-02
 description: "A personal look at the link between Type 2 Diabetes and cardiovascular events, including the role of GLP-1 medications in vascular protection."

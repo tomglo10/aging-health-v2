@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Socioeconomic Status and Aging: A Healthcare Perspective"
 date: 2025-01-04T01:29:00+00:00
 description: "Socioeconomics impacts older adults' health. How income, education, and social factors influence access to healthcare, outcomes, and quality of life."

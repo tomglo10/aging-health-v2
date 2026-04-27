@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Ripple Effect: Immigration's Impact on Caregiving"
 date: 2025-04-06T22:14:00+00:00
 description: "The effects of immigration crackdowns on the caregiving sector and how families are bearing the burden. Understand the challenges and solutions."

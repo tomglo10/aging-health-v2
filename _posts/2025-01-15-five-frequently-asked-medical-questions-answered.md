@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "  Five Frequently Asked Medical Questions Answered"
 date: 2025-01-15T21:23:00+00:00
 description: "Get informed with expert responses to the top 5 medical questions. Get clarity on essential health topics and make informed decisions for your health."

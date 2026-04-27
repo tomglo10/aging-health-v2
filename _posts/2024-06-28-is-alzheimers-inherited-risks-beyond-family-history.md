@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Is Alzheimer's Inherited? Risks Beyond Family History"
 date: 2024-06-28T14:46:00+00:00
 description: "Concerned about Alzheimer's? Discover new risk factors and learn how lifestyle and environment can influence brain health. Craft your prevention plan."

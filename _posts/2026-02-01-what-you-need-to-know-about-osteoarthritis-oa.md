@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "What You Need to Know About Osteoarthritis (OA):"
 date: 2026-02-01T02:45:00+00:00
 description: "Osteoarthritis (OA), also known as \"wear-and-tear\" arthritis, is the most common form of arthritis, impacting millions worldwide."

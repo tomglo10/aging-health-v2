@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Intermittent Fasting: Cutting the Hype, Debunking Myths"
 date: 2024-08-16T06:57:00+00:00
 description: "Intermittent fasting has different formats that involve defined periods of eating or not. Studies suggest benefits beyond mere weight loss. "

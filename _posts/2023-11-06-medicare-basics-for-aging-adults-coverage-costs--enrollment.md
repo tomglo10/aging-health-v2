@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Medicare Basics for Aging Adults: Coverage, Costs & Enrollment"
 date: 2023-11-06T21:53:00+00:00
 description: "A guide to Medicare basics, including Parts A–D, enrollment, costs, coverage options, decision tools, glossary, FAQs, and real‑life case studies."

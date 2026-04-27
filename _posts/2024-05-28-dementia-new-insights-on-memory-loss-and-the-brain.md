@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Dementia: New Insights on Memory Loss and the Brain"
 date: 2024-05-28T14:34:00+00:00
 description: "Recent studies on dementia, such as olive oil benefits, lucidity before death, symptomless Alzheimer's, sleep apnea effects and the superager's brain."

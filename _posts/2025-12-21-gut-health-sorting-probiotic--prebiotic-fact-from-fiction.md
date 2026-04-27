@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gut Health: Sorting Probiotic & Prebiotic Fact from Fiction "
 date: 2025-12-21T04:03:00+00:00
 description: "The real science behind probiotics & prebiotics for seniors. Cut through the marketing hype to boost gut health, immunity, and overall well-being."

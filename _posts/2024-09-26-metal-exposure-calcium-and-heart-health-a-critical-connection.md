@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Metal Exposure, Calcium, and Heart Health: A Critical Connection"
 date: 2024-09-26T22:30:00+00:00
 description: "Metal exposure can harm heart health, especially as we age. Learn about the connection between heavy metals, calcium, and heart health. #aging"

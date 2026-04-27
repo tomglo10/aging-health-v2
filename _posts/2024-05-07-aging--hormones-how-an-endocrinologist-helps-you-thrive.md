@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Aging & Hormones: How an Endocrinologist Helps You Thrive"
 date: 2024-05-07T00:15:00+00:00
 description: "A patient-friendly guide to explain the role of an endocrinologist, the impact of hormonal changes on aging, when to seek care, and potential therapy."

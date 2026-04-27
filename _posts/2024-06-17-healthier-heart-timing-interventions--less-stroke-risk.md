@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Healthier Heart: Timing Interventions & Less Stroke Risk"
 date: 2024-06-17T19:03:00+00:00
 description: ""

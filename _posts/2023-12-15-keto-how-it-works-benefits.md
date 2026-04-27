@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Keto Diet: Metabolic Mechanisms and Neurological Benefits"
 date: 2026-04-16
 description: "A clinical review of how the ketogenic diet impacts ketosis, blood sugar control, and neurodegenerative conditions like Alzheimer's."

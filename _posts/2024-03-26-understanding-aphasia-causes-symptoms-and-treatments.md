@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Understanding Aphasia: Causes, Symptoms, and Treatments"
 date: 2024-03-26T23:38:00+00:00
 description: ""

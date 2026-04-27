@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Don't Be a Statistic: Heart Attack Prevention, Signs & What to Do "
 date: 2024-05-15T00:16:00+00:00
 description: "Protect your heart! Learn ways to avoid heart attacks, identify symptoms in men and women, and know what to do in case of an emergency to save lives."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Key Insights Blood Tests Reveal About Your Health"
 date: 2024-10-16T00:27:00+00:00
 description: "Blood tests can determine current and future health, including a test for Alzheimer's, long-term prediction of heart disease in women, and more."

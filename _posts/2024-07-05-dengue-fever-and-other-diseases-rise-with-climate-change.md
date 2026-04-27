@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Dengue Fever and Other Diseases Rise with Climate Change"
 date: 2024-07-05T21:24:00+00:00
 description: "Dengue fever, Zika, and more are spreading due to climate change. Learn the symptoms, treatments, prevention methods, and how worried we should be."

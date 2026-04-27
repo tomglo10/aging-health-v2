@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Cultivating Critical Thinking Skills and Self-Awareness:"
 date: 2024-04-04T07:02:00+00:00
 description: "Critical thinking and self-awareness are essential tools for world navigation. We will learn how to improve these skills and make informed decisions."

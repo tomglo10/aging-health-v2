@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Anti-Aging News: Lab-Grown Retinas, Brain Tissue +3D"
 date: 2024-02-29T21:08:00+00:00
 description: "Explore the world of lab-grown retinas, brain tissue, and anti-aging breakthroughs in medical science for a brighter future in healthcare."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "High Blood Pressure: The Silent Killer Explained"
 date: 2024-06-15T17:52:00+00:00
 description: "Unchecked high blood pressure increases heart disease and stroke risk. Learn symptoms, causes, treatments, and self-protection. #Health #Hypertension"

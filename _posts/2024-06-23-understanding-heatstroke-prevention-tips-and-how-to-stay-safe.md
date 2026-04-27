@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Heatstroke, Prevention Tips, and How to Stay Safe"
 date: 2024-06-23T19:46:00+00:00
 description: "Beating the summer heat is important for our health. Let us explore heatstroke, prevention methods, and how to stay safe during scorching temperatures"

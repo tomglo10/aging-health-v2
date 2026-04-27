@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI Brain Analysis for Neurologic Disorder Diagnosis"
 date: 2024-06-13T23:11:00+00:00
 description: "Explore AI brain analysis for neurologic disorder diagnosis, real cases, risks, benefits, and how to use AI insights in care decisions."

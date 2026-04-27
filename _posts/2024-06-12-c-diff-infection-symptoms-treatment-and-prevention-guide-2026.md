@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "C. Diff Infection: Symptoms, Treatment, and Prevention Guide 2026"
 date: 2024-06-12T19:28:00+00:00
 description: "Learn the symptoms, latest treatments, and prevention strategies for C. Diff infection. Empowering patients with 2026 medical insights."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Five Bizarre Medical Mysteries That Have Baffled Scientists"
 date: 2023-12-10T04:18:00+00:00
 description: "Five medical mysteries, like spontaneous human combustion and alien hand syndrome, have long challenged researchers and our view of the human body."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Adapting to HealthCare's New Realities"
 date: 2025-06-30T18:28:00+00:00
 description: "Navigate modern healthcare with insights on telemedicine, affordability, and insurance. Empower yourself to engage with providers and policymakers."

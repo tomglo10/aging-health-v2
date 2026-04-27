@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Polio's Haunting Return: The Danger of Outlawing Vaccines"
 date: 2024-12-16T21:22:00+00:00
 description: "Outlawing the polio vaccine would be a catastrophic mistake. Discover the impact on public health and the potential resurgence of a crippling disease."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Sleep and Heart Health: Catching Up on Sleep Protects Your Heart"
 date: 2025-01-05T16:50:00+00:00
 description: ""

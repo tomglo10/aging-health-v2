@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gut-Heart Connection: GERD and Microbiome Health Impact"
 date: 2024-08-02T14:47:00+00:00
 description: "How is GERD linked to atrial fibrillation? Explore the gut-heart connection and how gut bacteria impact health, mental health, and Crohn's disease."

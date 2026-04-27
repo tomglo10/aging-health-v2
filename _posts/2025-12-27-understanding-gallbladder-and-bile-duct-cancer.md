@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Gallbladder and Bile Duct Cancer"
 date: 2025-12-27T21:33:18+00:00
 description: ""

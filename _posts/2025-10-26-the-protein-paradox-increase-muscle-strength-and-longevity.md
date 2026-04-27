@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Protein Paradox: Increase Muscle Strength and Longevity"
 date: 2025-10-26T23:03:00+00:00
 description: "The protein paradox: How to optimize protein intake with leucine and include resistance training to combat sarcopenia. and enhance longevity."

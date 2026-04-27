@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Connection of Glucose Metabolism and Alzheimer's "
 date: 2025-01-16T07:25:00+00:00
 description: ""

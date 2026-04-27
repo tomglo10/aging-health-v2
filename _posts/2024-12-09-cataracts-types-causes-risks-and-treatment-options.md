@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Cataracts: Types, Causes, Risks, and Treatment Options"
 date: 2024-12-09T00:59:00+00:00
 description: "Cataracts are a common eye condition that causes lens clouding and vision impairment. They can result from age, genetics, and environmental factors. "

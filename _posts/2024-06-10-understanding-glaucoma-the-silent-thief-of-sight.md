@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Glaucoma: The Silent Thief of Sight"
 date: 2024-06-10T00:04:00+00:00
 description: "Glaucoma is a leading cause of irreversible blindness. Learn symptoms, risk factors, diagnosis, and modern treatments to protect your vision."

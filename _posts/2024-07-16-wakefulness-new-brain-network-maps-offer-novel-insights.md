@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Wakefulness: New Brain Network Maps Offer Novel Insights"
 date: 2024-07-16T22:46:00+00:00
 description: "An NIH-funded research study has mapped a critical neural network for wakefulness, offering insights into consciousness and potential coma treatments."

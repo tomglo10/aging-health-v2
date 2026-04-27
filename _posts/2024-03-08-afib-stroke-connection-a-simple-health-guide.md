@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AFib Stroke Connection: A Simple Health Guide"
 date: 2024-03-08T05:38:00+00:00
 description: "Understand the 2026 link between AFib and stroke, the new BE-FAST warning signs, new prevention guides, and how lifestyle triggers affect brain health"

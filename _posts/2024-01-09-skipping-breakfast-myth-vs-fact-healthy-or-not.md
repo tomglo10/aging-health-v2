@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Skipping Breakfast: Myth vs. Fact Healthy or Not"
 date: 2024-01-09T16:53:00+00:00
 description: "Skipping breakfast is not good because it is the \"most important meal of the day.\" Right? Well, maybe not."

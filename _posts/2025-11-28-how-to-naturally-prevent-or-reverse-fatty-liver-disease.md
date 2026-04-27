@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How to Naturally Prevent or Reverse Fatty Liver Disease "
 date: 2025-11-28T06:40:00+00:00
 description: ""

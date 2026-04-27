@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Wet Age-Related Macular Degeneration (Wet AMD): Need to Know"
 date: 2024-05-18T00:50:00+00:00
 description: ""

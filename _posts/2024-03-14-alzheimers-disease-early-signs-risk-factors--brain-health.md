@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Alzheimer’s Disease: Early Signs, Risk Factors & Brain Health"
 date: 2024-03-14T14:57:00+00:00
 description: "Learn early signs of Alzheimer’s disease, proven risk factors, brain‑healthy habits, and how lifestyle choices may reduce dementia risk."

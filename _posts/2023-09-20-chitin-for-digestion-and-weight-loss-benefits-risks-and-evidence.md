@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Chitin: A Unique Fiber for Senior Digestion and Metabolic Health"
 date: 2023-09-20
 description: "Is chitin the 'missing link' in senior gut health? Explore the evidence behind mushrooms, shellfish fiber, and the AMCase enzyme."

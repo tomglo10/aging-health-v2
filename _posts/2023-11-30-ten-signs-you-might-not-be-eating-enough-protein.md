@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Ten Signs You Might Not Be Eating Enough Protein"
 date: 2023-11-30T18:26:00+00:00
 description: "Proteins perform several essential functions. Proteins are constructed of amino acids and serve as the building blocks for life's intricate processes."

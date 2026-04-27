@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Human Body: 10+ Rare and Intriguing Medical Facts"
 date: 2023-11-16T02:38:00+00:00
 description: "Uncommon medical facts revealing rare human biology, microchimerism, glymphatic detox, bioelectric healing, and surprising body science."

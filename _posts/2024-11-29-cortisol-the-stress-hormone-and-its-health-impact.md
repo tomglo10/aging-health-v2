@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Cortisol: The Stress Hormone and Its Health Impact "
 date: 2024-11-29T17:12:00+00:00
 description: "2026 Guide to Managing Cortisol: Discover how the 'stress hormone' affects blood sugar, muscle loss (sarcopenia), and heart health in seniors."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The New Food Pyramid and Food Prices: What Families Need to Know"
 date: 2026-01-22T09:58:00+00:00
 description: "The carnivore diet is based on humans are carnivores thriving on meat. Some claim it helps in health weight loss, inflammation, autoimmune diseases"

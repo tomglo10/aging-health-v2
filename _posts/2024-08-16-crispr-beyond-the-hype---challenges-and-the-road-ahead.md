@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "CRISPR: Beyond the Hype - Challenges and the Road Ahead"
 date: 2024-08-16T23:23:00+00:00
 description: ""

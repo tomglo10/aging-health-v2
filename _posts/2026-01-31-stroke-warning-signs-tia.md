@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Don't Dismiss It: Why Temporary Stroke Symptoms Demand Action"
 date: 2026-01-31
 description: "Why a Transient Ischemic Attack (TIA) is a critical medical emergency and how the BE-FAST acronym saves lives."

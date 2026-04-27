@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " The Wisdom Journey: Reflections on Life's Trek"
 date: 2023-12-10T05:23:00+00:00
 description: "Explore the journey to being old and wise, which includes self-discovery, letting go, accepting resilience, and finding strength in the unknown."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Atrial Fibrillation Updates: Heart Failure, Diagnosis and Prevention"
 date: 2024-05-29T21:36:00+00:00
 description: "AFib new research shows heart failure, not stroke, is the most common complication Women's AFib diagnosis with MRI scans, fish oil for heart health."

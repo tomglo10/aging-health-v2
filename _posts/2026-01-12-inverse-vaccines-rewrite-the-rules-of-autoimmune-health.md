@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Inverse Vaccines Rewrite the Rules of Autoimmune Health"
 date: 2026-01-12T06:10:05+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Ozempic (Semaglutide) in Older Adults Benefits, Risks, and Medicare Coverage"
 date: 2025-11-19T12:50:00+00:00
 description: ""

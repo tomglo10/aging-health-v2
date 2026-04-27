@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Should Seniors Take Vitamins? Evidence‑Based Guidance"
 date: 2023-09-13T12:22:00+00:00
 description: "An evidence‑based, senior‑friendly guide to vitamins, safe supplementation, medication interactions, and the best time of day to take them."

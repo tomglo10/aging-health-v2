@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Atrial Fibrillation: Causes, Symptoms, and Treatments"
 date: 2024-02-18T16:13:00+00:00
 description: ""

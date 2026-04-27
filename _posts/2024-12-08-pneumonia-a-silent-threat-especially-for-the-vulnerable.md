@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Pneumonia: A Silent Threat, Especially for the Vulnerable"
 date: 2024-12-08T04:11:00+00:00
 description: "Pneumonia is a serious lung infection that can be fatal, especially for the elderly and young children. Vaccination is crucial for its prevention."

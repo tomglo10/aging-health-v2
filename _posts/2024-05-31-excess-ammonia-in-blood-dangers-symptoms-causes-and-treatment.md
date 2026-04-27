@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Excess Ammonia in Blood: Dangers, Symptoms, Causes, and Treatment"
 date: 2024-05-31T11:52:00+00:00
 description: ""

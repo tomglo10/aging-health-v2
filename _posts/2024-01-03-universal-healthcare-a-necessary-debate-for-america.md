@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Universal Healthcare: A Necessary Debate for America"
 date: 2024-01-03T19:13:00+00:00
 description: "Any future universal healthcare system's capacity to balance equity and efficiency will be important in determining its feasibility and success."

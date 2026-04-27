@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Edema: Information about Causes and Effective Treatments"
 date: 2024-03-09T02:52:00+00:00
 description: ""

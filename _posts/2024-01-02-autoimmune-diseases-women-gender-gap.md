@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Autoimmune Diseases: Why Women Are More Affected"
 date: 2024-01-02
 description: "Exploring the biological, hormonal, and genetic factors that contribute to the 80% prevalence of autoimmune conditions in women."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Barrett's Esophagus: Understand the Risks and Treatments"
 date: 2024-12-06T23:08:00+00:00
 description: "Learn about Barrett's esophagus, a condition affecting the esophagus lining. Discover symptoms, causes, risk factors, and treatment options."

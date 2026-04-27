@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "GERD and Sepsis: A Dangerous Connection"
 date: 2024-12-05
 description: "GERD and sepsis can become a dangerous combination. Learn about the link between acid reflux and serious infection."

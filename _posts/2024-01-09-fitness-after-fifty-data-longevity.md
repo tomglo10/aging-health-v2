@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Fitness After Fifty: Data-Driven Strategies for Longevity"
 date: 2024-01-09
 description: "How targeted movement, Zone 2 cardio, and isometrics support metabolic health and cardiovascular protection for seniors."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Brain Boost: The Potential of Creatine for Cognitive Function"
 date: 2024-05-12T15:54:00+00:00
 description: ""

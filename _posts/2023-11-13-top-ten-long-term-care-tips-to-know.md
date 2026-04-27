@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Top Ten Long-Term Care Tips To Know"
 date: 2023-11-13T20:42:00+00:00
 description: "Long-term care. The National Institute on Aging (NIA) focuses on advancing the understanding of aging and extending healthy years."

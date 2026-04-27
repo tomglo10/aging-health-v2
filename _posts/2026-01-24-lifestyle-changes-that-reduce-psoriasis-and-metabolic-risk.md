@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Lifestyle Changes That Reduce Psoriasis and Metabolic Risk"
 date: 2026-01-24T18:43:00+00:00
 description: ""

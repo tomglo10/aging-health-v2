@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Afraid of the Doctor? You Might Have Iatrophobia"
 date: 2023-09-28
 description: "Iatrophobia, the fear of doctors, can be a paralyzing barrier to senior health. Learn the symptoms, causes, and strategies to reclaim your medical autonomy."

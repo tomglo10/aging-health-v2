@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "CRISPR: Gene Editing Is Reshaping Medicine and Healthcare"
 date: 2024-08-10T21:09:00+00:00
 description: "Learn how developing new treatments and the ability to cure genetic diseases are two ways that CRISPR gene editing is poised to transform healthcare."

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding the Role of a Gastroenterologist"
 date: 2024-04-14T12:21:00+00:00
 description: ""

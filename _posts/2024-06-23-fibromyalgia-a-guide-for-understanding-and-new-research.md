@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Fibromyalgia: A Guide for Understanding and New Research"
 date: 2024-06-23T19:49:00+00:00
 description: "The intricacies of Fibromyalgia, including its symptoms, causes, diagnostic processes, treatment alternatives, and the latest research developments."

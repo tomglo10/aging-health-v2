@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Beyond Neurons: New Hopes in the Fight Against Alzheimer's Disease"
 date: 2024-09-21T21:19:00+00:00
 description: ""

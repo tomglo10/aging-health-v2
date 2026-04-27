@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Ocular Diseases and Gut Microbiome Balance Relationship "
 date: 2024-07-12T20:11:00+00:00
 description: "Gut microbiome's trillions may influence eye health. Discover gut-eye axis research, revealing potential links to diseases and novel treatments."

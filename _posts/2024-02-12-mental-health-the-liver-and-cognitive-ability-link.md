@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mental Health: The Liver and Cognitive Ability Link"
 date: 2024-02-12T19:25:00+00:00
 description: ""

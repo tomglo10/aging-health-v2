@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Senior Care Options: Home Care, Assisted Living, or Nursing Home"
 date: 2024-03-09T18:32:00+00:00
 description: "To choose the right senior care option for your loved one. Learn about home care, assisted living, and nursing homes to make an informed decision."

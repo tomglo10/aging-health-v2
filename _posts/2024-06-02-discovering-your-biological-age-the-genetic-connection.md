@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Discovering Your Biological Age: The Genetic Connection"
 date: 2024-06-02T00:26:00+00:00
 description: "Unlock your gene's secrets and how they affect your biological age. Learn to optimize health and potentially slow aging. #Genetics #Aging #Wellness"

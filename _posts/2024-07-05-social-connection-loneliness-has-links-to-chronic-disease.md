@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Social Connection: Loneliness Has Links to Chronic Disease"
 date: 2024-07-05T16:13:00+00:00
 description: "Feeling lonely can damage your health! How being socially isolated increases stroke, heart disease, and cognitive decline risks. #loneliness #health"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Chronic Inflammation: Causes, Symptoms, and Solutions"
 date: 2024-03-07T15:39:00+00:00
 description: "Feeling the burn? Let's examine the causes of chronic inflammation and effective ways to manage it through diet, exercise, and stress reduction. "

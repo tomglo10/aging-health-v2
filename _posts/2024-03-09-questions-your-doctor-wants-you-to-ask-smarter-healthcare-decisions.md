@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Questions Your Doctor Wants You to Ask: Smarter Healthcare Decisions"
 date: 2024-03-09T18:15:00+00:00
 description: "Explore 14 key questions that doctors recommend you ask. Improve communication, make well-informed health decisions, and get more out of each visit."

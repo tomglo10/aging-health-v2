@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: " Craft a Safe, Effective Exercise Plan for Your Goals"
 date: 2023-09-16T16:11:00+00:00
 description: "Create an exercise plan that works for you and helps you achieve fitness goals. Learn how to choose the right activities, and set realistic goals."

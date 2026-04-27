@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Frontotemporal Dementia: Unique Memory Loss"
 date: 2024-03-01
 description: "Frontotemporal Dementia (FTD) impacts personality and communication more than just memory. Learn about the unique challenges of this condition."
