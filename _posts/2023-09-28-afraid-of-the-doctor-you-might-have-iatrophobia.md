@@ -3,7 +3,7 @@ layout: post
 title: "Afraid of the Doctor? You Might Have Iatrophobia"
 date: 2023-09-28
 description: "Iatrophobia, the fear of doctors, can be a paralyzing barrier to senior health. Learn the symptoms, causes, and strategies to reclaim your medical autonomy."
-image: "/assets/images/demon-doctor.webp"
+image: "/assets/assets/img/demon-doctor.webp"
 tags: ["Patient Advocacy", "Stress", "Mental Health"]
 ---
 
@@ -11,7 +11,7 @@ The apprehension or outright panic that some individuals feel at the prospect of
 
 This condition can lead to the dangerous avoidance of medical care, even when symptoms are severe, due to the anxiety triggered by the mere thought of a clinical environment. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 
-![A striking painting representing the terrifying perspective of Iatrophobia.](/assets/images/demon-doctor.webp)
+![A striking painting representing the terrifying perspective of Iatrophobia.](/assets/assets/img/demon-doctor.webp)
 *Figure 1: For those with Iatrophobia, a routine check-up can feel like a confrontation with a literal demon, leading to a "flight" response that puts health at risk.*
 
 ---

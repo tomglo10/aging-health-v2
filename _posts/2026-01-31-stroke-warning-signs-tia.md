@@ -3,7 +3,7 @@ layout: post
 title: "Don't Dismiss It: Why Temporary Stroke Symptoms Demand Action"
 date: 2026-01-31
 description: "Why a Transient Ischemic Attack (TIA) is a critical medical emergency and how the BE-FAST acronym saves lives."
-image: "/assets/images/mri.webp"
+image: "/assets/assets/img/mri.webp"
 tags: ["Heart Health", "Metabolic", "Advocacy", "Stroke Prevention"]
 ---
 
@@ -17,7 +17,7 @@ Think of a TIA as a "warning stroke" - it is the strongest indicator that a majo
 
 ---
 
-![Modern MRI technology for brain health](/assets/images/mri.webp)
+![Modern MRI technology for brain health](/assets/assets/img/mri.webp)
 *Figure 1: MRI technology is the gold standard for detecting "silent" strokes and assessing brain tissue health after a TIA.*
 
 ---

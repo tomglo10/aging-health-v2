@@ -3,7 +3,7 @@ layout: post
 title: "Oxalates: Do They Cause Health Issues?"
 date: 2023-09-11
 description: "High oxalate intake can bind to minerals, forming crystals linked to kidney stones, gout, and joint pain—potentially contributing to inflammation."
-image:  "/assets/images/farmer.webp"
+image:  "/assets/assets/img/farmer.webp"
 tags: [Nutrition, Kidney, Digestive, Metabolism]
 ---
 
@@ -13,7 +13,7 @@ This guide explains what oxalates are, how they interact with the body, and whet
 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 
-![A farmer’s field of vegetables including kale, rhubarb, Swiss chard, and spinach.](/assets/images/farmer.webp)
+![A farmer’s field of vegetables including kale, rhubarb, Swiss chard, and spinach.](/assets/assets/img/farmer.webp)
 *Figure 1: Oxalates in plants like kale can contribute to kidney stone formation when consumed in excess, leading to the buildup of calcium oxalate crystals.*
 
 ---

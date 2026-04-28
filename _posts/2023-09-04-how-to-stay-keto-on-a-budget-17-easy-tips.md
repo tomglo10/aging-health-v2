@@ -3,7 +3,7 @@ layout: post
 title: "How to Stay Keto on a Budget: 17 Easy Tips"
 date: 2023-09-04T00:59:00+00:00
 description: "The ketogenic (keto) diet is a popular low-carb approach. This guide shows how to follow keto on a budget without sacrificing nutrition or flavor."
-image: "/assets/images/keto-meal.webp"
+image: "/assets/assets/img/keto-meal.webp"
 tags: [Healthcare, Diet]
 ---
 
@@ -11,7 +11,7 @@ A ketogenic diet—low in carbohydrates and high in healthy fats—can support w
 
 <!--more-->
 
-![Savor a keto breakfast of crispy bacon, poached eggs, and avocado, served with mixed greens and zesty vinaigrette.](/assets/images/keto-meal.webp)
+![Savor a keto breakfast of crispy bacon, poached eggs, and avocado, served with mixed greens and zesty vinaigrette.](/assets/assets/img/keto-meal.webp)
 *Figure 1: A nutrient-dense keto breakfast that is both healthy and budget‑friendly.*
 
 In addition, following a keto diet has been shown to significantly improve blood sugar regulation, making it a good option for those looking to manage conditions such as [diabetes](https://www.aginghealth.website/2024/01/diabetes.html) or insulin resistance.

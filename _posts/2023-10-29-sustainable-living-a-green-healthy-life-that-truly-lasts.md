@@ -3,7 +3,7 @@ layout: post
 title: "Sustainable Living: A Green, Healthy Life That Truly Lasts"
 date: 2023-10-29
 description: "A patient-centered guide connecting green choices with better heart health, respiratory function, and metabolic stability."
-image: "/assets/images/sustainable-living.webp"
+image: "/assets/assets/img/sustainable-living.webp"
 tags: ["Liver Health", "Cardiovascular", "Stress", "Nutrition", "Environment"]
 ---
 
@@ -11,7 +11,7 @@ tags: ["Liver Health", "Cardiovascular", "Stress", "Nutrition", "Environment"]
 
 Sustainable living isn't just about the planet—it directly improves your health, lowers long-term costs, and reduces disease risk. Small, practical changes in food, energy, and daily habits can deliver [immediate personal benefits](https://www.aginghealth.website/2024/07/metformin-benefits.html) while supporting environmental sustainability. > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
-![Sustainable living for health and well-being](/assets/images/sustainable-living.webp)
+![Sustainable living for health and well-being](/assets/assets/img/sustainable-living.webp)
 *Everyday choices that support a greener planet often support a healthier body.*
 
 ---
@@ -21,7 +21,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ---
 
-![Image of an energy efficient home design](/assets/images/energy‑efficient.webp)
+![Image of an energy efficient home design](/assets/assets/img/energy‑efficient.webp)
 *Figure 2: Energy‑efficient house: insulated walls and attic, triple‑pane windows, solar panels on roof, heat‑pump HVAC, sealed ducts, and LED lighting.*
 
 ---
@@ -47,7 +47,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ---
 
-![Educational diagram of the sustainable food cycle with six stages—soil health, planting, harvesting, cooking, composting, and nutrient return—connected by green circular arrows.](/assets/images/food-cycle.webp)
+![Educational diagram of the sustainable food cycle with six stages—soil health, planting, harvesting, cooking, composting, and nutrient return—connected by green circular arrows.](/assets/assets/img/food-cycle.webp)
 *Figure 3: Sustainable Food Cycle — A clear, eco‑friendly illustration showing how healthy soil supports planting, harvesting, cooking, and composting, returning nutrients to the earth for the next generation of growth.*
 
 ---

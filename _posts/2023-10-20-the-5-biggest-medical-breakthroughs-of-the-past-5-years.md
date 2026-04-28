@@ -20,7 +20,7 @@ The past five years have delivered some of the most transformative medical break
 
 ---
 
-![Doctor viewing a 3D holographic medical scan, symbolizing the integration of AI and advanced imaging in modern healthcare.](/assets/images/ai-research.webp)
+![Doctor viewing a 3D holographic medical scan, symbolizing the integration of AI and advanced imaging in modern healthcare.](/assets/assets/img/ai-research.webp)
 *The future of medicine is here: AI-powered imaging and diagnostics are transforming how we understand and treat diseases, bringing unprecedented precision to patient care.*
 
 ---

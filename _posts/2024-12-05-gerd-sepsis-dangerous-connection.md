@@ -3,7 +3,7 @@ layout: post
 title: "GERD and Sepsis: A Dangerous Connection"
 date: 2024-12-05
 description: "GERD and sepsis can become a dangerous combination. Learn about the link between acid reflux and serious infection."
-image: "/assets/images/gerd-sepsis.webp"
+image: "/assets/assets/img/gerd-sepsis.webp"
 tags: ["Liver Health", "Immune Health", "Infections", "Digestive"]
 ---
 
@@ -11,7 +11,7 @@ tags: ["Liver Health", "Immune Health", "Infections", "Digestive"]
 
 Gastroesophageal reflux disease (GERD) is commonly dismissed as "just a little acid," but in 2026, the clinical data tells a darker story. As an independent researcher, I have been tracking the evidence that chronic reflux is a gateway to **Sepsis** -- a life-threatening immune overreaction. This isn't just about discomfort; it is about the structural and immunological integrity of your body. > **Medical Disclaimer:** Sepsis is a medical emergency. If you experience confusion, extreme shivering, or rapid heart rate along with an infection, call 911 immediately.
 
-![AI depiction of GERD showing acid reflux causing systemic inflammation](/assets/images/gerd-sepsis.webp)
+![AI depiction of GERD showing acid reflux causing systemic inflammation](/assets/assets/img/gerd-sepsis.webp)
 *Figure 1: The Reflux Pathway - Chronic acid exposure leads to more than just esophageal damage.*
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Vaccines After 50: The Essential Guide to Senior Immunity"
 date: 2023-09-23
 description: "As we age, our 'immune memory' fades. Learn which vaccines are critical for adults over 50 to maintain longevity and prevent complications."
-image: "/assets/images/the-jab.webp"
+image: "/assets/assets/img/the-jab.webp"
 tags: ["Immune Health", "Senior Longevity", "Prevention", "Metabolic Health"]
 ---
 
@@ -11,7 +11,7 @@ Vaccinations are a crucial safeguard for adults over 50. As we age, our immune s
 
 This guide breaks down the essential boosters and new vaccines—like RSV and Shingrix—that serve as a powerful defense for your long-term wellness. > **Medical Disclaimer:** This content is for informational purposes only and does not replace professional medical advice. Always consult a qualified healthcare provider regarding your specific health status.
 
-![An oil painting of a healthy senior receiving a vaccination.](/assets/images/the-jab.webp)
+![An oil painting of a healthy senior receiving a vaccination.](/assets/assets/img/the-jab.webp)
 *Figure 1: Preventative care through vaccination is a cornerstone of healthy aging.*
 
 

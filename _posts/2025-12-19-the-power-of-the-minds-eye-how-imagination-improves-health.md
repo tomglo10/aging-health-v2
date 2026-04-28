@@ -219,7 +219,7 @@ Perhaps the most famous anecdote from the study is that by the final day, severa
       },
       "headline": "The Power of the Mind's Eye: How Imagination Improves Health",
       "description": "Discover how the connection between imagination and reality influences aging. Learn science-backed mental techniques to improve your physical health.",
-      "image": "https://aginghealth.website/images/senior-visualization-health.jpg",
+      "image": "https://aginghealth.website/assets/img/senior-visualization-health.jpg",
       "author": {
         "@type": "Person",
         "name": "Tommy T. Douglas",

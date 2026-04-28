@@ -167,7 +167,7 @@ tags: ['🌱 Senior Longevity', '🧠 Cognitive Health', '❤️ Cardiovascular 
     "name": "Tommy T. Douglas",
     "url": "https://www.aginghealth.website"
   },
-  "contentUrl": "https://www.aginghealth.website/images/pns-vs-cns-sci-fi.jpg",
+  "contentUrl": "https://www.aginghealth.website/assets/img/pns-vs-cns-sci-fi.jpg",
   "fileFormat": "image/jpeg",
   "width": "1920",
   "height": "1080",

@@ -3,7 +3,7 @@ layout: post
 title: "CMP: Your Comprehensive Metabolic Panel Blood Test"
 date: 2024-01-04
 description: "A patient-centered guide to understanding the 14 markers in a CMP, from liver enzymes to kidney function."
-image: "/assets/images/cmp-test.webp"
+image: "/assets/assets/img/cmp-test.webp"
 tags: ["Liver Health", "Patient Advocacy", "Longevity", "Functional Fitness", "Metabolic", "Cardiovascular"]
 ---
 
@@ -13,7 +13,7 @@ The Comprehensive Metabolic Panel (CMP) is a standard blood test that provides a
 
 ---
 
-![Close‑up medical scene: a healthcare professional gently inserts a syringe into the inside elbow of a senior patient to draw blood for a CMP test. ](/assets/images/cmp-test.webp)
+![Close‑up medical scene: a healthcare professional gently inserts a syringe into the inside elbow of a senior patient to draw blood for a CMP test. ](/assets/assets/img/cmp-test.webp)
 *Figure 1: A comprehensive metabolic panel (CMP) is a blood test that assesses proteins, enzymes, electrolytes, and minerals to diagnose and monitor health issues and medication side effects during routine check-ups.*
 
 ---

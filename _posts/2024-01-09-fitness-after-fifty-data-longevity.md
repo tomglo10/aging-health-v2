@@ -3,7 +3,7 @@ layout: post
 title: "Fitness After Fifty: Data-Driven Strategies for Longevity"
 date: 2024-01-09
 description: "How targeted movement, Zone 2 cardio, and isometrics support metabolic health and cardiovascular protection for seniors."
-image: "/assets/images/senior-power.webp"
+image: "/assets/assets/img/senior-power.webp"
 tags: ["Functional Fitness", "Liver Health", "Cardiovascular", "Heart", "Aging Well"]
 ---
 
@@ -15,7 +15,7 @@ As a researcher who managed a 2008 heart attack and currently navigates cirrhosi
 
 ---
 
-![Woman performing lunges to preserve muscle mass and balance](/assets/images/senior-power.webp)
+![Woman performing lunges to preserve muscle mass and balance](/assets/assets/img/senior-power.webp)
 *Figure 1: Strength training is a pillar of health literacy, helping manage glucose levels and bone density.*
 
 ---
@@ -28,7 +28,7 @@ The baseline for those over 50 remains **150 minutes of moderate aerobic activit
 
 ---
 
-![Image of a heart rate zone chart for seniors](/assets/images/zones.webp)
+![Image of a heart rate zone chart for seniors](/assets/assets/img/zones.webp)
 *Figure 2: Heart rate zone chart for seniors with five color‑coded zones: resting, warm‑up, fat‑burn, cardio, peak. Clear BPM ranges for older adults, large readable text, simple icons, glowing holographic panels, soft clinical colors, clean white background, senior‑friendly educational style.*
 
 ---

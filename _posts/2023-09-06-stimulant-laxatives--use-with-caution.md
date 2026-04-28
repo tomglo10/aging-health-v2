@@ -3,7 +3,7 @@ layout: post
 title: "Stimulant Laxatives: Use With Caution"
 date: 2023-09-06
 description: "Stimulant laxatives may relieve constipation quickly, but frequent use can pose risks for seniors. Learn about dependency and safer alternatives."
-image: "/assets/images/bathroom.webp"
+image: "/assets/assets/img/bathroom.webp"
 tags: ["Advocacy", "Longevity", "Digestive Health"]
 ---
 
@@ -13,7 +13,7 @@ Stimulant laxatives are frequently used to relieve constipation, particularly wh
 
 They may provide short-term relief, but overuse -- especially among older adults -- can lead to dependence, dehydration, and electrolyte disturbances. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does **not** replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding digestive concerns.
 
-![A tranquil bathroom environment](/assets/images/bathroom.webp)
+![A tranquil bathroom environment](/assets/assets/img/bathroom.webp)
 *Figure 1: Constipation is a common digestive complaint, but the method of relief determines long-term gut health.*
 
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Seniors: About Medicare Advantage Plans"  
 date: 2024-01-17  
 description: "A comprehensive clinical guide to Medicare Part C, detailing networks, supplemental benefits, and out-of-pocket maximums specifically designed for seniors."  
-image: "/assets/images/discussion-medicare.webp"  
-image: "/assets/images/medicare.webp"
+image: "/assets/assets/img/discussion-medicare.webp"  
+image: "/assets/assets/img/medicare.webp"
 tags: ["Longevity", "Advocacy", "Functional Fitness"]  
 ---  
 
@@ -14,7 +14,7 @@ Medicare Advantage, also known as Medicare Part C, has grown to become one of th
 
 ---
 
-![A healthcare advocate explaining Medicare Advantage to a senior couple](/assets/images/discussion-medicare.webp)  
+![A healthcare advocate explaining Medicare Advantage to a senior couple](/assets/assets/img/discussion-medicare.webp)  
 *Figure 1: Medicare Advantage plans are provided by private insurance companies as an alternative to Original Medicare.*  
 
 ---  
@@ -33,7 +33,7 @@ Medicare Advantage is a comprehensive alternative to Original Medicare, combinin
 
 ---
 
-![Comparison image showing Original Medicare vs. Medicare Advantage side by side.](/assets/images/medicare.webp)
+![Comparison image showing Original Medicare vs. Medicare Advantage side by side.](/assets/assets/img/medicare.webp)
 *Figure 1: Side‑by‑side comparison of Original Medicare and Medicare Advantage, highlighting how coverage is structured, provider access, and added benefits to help beneficiaries choose the plan that best fits their health needs.*
 
 ---  

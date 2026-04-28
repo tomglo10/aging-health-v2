@@ -3,7 +3,7 @@ layout: post
 title: "Celiac Disease: Unveiling the Gluten Connection"  
 date: 2024-07-16  
 description: "An in-depth clinical exploration of the autoimmune processes involved in Celiac disease, the challenges of delayed diagnosis, and approaches to relief specifically for seniors."  
-image: "/assets/images/bread-pasta.webp"  
+image: "/assets/assets/img/bread-pasta.webp"  
 tags: ["Cognitive Health", "Immune Health", "Nutrition", "Liver", "Digestive"]  
 ---  
 
@@ -15,7 +15,7 @@ Frequently mistaken for a mere food intolerance, Celiac disease interferes with 
 
 ---  
 
-![Bread and pasta potential triggers](/assets/images/bread-pasta.webp)  
+![Bread and pasta potential triggers](/assets/assets/img/bread-pasta.webp)  
 *Figure 1: Foods containing gluten can cause Celiac disease in susceptible people, a condition first identified in the 1940s by Dr. Willem Dicke.*  
 
 ---  

@@ -3,7 +3,7 @@ layout: post
 title: "Grains: Friend or Foe? Whole Grains and Health"
 date: 2023-09-04T07:54:00+00:00
 description: "If you are trying to improve gut health, brain function, blood sugar control, or weight management, learn when whole grains may help—and when they may need to be limited or avoided."
-image: "/assets/images/grains.webp"
+image: "/assets/assets/img/grains.webp"
 tags: ["Senior Longevity", "Liver & Immune Health", "Heart Health", "Functional Fitness", "Diabetes", "Nutrition"]
 ---
 
@@ -16,7 +16,7 @@ Are whole grains essential for healthy aging, or can they quietly undermine gut,
 > **Medical Disclaimer:**  
 > This article is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider or registered dietitian before making dietary changes.
 
-![A visual representation of various bags containing different kinds of whole grains.](/assets/images/grains.webp)
+![A visual representation of various bags containing different kinds of whole grains.](/assets/assets/img/grains.webp)
 *Figure 1: Whole grains are widely recommended—but are they appropriate for every senior?*
 
 ---

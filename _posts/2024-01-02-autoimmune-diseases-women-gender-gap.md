@@ -3,7 +3,7 @@ layout: post
 title: "Autoimmune Diseases: Why Women Are More Affected"
 date: 2024-01-02
 description: "Exploring the biological, hormonal, and genetic factors that contribute to the 80% prevalence of autoimmune conditions in women."
-image: "/assets/images/woman-autoimmune.webp"
+image: "/assets/assets/img/woman-autoimmune.webp"
 tags: ["Longevity", "Liver Health", "Immune Health", "Functional Fitness", "Cognitive Health", "Neurological", "Infections", "Pain"]
 ---
 
@@ -13,7 +13,7 @@ Autoimmune diseases occur when the immune system mistakenly attacks healthy cell
 
 ---
 
-![A troubled woman reflecting on health struggles](/assets/images/woman-autoimmune.webp)
+![A troubled woman reflecting on health struggles](/assets/assets/img/woman-autoimmune.webp)
 *Autoimmune diseases predominantly impact women, highlighting the need for gender-specific clinical research.*
 
 ---

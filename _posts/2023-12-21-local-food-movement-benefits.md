@@ -3,7 +3,7 @@ layout: post
 title: "Local Food Movement Benefits: Getting the Best Products"
 date: 2023-12-21
 description: "Why buying from local food producers is a vital step toward a healthier, more sustainable future for seniors."
-image: "/assets/images/farmer's-market.webp"
+image: "/assets/assets/img/farmer's-market.webp"
 tags: ["Advocacy", "Nutrition", "Community"]
 ---
 
@@ -13,7 +13,7 @@ Supporting local farmers is essential for a sustainable food system that benefit
 
 ---
 
-![Seniors selecting fresh vegetables at a local farmers market](/assets/images/farmer's-market.webp)
+![Seniors selecting fresh vegetables at a local farmers market](/assets/assets/img/farmer's-market.webp)
 *Figure 1: Farmers markets are a great way to connect with your community and access fresh, seasonal nutrition.*
 
 ---
@@ -28,7 +28,7 @@ The local food movement connects consumers directly with the people who grow the
 
 ---
 
-![Image of a farm-to-table food supply chain](/assets/images/farm-to-table.webp)
+![Image of a farm-to-table food supply chain](/assets/assets/img/farm-to-table.webp)
 *Figure 1: Gathering vegtables and cooking in the field to demonsrate farm to table.*
 
 ---

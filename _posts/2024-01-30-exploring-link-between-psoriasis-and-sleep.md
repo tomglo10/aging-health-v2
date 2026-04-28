@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Link Between Psoriasis and Sleep"
 date: 2024-01-30
 description: "How poor sleep and skin inflammation create a bidirectional cycle that affects metabolic health and quality of life."
-image: "/assets/images/sleep-psoriasis.webp"
+image: "/assets/assets/img/sleep-psoriasis.webp"
 tags: ["Functional Fitness", "Psoriasis", "Sleep"]
 ---
 
@@ -13,7 +13,7 @@ Psoriasis is a chronic immune-mediated inflammatory disease that commonly disrup
 
 ---
 
-![Woman with psoriasis experiencing nighttime discomfort](/assets/images/sleep-psoriasis.webp)
+![Woman with psoriasis experiencing nighttime discomfort](/assets/assets/img/sleep-psoriasis.webp)
 *Figure 1: Inflammation and discomfort can disrupt rest, creating a feedback loop of systemic stress.*
 
 ---

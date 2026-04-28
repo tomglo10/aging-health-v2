@@ -270,7 +270,7 @@ often go unnoticed.</span></b><span style="font-family: &quot;Calibri&quot;,sans
       },
       "headline": "Recognizing Early Signs of Dementia: A Senior-Friendly Guide",
       "description": "Learn how to <a href="https://www.aginghealth.website/2026/03/recognizing-early-dementia-signs-metabolic-fog.html" title="Recognizing Early Dementia Signs Metabolic Fog" rel="dofollow"><b>recognize the early signs of dementia</b></a>, including memory loss, confusion, and personality changes. Senior-friendly and medically informed guidance for families and caregivers.",
-      "image": "https://www.yourwebsite.com/images/early-signs-of-dementia.jpg",
+      "image": "https://www.yourwebsite.com/assets/img/early-signs-of-dementia.jpg",
       "author": {
         "@type": "Person",
         "name": "Dr. Jane Smith, MD",
