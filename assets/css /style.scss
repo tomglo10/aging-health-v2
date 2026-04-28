@@ -10,8 +10,7 @@
   color: #1a237e;
   text-transform: capitalize;
   font-weight: 700;
-  font-style: italic;
-}
+  font-style: italic;}
 
 /* H2 */
 .post-content h2,
@@ -21,8 +20,7 @@
   font-style: italic;
   font-family: Roboto;
   text-transform: capitalize;
-  color: #006064;
-}
+  color: #006064;}
 
 /* H3 */
 .post-content h3,
@@ -72,6 +70,6 @@ div ul li {
   font-size: 19px;
 }
 /* Keeps thumbnails on home, but hides the cropped header image inside the article */
-#post-wrapper .post-content > img:first-child, 
+#post-wrapper .post-content > img:first-child,
 #post-wrapper .preview-img {
   display: none;}
