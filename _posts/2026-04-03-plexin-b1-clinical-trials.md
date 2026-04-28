@@ -2,8 +2,10 @@
 layout: post
 title: "Plexin-B1 Clinical Trials: The 2026 Update"
 date: 2026-04-03
-image: /assets/img/astrocyte-amyloid-interactions.webp
 description: "A research summary regarding metabolic waste clearance and neuro-inflammatory markers."
+image:
+  path: /assets/img/astrocyte-amyloid-interactions.webp
+  alt: Illustration of astrocyte-amyloid interactions.
 tags: ["Clinical Research", "Neurology", "Metabolic Health"]
 ---
 
