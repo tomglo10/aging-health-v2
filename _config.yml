@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://aginghealth.website"
 
 github:
-  username: github_username # change to your GitHub username
+  username: tomglo10
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -79,7 +79,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-DYSMMKT4C7
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -158,9 +158,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
