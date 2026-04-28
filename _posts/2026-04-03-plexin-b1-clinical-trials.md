@@ -18,6 +18,10 @@ As a health researcher, I’ve been tracking the shift from simple amyloid-clear
 
 ![Illustration of astrocyte-amyloid interaction in a clinical setting.](/assets/img/astrocyte-amyloid-interactions.webp)
 *Figure 1: Retraining the Brain—Clinical trials in 2026 are focusing on calming "angry" astrocytes and restoring their ability to corral toxic proteins via the Plexin-B1 pathway.*
+
+---
+
+EOF
 ### 1. The SIGNAL-AD Trial: Pepinemab’s Progress
 The most advanced clinical effort in the Plexin-B1 space centers on **Pepinemab**, a monoclonal antibody designed to block **SEMA4D**.
 
