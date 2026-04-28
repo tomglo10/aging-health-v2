@@ -2,71 +2,158 @@
 layout: post
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
-description: ""
-tags: ['🧠 Cognitive Health', '❤️ Cardiovascular & T2D', '🛡️ Liver & Immune Health', 'Diabetes', 'Nutrition', 'Liver']
+description: "Understanding how everyday foods influence blood sugar and energy balance."
+image: /assets/images/metabolic-illustration.webp
+tags: ['Cognitive Health', 'Cardiovascular', 'Liver Health', 'Diabetes', 'Nutrition',]
 ---
 
-<h2>Diabetes Management: A Clinical Guide to Blood Sugar Stability</h2><a href="https://www.aginghealth.website/2023/09/insulin-dosing-for-diabetes-what-you.html" target="_blank">Diabetes </a>is not merely a "blood sugar problem"—it is a complex metabolic breakdown in how the body processes energy. Whether the issue is an <a href="https://www.aginghealth.website/2024/01/women-autoimmune.html" target="_blank">autoimmune</a> destruction of insulin-producing cells (Type 1) or a cellular resistance to insulin (Type 2), the systemic impact on the vascular and nervous systems is profound.<span><a name='more'></a></span><div style="background: rgb(250, 250, 250); border: 1px solid rgb(221, 221, 221); font-size: 14px; margin: 16px 0px; padding: 12px;"><strong>Medical Disclaimer:</strong> This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.</div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwhWJZsCA46IA99cSlbta0qUp7ZliRCM-jLLaVOQJYr0QY-PEwKOennYFSq-1qep-IyJszIQLtBEi2i0B8c-PnMpaKr8E72mLcge417uLrfTABETu1hnp4hdW9wG0Xw5NgN1bomD7pKz8Q70dXJSDVBaHfV7EwWbr9hTqp4jbbYSH4s_d0kCoojFJiTDPF/s925/The%20SAD%20Standard%20American%20Diet%20a%20cheeseburger,%20fries,%20a%20malt,%20donuts%20and%20other%20fried%20foods..webp" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img alt="The SAD Standard American Diet a cheeseburger, fries, a malt, donuts and other fried foods." border="0" data-original-height="520" data-original-width="925" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwhWJZsCA46IA99cSlbta0qUp7ZliRCM-jLLaVOQJYr0QY-PEwKOennYFSq-1qep-IyJszIQLtBEi2i0B8c-PnMpaKr8E72mLcge417uLrfTABETu1hnp4hdW9wG0Xw5NgN1bomD7pKz8Q70dXJSDVBaHfV7EwWbr9hTqp4jbbYSH4s_d0kCoojFJiTDPF/s16000/The%20SAD%20Standard%20American%20Diet%20a%20cheeseburger,%20fries,%20a%20malt,%20donuts%20and%20other%20fried%20foods..webp" title="The SAD Standard American Diet a cheeseburger, fries, a malt, donuts and other fried foods." /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">The Standard American Diet (SAD) is characterized by a high intake of <a href="https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.html" target="_blank">processed foods</a>, sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.</td></tr></tbody></table><br />
-<table>
-  <tbody>
-    <tr>
-      </tr></tbody></table><span><span><h2 style="text-align: left;">The Statistics of the "SAD" Reality</h2><div>The Standard American Diet (SAD) isn't just a lifestyle choice; it's a primary driver of the current metabolic crisis.</div><div><ul style="text-align: left;"><li><b>The Impact:</b> According to the CDC, over 38 million Americans have diabetes, and approximately 98 million—more than 1 in 3 adults—have prediabetes.</li><li><b>Racial Disparities:</b> Statistics show that the prevalence of diagnosed diabetes is highest among American Indians/Alaska Natives (13.6%), Black non-Hispanics (12.1%), and Hispanics (11.7%), compared to White non-Hispanics (7.5%).&nbsp;</li></ul></div><div>Understanding these risk factors is vital for community-specific advocacy.</div><h2 style="text-align: left;">Decoding the Types: More Than Just Sugar</h2><h3 style="text-align: left;">Type 1: The Autoimmune Attack</h3><div>Type 1 is an insulin-deficiency disorder. The immune system destroys the beta cells in the pancreas. Without insulin—the "key" that unlocks cells—glucose remains trapped in the bloodstream, leading to cellular starvation and systemic toxicity.</div><h3 style="text-align: left;">Type 2: The Resistance Factor</h3><div>In Type 2, the "locks" on your cells become rusty. Your body makes insulin, but the cells ignore it (Insulin Resistance). This is heavily influenced by the inflammatory nature of processed fats and refined sugars.</div></span></span><h3 style="text-align: left;">The "Type 3" Debate: Alzheimer’s and the Brain</h3><span><span><div>Emerging research often refers to Alzheimer’s as "Type 3 Diabetes." This suggests that the brain can develop its own form of insulin resistance, leading to the plaque buildup and cognitive decline characteristic of dementia. While not an official clinical diagnosis from the ADA yet, the link between high A1C levels and cognitive impairment is a critical area for senior health.</div><div><br /></div><h2 style="text-align: left;">Why Complications Happen: The Vascular Cost</h2><div>High blood sugar acts like "shards of glass" in the bloodstream, damaging the lining of your vessels.</div><div><ul style="text-align: left;"><li><b>Nephropathy (Kidney):</b> The kidneys' delicate filters (nephrons) become scarred. This is why diabetes remains the leading cause of kidney failure in the U.S.</li><li><b>Retinopathy (Eyes):</b> Small vessels in the retina leak fluid or bleed.</li></ul><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqcVCmQVDNkl8F6lsJ49ufOQC_1_GkC8ALmXBXsu3pTvT6L55qRZhmKVorfFmsZr1GtJzrvc5oYxLC38VOqMhGdbeLagWe6gl-blzAjso2znJVSL75yRbdESFMcVhdZNJJN3S1NE9MD36gHyV8XJZkM4cCWXuJQkua8RC9uPEiH3DWa5heZ3Hvc9CZ3xpo/s925/Side%E2%80%91by%E2%80%91side%20medical%20illustration%20comparing%20a%20normal%20retina%20with%20a%20retina%20affected%20by%20diabetic%20retinopathy,%20showing%20healthy%20vessels%20versus%20microaneurysms,%20hemorrhages,%20and%20exudates..webp" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img alt="Side‑by‑side medical illustration comparing a normal retina with a retina affected by diabetic retinopathy, showing healthy vessels versus microaneurysms, hemorrhages, and exudates" border="0" data-original-height="617" data-original-width="925" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqcVCmQVDNkl8F6lsJ49ufOQC_1_GkC8ALmXBXsu3pTvT6L55qRZhmKVorfFmsZr1GtJzrvc5oYxLC38VOqMhGdbeLagWe6gl-blzAjso2znJVSL75yRbdESFMcVhdZNJJN3S1NE9MD36gHyV8XJZkM4cCWXuJQkua8RC9uPEiH3DWa5heZ3Hvc9CZ3xpo/s16000/Side%E2%80%91by%E2%80%91side%20medical%20illustration%20comparing%20a%20normal%20retina%20with%20a%20retina%20affected%20by%20diabetic%20retinopathy,%20showing%20healthy%20vessels%20versus%20microaneurysms,%20hemorrhages,%20and%20exudates..webp" title="Normal Retina vs. Diabetic Retinopathy: A Clinical Comparison" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting changes such as microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar</td></tr></tbody></table></div><div><br /></div><div><ul style="text-align: left;"><li><b>Neuropathy (Nerves): </b>Chronic "sugar toxicity" kills nerve endings, usually starting in the feet. For seniors, this is the #1 risk factor for balance issues and undiagnosed infections.</li></ul></div><h2 style="text-align: left;">Management: Beyond "Eating Better"</h2><div>Effective management requires a multidisciplinary approach:</div><div><ul style="text-align: left;"><li><b>Glycemic Monitoring: </b>Using a CGM (Continuous Glucose Monitor) or finger sticks to identify patterns.</li><li><b>Pharmacology:</b> From Metformin (improving insulin sensitivity) to GLP-1 agonists (regulating appetite and insulin secretion).</li><li><b>The "Movement Medicine"</b>: Exercise isn't just for weight loss; muscle contraction naturally pulls glucose out of the blood without needing extra insulin.</li></ul></div><div><h3 data-path-to-node="3">📘 Personal Insight: My Triple-Threat Strategy</h3><blockquote data-path-to-node="4"><p data-path-to-node="4,0"><b data-index-in-node="0" data-path-to-node="4,0">Author’s Note:</b> Living with Type 2 Diabetes is a daily negotiation. In my journey, I’ve found that "willpower" isn't enough—it takes a structured medical strategy. I currently manage my glucose through a <b data-index-in-node="203" data-path-to-node="4,0">"Triple-Threat" approach</b>:</p><ol data-path-to-node="4,1" start="1"><li><p data-path-to-node="4,1,0,0"><b data-index-in-node="0" data-path-to-node="4,1,0,0">Metformin:</b> To improve my base insulin sensitivity.</p></li><li><p data-path-to-node="4,1,1,0"><b data-index-in-node="0" data-path-to-node="4,1,1,0">Ozempic (GLP-1):</b> To regulate my appetite and slow gastric emptying, which prevents post-meal sugar spikes.</p></li><li><p data-path-to-node="4,1,2,0"><b data-index-in-node="0" data-path-to-node="4,1,2,0">Low-Glycemic Diet:</b> Ensuring the fuel I put in doesn't overwhelm the medications.</p></li></ol><p data-path-to-node="4,2">This combination has been a gamechanger for my A1C, and it’s why I advocate so strongly for having transparent conversations with your endocrinologist about the latest pharmacological tools.</p></blockquote></div><div><br /></div><div><br /></div><div>
-<div style="overflow-x: auto;">
-<table style="border-collapse: collapse; border: 1px solid rgb(221, 221, 221); font-family: Arial, sans-serif; width: 100%;">
-  <thead>
-    <tr style="background-color: #0c343d; color: white; text-align: left;">
-      <th style="border: 1px solid rgb(221, 221, 221); padding: 12px;">Time of Day</th>
-      <th style="border: 1px solid rgb(221, 221, 221); padding: 12px;">Glucose (mg/dL)</th>
-      <th style="border: 1px solid rgb(221, 221, 221); padding: 12px;">Medication Taken</th>
-      <th style="border: 1px solid rgb(221, 221, 221); padding: 12px;">Meal / Carbs</th>
-      <th style="border: 1px solid rgb(221, 221, 221); padding: 12px;">Energy (1-10)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"><b>Fasting (Morning)</b></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Metformin?</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">N/A</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"><b>Post-Breakfast</b></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"><b>Post-Lunch</b></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"><b>Post-Dinner</b></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Metformin?</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;"><b>Weekly Ozempic Dose</b></td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Day:</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Dose:</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Notes:</td>
-      <td style="border: 1px solid rgb(221, 221, 221); padding: 10px;">Side effects?</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<p style="color: #666666; font-size: 0.8em;"><i>Note: Always share your logs with your endocrinologist before making dosage changes.</i></p>
+## Diabetes Management: A Clinical Guide to Blood Sugar Stability
 
-       
-        📘 Related Patient Resources</div><div>Liver Health: High blood sugar is a primary driver of MASLD. Learn about <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html" target="_blank">Liver Cirrhosis</a> &amp; Metabolism.</div><div>The Vascular Link: Diabetes increases the risk of <a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html" target="_blank">Cardiovascular Disease</a>.</div><div><b>Nutritional Strategy:</b> <a href="https://www.aginghealth.website/2024/01/low-glycemic-food.html" target="_blank">How to move away from the "SAD" diet with Low-Glycemic Eating for Seniors.</a></div><div><br /></div><div>
-<div class="sources-box" style="border-left: 4px solid rgb(74, 20, 140); margin-top: 2rem; padding-left: 1rem;"><h3>Fact Check &amp; Scholarly Sources</h3><b>CDC:</b> National Diabetes Statistics Report<br /><b>American Diabetes Association (ADA):</b> Standards of Care in Diabetes—2024<br /><b>Mayo Clinic:</b> Diabetic Retinopathy Pathophysiology</div></div></span><ul>
-</ul></span>
-                    <br><div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-                    <strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (<strong>1.2-1.5 g/kg</strong>) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <strong><130/80 mmHg</strong>.
-                    </div>
+[Diabetes](https://www.aginghealth.website/2023/09/insulin-dosing-for-diabetes-what-you.html) is not merely a "blood sugar problem"—it is a complex metabolic breakdown in how the body processes energy. Whether the issue is an [autoimmune](https://www.aginghealth.website/2024/01/women-autoimmune.html) destruction of insulin-producing cells (Type 1) or a cellular resistance to insulin (Type 2), the systemic impact on the vascular and nervous systems is profound.
+
+---
+
+**Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
+
+---
+
+![Split-screen medical art: sugary foods spike glucose (red) vs. whole foods (blue), shown in a glowing bloodstream within a transparent body.](/assets/images/metabolic-illustration.webp)**Figure 1:** How food choices shape blood sugar: sugary foods trigger rapid spikes, while whole foods support steadier, healthier glucose levels.
+
+## 🍎 The Food–Blood Sugar Connection
+
+Every meal sends a signal to your metabolism.  
+Carbohydrates—especially refined ones—break down into glucose, the body’s main fuel.  
+When glucose enters the bloodstream, the pancreas releases **insulin**, guiding that sugar into cells for energy or storage.
+
+## ⚖️ When Balance Breaks
+
+Highly processed foods—white bread, sugary drinks, pastries—cause **rapid spikes** in blood sugar.  
+These spikes trigger large insulin surges, often followed by a crash that leaves you tired and hungry again.  
+Over time, repeated surges can lead to **insulin resistance**, where cells stop responding properly, forcing the pancreas to work harder.
+
+## 🌿 The Steady Path
+
+Whole foods—vegetables, beans, lean proteins, and slightly under‑ripe fruit—digest more slowly.  
+They create **gentle glucose curves**, helping maintain steady energy and protecting blood vessels and nerves.  
+Fiber acts like a brake pedal, slowing absorption and reducing inflammation.
+
+## 🧠 Why It Matters
+
+Stable blood sugar supports clear thinking, mood, and long‑term brain health.  
+Emerging research links metabolic stability to lower risk of Alzheimer’s and other age‑related conditions.
+
+---
+
+> **Key takeaway:** Food isn’t just fuel—it’s a daily conversation with your metabolism.  
+> Choose meals that keep that conversation calm, steady, and supportive.
+
+---
+
+![The Standard American Diet  SAD](/assets/images/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods](https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.html), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
+
+---
+
+## The Statistics of the "SAD" Reality
+
+The Standard American Diet (SAD) isn't just a lifestyle choice; it's a primary driver of the current metabolic crisis.
+
+- **The Impact:** According to the CDC, over 38 million Americans have diabetes, and approximately 98 million—more than 1 in 3 adults—have prediabetes.
+- **Racial Disparities:** The prevalence of diagnosed diabetes is highest among:
+  - American Indians/Alaska Natives (13.6%)
+  - Black non-Hispanics (12.1%)
+  - Hispanics (11.7%)
+  - White non-Hispanics (7.5%)
+
+
+
+Understanding these risk factors is vital for community-specific advocacy.
+
+---
+
+## Decoding the Types: More Than Just Sugar
+
+### Type 1: The Autoimmune Attack
+
+Type 1 is an insulin-deficiency disorder. The immune system destroys the beta cells in the pancreas. Without insulin—the "key" that unlocks cells—glucose remains trapped in the bloodstream, leading to cellular starvation and systemic toxicity.
+
+### Type 2: The Resistance Factor
+
+In Type 2, the "locks" on your cells become rusty. Your body makes insulin, but the cells ignore it (insulin resistance). This is heavily influenced by the inflammatory nature of processed fats and refined sugars.
+
+### The "Type 3" Debate: Alzheimer’s and the Brain
+
+Emerging research often refers to Alzheimer’s as "Type 3 Diabetes." This suggests that the brain can develop its own form of insulin resistance, contributing to plaque buildup and cognitive decline. While not an official ADA diagnosis, the link between high A1C levels and cognitive impairment is a critical area in senior health.
+
+---
+
+## Why Complications Happen: The Vascular Cost
+
+High blood sugar acts like "shards of glass" in the bloodstream, damaging the lining of your vessels.
+
+- **Nephropathy (Kidney):** The kidneys' delicate filters (nephrons) become scarred. Diabetes remains the leading cause of kidney failure in the U.S.
+- **Retinopathy (Eyes):** Small vessels in the retina leak fluid or bleed.
+
+![Normal Retina vs Diabetic Retinopathy](/assets/images/diabetic-retinopathy.webp)**figure 3** This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar.
+
+- **Neuropathy (Nerves):** Chronic sugar toxicity damages nerve endings, often beginning in the feet. For seniors, this is the #1 risk factor for balance issues and undiagnosed infections.
+
+---
+
+## Management: Beyond "Eating Better"
+
+Effective management requires a multidisciplinary approach:
+
+- **Glycemic Monitoring:** Using a CGM (Continuous Glucose Monitor) or finger sticks to identify patterns.
+- **Pharmacology:** From Metformin (improving insulin sensitivity) to GLP-1 agonists (regulating appetite and insulin secretion).
+- **The "Movement Medicine":** Exercise allows muscle contraction to pull glucose from the bloodstream without additional insulin.
+
+---
+
+## 📘 Personal Insight: My Triple-Threat Strategy
+
+> **Author’s Note:**  
+> Living with Type 2 Diabetes is a daily negotiation. "Willpower" isn't enough—it takes a structured medical strategy.  
+>  
+> I manage my glucose through a **"Triple-Threat" approach**:
+>
+> 1. **Metformin:** Improves baseline insulin sensitivity.  
+> 2. **Ozempic (GLP-1):** Regulates appetite and slows gastric emptying to prevent post-meal spikes.  
+> 3. **Low-Glycemic Diet:** Prevents overwhelming the medications.  
+>
+> This combination has been a gamechanger for my A1C and reinforces the importance of transparent discussions with your endocrinologist about modern pharmacologic tools.
+
+---
+
+## 📝 Daily Glucose & Medication Log
+
+| Time of Day | Glucose (mg/dL) | Medication Taken | Meal / Carbs | Energy (1–10) |
+|-------------|-----------------|------------------|--------------|---------------|
+| **Fasting (Morning)** |  | Metformin? | N/A |  |
+| **Post-Breakfast** |  |  |  |  |
+| **Post-Lunch** |  |  |  |  |
+| **Post-Dinner** |  | Metformin? |  |  |
+| **Weekly Ozempic Dose** | Day: | Dose: | Notes: | Side effects? |
+
+*Note: Always share your logs with your endocrinologist before making dosage changes.*
+
+---
+
+## 📘 Related Patient Resources
+
+- **Liver Health:** High blood sugar drives MASLD. Learn about [Liver Cirrhosis & Metabolism](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
+- **The Vascular Link:** Diabetes increases the risk of [Cardiovascular Disease](https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html).
+- **Nutritional Strategy:** [How to move away from the "SAD" diet with Low-Glycemic Eating for Seniors.](https://www.aginghealth.website/2024/01/low-glycemic-food.html)
+
+---
+
+## 📚 Fact Check & Scholarly Sources
+
+- **CDC:** National Diabetes Statistics Report  
+- **American Diabetes Association (ADA):** Standards of Care in Diabetes—2024  
+- **Mayo Clinic:** Diabetic Retinopathy Pathophysiology  
+
+---
+
+> ### March 2026 Clinical Update
+> Current advocacy for liver health emphasizes high-protein intake (**1.2–1.5 g/kg**) to prevent sarcopenia.  
+> Portal hypertension targets for esophageal or gastric varices align with maintaining systemic blood pressure below **130/80 mmHg**.
