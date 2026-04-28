@@ -3,7 +3,7 @@ layout: post
 title: "Watchman Device: Minimally Invasive Heart Technology"
 date: 2024-01-17
 description: "A patient-centered review of the Watchman implant as a stroke-prevention alternative for those who cannot tolerate blood thinners."
-image: "/assets/assets/img/heart-rhythm.webp"
+image: "/assets/img/heart-rhythm.webp"
 tags: ["Metabolic", "Heart Health", "Patient Advocacy"]
 ---
 
@@ -13,7 +13,7 @@ For those of us living with Atrial Fibrillation (AFib), the fear of stroke is a 
 
 ---
 
-![Normal heart rhythm vs Atrial Fibrillation comparison](/assets/assets/img/heart-rhythm.webp)
+![Normal heart rhythm vs Atrial Fibrillation comparison](/assets/img/heart-rhythm.webp)
 *Figure 1: Normal heart rhythm follows a steady pattern. In AFib, chaotic electrical signals in the upper chambers increase the risk of blood clots and stroke.*
 
 ---
@@ -23,7 +23,7 @@ My journey into heart technology started with an irregular heartbeat and a proce
 
 
 
-![Image of catheter ablation procedure for atrial fibrillation](/assets/assets/img/assets/assets/img/catheter-ablation.webp)
+![Image of catheter ablation procedure for atrial fibrillation](/assets/img/assets/assets/img/catheter-ablation.webp)
 
 
 In my case, an eight-hour procedure was required to reach difficult arrhythmias. The physical toll of such an extended surgery increases the immediate risk of blood clots, often mandating a strict regimen of blood thinners—which is where the clinical conflict began.

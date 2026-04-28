@@ -3,7 +3,7 @@ layout: post
 title: "Autoimmune Arthritis: Types, Symptoms, and Therapy"
 date: 2024-01-20
 description: "A clinical guide to identifying and managing various forms of autoimmune arthritis, including RA, PsA, and Lupus-related joint pain."
-image: "/assets/assets/img/senior-walks-with-pain.webp"
+image: "/assets/img/senior-walks-with-pain.webp"
 tags: ["Longevity", "Functional Fitness", "Cognitive Health", "Nutrition", "Pain"]
 ---
 
@@ -13,7 +13,7 @@ Autoimmune arthritis occurs when the immune system mistakenly attacks the bodyâ€
 
 ---
 
-![A middle-aged man using a cane due to joint pain](/assets/assets/img/senior-walks-with-pain.webp)
+![A middle-aged man using a cane due to joint pain](/assets/img/senior-walks-with-pain.webp)
 *Autoimmune arthritis is a chronic condition characterized by joint inflammation and pain caused by immune dysfunction.*
 
 ---
@@ -30,7 +30,7 @@ Identifying the specific type of arthritis is the first step in creating a targe
 
 ---
 
-![Image of a normal joint vs a joint with rheumatoid arthritis](/assets/assets/img/rheumatoid-arthritis.webp)
+![Image of a normal joint vs a joint with rheumatoid arthritis](/assets/img/rheumatoid-arthritis.webp)
 *Figure 2: Left: A healthy knee with smooth cartilage and no inflammation. Right: A knee affected by rheumatoid arthritis, showing inflamed tissue, swollen synovium, and early joint damage.*
 
 ---

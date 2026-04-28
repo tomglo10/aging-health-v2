@@ -3,7 +3,7 @@ layout: post
 title: "Should Seniors Take Vitamins? Evidence‑Based Guidance"
 date: 2023-09-13T12:22:00+00:00
 description: "An evidence‑based, senior‑friendly guide to vitamins, safe supplementation, medication interactions, and the best time of day to take them."
-image: "/assets/assets/img/pharmacy.webp"
+image: "/assets/img/pharmacy.webp"
 tags: ["Senior Longevity", "Liver Health","Immune Health", "Nutrition", "Prevention"]
 ---
 
@@ -16,7 +16,7 @@ As we age, **nutrient absorption becomes less efficient**, appetite may decline,
 > **Medical Disclaimer:**  
 > This content is for informational and educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult your healthcare provider before starting or changing supplements.
 
-![In a small mid-western town, a smiling senior couple at a drug store asking the local pharmacist about vitamins.](/assets/assets/img/pharmacy.webp)
+![In a small mid-western town, a smiling senior couple at a drug store asking the local pharmacist about vitamins.](/assets/img/pharmacy.webp)
 *Figure 1: When buying vitamins check a healthcare provider to ensure there will not be any drug interactions.*
 
 

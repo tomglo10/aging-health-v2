@@ -3,7 +3,7 @@ layout: post
 title: "A Low-Glycemic Foods List for Sugar Management"
 date: 2026-02-02
 description: "Master blood sugar with the senior guide to low-glycemic living and vascular defense."
-image: "/assets/assets/img/produce-shopping.webp"
+image: "/assets/img/produce-shopping.webp"
 tags: ["Advocacy", "Cognitive Health", "Longevity", "Cardiovascular", "Diabetes", "Nutrition", "Prevention"]
 ---
 
@@ -13,7 +13,7 @@ Managing [Type 2 Diabetes](/2023/09/insulin-dosing-for-diabetes-what-you.html) i
 
 ---
 
-![A senior couple at a local farmer's market buying low glycemic vegetables](/assets/assets/img/produce-shopping.webp)
+![A senior couple at a local farmer's market buying low glycemic vegetables](/assets/img/produce-shopping.webp)
 *Figure 1: Locally sourced produce is the first line of defense in managing metabolic health.*
 
 ---

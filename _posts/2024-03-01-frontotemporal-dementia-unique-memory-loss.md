@@ -3,7 +3,7 @@ layout: post
 title: "Frontotemporal Dementia: Unique Memory Loss"
 date: 2024-03-01
 description: "Frontotemporal Dementia (FTD) impacts personality and communication more than just memory. Learn about the unique challenges of this condition."
-image: "/assets/assets/img/alzheimer's-frontotemporal-dementia.webp"
+image: "/assets/img/alzheimer's-frontotemporal-dementia.webp"
 tags: ["Clinical Research", "Cognitive Health", "Advocacy", "Dementia"]
 ---
 
@@ -15,7 +15,7 @@ Dementia is a word we usually associate with "forgetting." We think of misplaced
 
 ---
 
-![Alzheimer's vs Frontotemporal Dementia brain atrophy](/assets/assets/img/alzheimer's-frontotemporal-dementia.webp)
+![Alzheimer's vs Frontotemporal Dementia brain atrophy](/assets/img/alzheimer's-frontotemporal-dementia.webp)
 *Figure 1: FTD is often misdiagnosed as a mid-life crisis due to its impact on behavior.*
 
 ---

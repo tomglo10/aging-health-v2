@@ -3,7 +3,7 @@ layout: post
 title: "Cataract Surgery: What Seniors Need to Know"
 date: 2024-03-22
 description: "A clinical and personal look at cataract types, the surgical procedure, and how restoring vision reduces fall risks for seniors."
-image: "/assets/assets/img/cataracts.webp"
+image: "/assets/img/cataracts.webp"
 tags: ["Eye Care", "Longevity", "Clinical Research", "Aging Well"]
 ---
 
@@ -15,7 +15,7 @@ The good news is that cataract surgery remains one of the safest and most effect
 
 ---
 
-![Close-up of a human eye showing cataract clouding](/assets/assets/img/cataracts.webp)
+![Close-up of a human eye showing cataract clouding](/assets/img/cataracts.webp)
 *Figure 1: Cataract surgery restores independence by catching changes early and supporting long-term well-being.*
 
 ---

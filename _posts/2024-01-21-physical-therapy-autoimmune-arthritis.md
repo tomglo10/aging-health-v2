@@ -3,7 +3,7 @@ layout: post
 title: "Physical Therapy: Benefits for Autoimmune Arthritis Patients"
 date: 2024-01-21
 description: "How customized physical therapy improves joint function, reduces systemic inflammation, and empowers patients to manage chronic flares."
-image: "/assets/assets/img/physical-therapy.webp"
+image: "/assets/img/physical-therapy.webp"
 tags: ["Functional Fitness", "Heart Health", "Type 2 Diabetes", "Patient Advocacy", "Pain"]
 ---
 
@@ -13,7 +13,7 @@ Physical therapy is a vital "clinical intervention" for managing autoimmune arth
 
 ---
 
-![Physical therapist working with a senior patient on knee mobility](/assets/assets/img/physical-therapy.webp)
+![Physical therapist working with a senior patient on knee mobility](/assets/img/physical-therapy.webp)
 *Figure 1: Physical therapy offers a whole-body approach to movement and long-term joint preservation.*
 
 ---
@@ -25,7 +25,7 @@ Recent 2025 data confirms that regular, moderate exercise has **immunomodulatory
 
 ---
 
-![Image of the immune response in a joint with rheumatoid arthritis](/assets/assets/img/rheumatoid-arthritis-joint-immune-response.webp)
+![Image of the immune response in a joint with rheumatoid arthritis](/assets/img/rheumatoid-arthritis-joint-immune-response.webp)
 *Figure 2: Inflamed joint tissue in rheumatoid arthritis, with immune cells  infiltrating the synovium, attacking the joint lining, and triggering swelling, pain, and cartilage damage. This close-up reveals the autoimmune assault underlying chronic joint destruction.*
 
 ---

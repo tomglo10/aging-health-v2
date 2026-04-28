@@ -3,7 +3,7 @@ layout: post
 title: "Hearing Aids: A Necessity for Cognitive Preservation"
 date: 2024-03-23
 description: "Why modern hearing technology in 2026 is a critical tool for preventing social withdrawal and slowing cognitive decline."
-image: "/assets/assets/img/tom-hearing-aid.webp"
+image: "/assets/img/tom-hearing-aid.webp"
 tags: ["Clinical Research", "Cognitive Health", "Dementia", "Aging Well"]
 ---
 
@@ -12,7 +12,7 @@ Choosing a hearing aid in 2026 can be overwhelming, but modern options offer Blu
 
 ---
 
-![Outdoor portrait showing a small, natural-looking hearing aid device](/assets/assets/img/tom-hearing-aid.webp)
+![Outdoor portrait showing a small, natural-looking hearing aid device](/assets/img/tom-hearing-aid.webp)
 *Figure 1: Modern Micro Hearing Aid, A refined design blending comfort and clarity.*
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Psoriasis: Personal Advocacy and Systemic Research"
 date: 2023-09-27
 description: "A 4-year journey through plaque psoriasis and the transition to psoriatic arthritis, combined with a guide to navigating the biologic paywall."
-image: "/assets/assets/img/psoriasis-elbow.webp"
+image: "/assets/img/psoriasis-elbow.webp"
 tags: ["Clinical Research", "Immune Health", "Functional Fitness", "Genetics"]
 ---
 
@@ -13,7 +13,7 @@ tags: ["Clinical Research", "Immune Health", "Functional Fitness", "Genetics"]
   <p><b>The Cost of Care:</b> Two years ago, when my insurance stopped covering Humira, I turned to <b>AbbVie Assist</b>. Without manufacturer patient assistance, the biologic therapy that keeps my symptoms stable would be inaccessible. This guide combines personal advocacy with clinical data to help you navigate both the physical and financial hurdles of this condition.</p>
 </div>
 
-![Close-up of plaque psoriasis on a patient's elbow, illustrating silvery scales and inflammation.](/assets/assets/img/psoriasis-elbow.webp)
+![Close-up of plaque psoriasis on a patient's elbow, illustrating silvery scales and inflammation.](/assets/img/psoriasis-elbow.webp)
 *Figure 1: Psoriasis is a systemic autoimmune disorder; early detection and intervention are essential for preventing joint damage.*
 
 

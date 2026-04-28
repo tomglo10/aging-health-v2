@@ -3,7 +3,7 @@ layout: post
 title: "How to: Food Safety, Storage and Waste Prevention"
 date: 2023-10-07T00:06:00+00:00
 description: "Keep your food safe, fresh, and reduce waste. Clean, store, cook, and chill your food properly to prevent foodborne illness and save money."
-image:  "/assets/assets/img/food-safety.webp"
+image:  "/assets/img/food-safety.webp"
 tags: ['Senior Longevity', 'Functional Fitness', 'Patient Advocacy']
 ---
 
@@ -11,7 +11,7 @@ tags: ['Senior Longevity', 'Functional Fitness', 'Patient Advocacy']
 
 ---
 
-![An open well-maintained and organized refrigerator in a modern tidy.](/assets/assets/img/food-safety.webp)
+![An open well-maintained and organized refrigerator in a modern tidy.](/assets/img/food-safety.webp)
 *Figure 1: Food safety and proper storage are crucial for public health, preventing foodborne illnesses, and reducing waste. Maintaining correct temperatures inhibits harmful bacteria growth and protects food quality.*
 
 ---

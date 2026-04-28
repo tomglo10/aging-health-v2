@@ -3,7 +3,7 @@ layout: post
 title: "Pooping More Often: A Key to Better Health?"
 date: 2024-12-18
 description: "New 2026 research identifies a Goldilocks zone for bowel frequency that supports the microbiome and reduces chronic disease risk."
-image: "/assets/assets/img/bowel-movements.webp"
+image: "/assets/img/bowel-movements.webp"
 tags: ["Advocacy", "Cardiovascular", "Liver Health", "Immune Health", "Stress", "Prevention", "Digestive"]
 ---
 
@@ -12,7 +12,7 @@ tags: ["Advocacy", "Cardiovascular", "Liver Health", "Immune Health", "Stress", 
 In recent years, the relationship between gut health and overall wellness has moved from the fringe to the clinical center. The gut, often described as the body's "second brain," is integral to immune regulation and metabolic stability. 
 ---
 
-New research underscores the critical role that consistent bowel movements play in supporting a balanced gut environment. This isn't just about comfort; it is about the structural and immunological integrity of your body. ![Diagram illustrating the human digestive system and the gut-microbiome connection](/assets/assets/img/bowel-movements.webp)
+New research underscores the critical role that consistent bowel movements play in supporting a balanced gut environment. This isn't just about comfort; it is about the structural and immunological integrity of your body. ![Diagram illustrating the human digestive system and the gut-microbiome connection](/assets/img/bowel-movements.webp)
 *Figure 1: Regular Bowel Movements - One to two daily movements help maintain a balanced microbiome and lower the risk of systemic inflammation.*
 
 ---
@@ -22,7 +22,7 @@ Researchers have identified an ideal frequency for maintaining gut health: **one
 
 ---
 
-![Image of the gut-brain axis](/assets/assets/img/gut-brain-axis.webp)*Image of the gut-brain axis.*
+![Image of the gut-brain axis](/assets/img/gut-brain-axis.webp)*Image of the gut-brain axis.*
 
 
 * **Inflammatory Bowel Disease (IBD):** Maintaining regular flow prevents the prolonged contact of waste with the intestinal wall, reducing the triggers for Crohn's and ulcerative colitis.
@@ -37,7 +37,7 @@ The texture and appearance of stool serve as important indicators of your digest
 
 
 
-![Image of the Bristol Stool Scale](/assets/assets/img/bristol-stool-scale.webp)*The Bristol Stool Scale.*
+![Image of the Bristol Stool Scale](/assets/img/bristol-stool-scale.webp)*The Bristol Stool Scale.*
 
 
 Ideally, stools should be **Type 3 or Type 4** (soft, well-formed, and easy to pass). If your data consistently falls into Type 1 (constipation) or Type 7 (diarrhea), it is time to adjust your biological inputs.

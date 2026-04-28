@@ -3,7 +3,7 @@ layout: post
 title: "Chasing Sunrises: New Hope for Autoimmune Arthritis Care"
 date: 2024-01-22
 description: "A 2026 roadmap exploring precision medicine, GZMK protein research, and the gut-joint axis in autoimmune arthritis."
-image: "/assets/assets/img/ah-autoimmune-arthritis.webp"
+image: "/assets/img/ah-autoimmune-arthritis.webp"
 tags: ["Functional Fitness", "Clinical Research", "Advocacy", "Genetics", "Pain"]
 ---
 
@@ -13,7 +13,7 @@ Autoimmune arthritis—once a condition of "managing the decline"—has entered 
 
 ---
 
-![Autoimmune response in rheumatoid arthritis](/assets/assets/img/ah-autoimmune-arthritis.webp)
+![Autoimmune response in rheumatoid arthritis](/assets/img/ah-autoimmune-arthritis.webp)
 *Figure 1: Infographic depicting the autoimmune process, emphasizing systemic inflammation and joint tissue damage.*
 
 ---
@@ -24,7 +24,7 @@ It isn't a single disease; it’s a systemic failure of **Immune Tolerance**. Un
 
 ---
 
-![Image of the immune response in a joint with rheumatoid arthritis](/assets/assets/img/rheumatoid-arthritis-joint-immune-response.webp)
+![Image of the immune response in a joint with rheumatoid arthritis](/assets/img/rheumatoid-arthritis-joint-immune-response.webp)
 *Figure 2: Inflamed joint tissue in rheumatoid arthritis, with immune cells (in red and green) infiltrating the synovium, attacking the joint lining, and triggering swelling, pain, and cartilage damage. This close-up reveals the autoimmune assault underlying chronic joint destruction.*
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Gluten-Linked Issues You May Not Know"
 date: 2023-10-08
 description: "Research from 2024-2025 highlights the complex link between gluten exposure, intestinal permeability, and neurological symptoms."
-image: "/assets/assets/img/structure-small-intestine-villi.webp"
+image: "/assets/img/structure-small-intestine-villi.webp"
 tags: ["Cognitive Health", "Immune Health", "Nutrition", "Digestive", "Liver Health"]
 ---
 
@@ -19,7 +19,7 @@ Understanding these gluten-linked issues helps patients ask clearer questions, a
 
 ---
 
-![Image of the structure of the small intestine villi](/assets/assets/img/structure-small-intestine-villi.webp)
+![Image of the structure of the small intestine villi](/assets/img/structure-small-intestine-villi.webp)
 *Figure 1Colorful diagram of a small intestine villus showing its key structures—epithelium with microvilli (brush border), capillary network, and central lacteal—working together to increase surface area and absorb nutrients into the blood and lymph.*
 
 ---

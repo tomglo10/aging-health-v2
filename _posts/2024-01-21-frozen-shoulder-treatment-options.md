@@ -3,7 +3,7 @@ layout: post
 title: "How to Fix a Frozen Shoulder - Treatment Options"
 date: 2024-01-21
 description: "A 10-year thaw perspective on Adhesive Capsulitis, exploring GZMK protein research and 2026 clinical breakthroughs."
-image: "/assets/assets/img/frozen-shoulder-pain.webp"
+image: "/assets/img/frozen-shoulder-pain.webp"
 tags: ["Functional Fitness", "Immune Health", "Advocacy", "Pain", "Inflammation"]
 ---
 
@@ -13,7 +13,7 @@ If you’ve lived with a "Frozen Shoulder" (Adhesive Capsulitis), you know it’
 
 ---
 
-![Cinematic illustration of shoulder pain and resolve](/assets/assets/img/frozen-shoulder-pain.webp)
+![Cinematic illustration of shoulder pain and resolve](/assets/img/frozen-shoulder-pain.webp)
 *Figure 1: Frozen shoulder causes severe pain and a biological "thickening" of the joint capsule.*
 
 ---

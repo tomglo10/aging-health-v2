@@ -3,7 +3,7 @@ layout: post
 title: "Keto Diet: Metabolic Mechanisms and Neurological Benefits"
 date: 2026-04-16
 description: "A clinical review of how the ketogenic diet impacts ketosis, blood sugar control, and neurodegenerative conditions like Alzheimer's."
-image: "/assets/assets/img/ketogenic-pathway.webp"
+image: "/assets/img/ketogenic-pathway.webp"
 tags: ["Nutrition", "Diabetes", "Neurology", "Metabolic Health"]
 ---
 
@@ -16,7 +16,7 @@ When carbohydrate intake is limited (typically under 50g per day), the liver beg
 
 ---
 
-![Diagram of the Ketogenic metabolic pathway showing the liver converting fats into ketone bodies for brain energy](/assets/assets/img/ketogenic-pathway.webp)
+![Diagram of the Ketogenic metabolic pathway showing the liver converting fats into ketone bodies for brain energy](/assets/img/ketogenic-pathway.webp)
 *Figure 1. The Ketogenic Diet may promote weight loss, improve blood sugar control, and increase energy, with some studies suggesting benefits for neurological disorders like epilepsy and Alzheimer's.*
 
 ---

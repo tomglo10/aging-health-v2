@@ -2,14 +2,14 @@
 layout: post
 title: "Mind Matters: Diabetes: What Patients Want to Know"
 date: 2026-04-12
-image: "/assets/assets/img/diabetes.webp"
+image: "/assets/img/diabetes.webp"
 tags: ["Liver Health", "Diabetes", "Heart Health", "Metabolic Health"]
 ---
 Diabetes affects millions, and patients want clear, trustworthy answers about managing their health. From understanding blood sugar control to navigating diet, medications, and daily lifestyle choices, this guide breaks down what matters most—so you can feel informed, empowered, and in control of your journey. 
 
 ---
 
-![An older man sitting at a table, holding a blood sugar meter looking confused, with a floating question mark above his head.](/assets/assets/img/diabetes.webp)
+![An older man sitting at a table, holding a blood sugar meter looking confused, with a floating question mark above his head.](/assets/img/diabetes.webp)
 *Figure 1: Confusion around blood sugar readings is common; patterns matter more than single numbers.*
 
 ---

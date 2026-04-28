@@ -3,7 +3,7 @@ layout: post
 title: "Don't Ignore the Warning Signs of Type 2 Diabetes"
 date: 2023-10-10
 description: "How identifying early insulin resistance and losing abdominal fat can improve long-term metabolic health."
-image: "/assets/assets/img/prediabetes.webp"
+image: "/assets/img/prediabetes.webp"
 tags: ["Cardiovascular", "Senior Longevity", "Cognitive Health", "Diabetes"]
 ---
 
@@ -53,7 +53,7 @@ Type 2 diabetes often develops slowly, and many people miss the early clues. Cat
 
 ---
 
-![Belly fat contributes to developing diabetes](/assets/assets/img/prediabetes.webp)
+![Belly fat contributes to developing diabetes](/assets/img/prediabetes.webp)
 *Reducing abdominal fat is a key strategy to [lower the likelihood](https://www.aginghealth.website/2023/11/foods-raise-lower-testosterone.html) of developing prediabetes.*
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leaky Gut Syndrome: Fact or Fiction?"
 date: 2023-12-16
 description: "Separating medical hype from science regarding intestinal permeability and its impact on senior health."
-image: "/assets/assets/img/leaky-gut-syndrome.webp"
+image: "/assets/img/leaky-gut-syndrome.webp"
 tags: ["Senior Longevity", "Liver Health", "Nutrition", "Digestive"]
 ---
 
@@ -15,7 +15,7 @@ Leaky gut syndrome is hypothesized to involve increased intestinal permeability,
 
 ---
 
-![Diagram showing the intestinal lining with widened gaps](/assets/assets/img/leaky-gut-syndrome-diagram.webp)
+![Diagram showing the intestinal lining with widened gaps](/assets/img/leaky-gut-syndrome-diagram.webp)
 *Figure 1: A medical illustration showing how inflammation allow toxins and bacteria to pass into the bloodstream, triggering immune responses.*
 
 ---

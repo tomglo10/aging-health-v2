@@ -6,7 +6,7 @@ description: "Is Alzheimer’s ‘Type 3 diabetes’? A patient-researcher expla
 toc: true
 
 image:
-  path: "/assets/assets/img/metabolic-connection.webp"
+  path: "/assets/img/metabolic-connection.webp"
   alt: "Conceptual illustration of the metabolic connection between Alzheimer's disease and diabetes."
 
 categories:
