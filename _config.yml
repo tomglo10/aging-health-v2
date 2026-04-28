@@ -46,7 +46,8 @@ author:
       url: https://aginghealth.website
       icon: "fas fa-globe"
     - title: Buy Me A Coffee
-      url: https://www.buymeacoffee.com/yourlink # Optional, but good for advocates!
+      url: https://buymeacoffee.com/aginghealth
+      
       icon: "fas fa-coffee"
 
 # Social SEO (Leave this for Google/Twitter previews)
