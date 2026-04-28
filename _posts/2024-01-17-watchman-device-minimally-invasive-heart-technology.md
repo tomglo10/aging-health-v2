@@ -23,7 +23,7 @@ My journey into heart technology started with an irregular heartbeat and a proce
 
 
 
-![Image of catheter ablation procedure for atrial fibrillation](/assets/img/assets/assets/img/catheter-ablation.webp)
+![Image of catheter ablation procedure for atrial fibrillation](/assets/img/assets/img/catheter-ablation.webp)
 
 
 In my case, an eight-hour procedure was required to reach difficult arrhythmias. The physical toll of such an extended surgery increases the immediate risk of blood clots, often mandating a strict regimen of blood thinners—which is where the clinical conflict began.
