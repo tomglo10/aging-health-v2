@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Vitamin D and Sarcopenia: The 2026 Muscle Health Update"
+date: 2026-04-26
+description: "A patient-researcher update on how Vitamin D deficiency accelerates sarcopenia."
+image:
+  path: /assets/img/vitamin-d-protein.webp
+  alt: The Vitamin D Muscle Triad
+tags: ["Sarcopenia", "Geriatrics", "Muscle Health"]
+---
+
+## 🧬 1. How Vitamin D Works in Muscle
+Vitamin D supports skeletal muscle through **genomic and non‑genomic pathways**.
+
+---
+
+![The Vitamin D Muscle Triad](/assets/img/vitamin-d-protein.webp)
+*Deficiency dampens these signals, contributing to progressive atrophy.*
+
+---
+
+## 🩺 Key Clinical Takeaways
+
+| 🔍 Question | ✅ Answer |
+|---|---|
+| **What’s the link?** | Deficiency weakens Type II fibers essential for balance |
+| **Primary mechanisms** | Reduced VDR signaling, impaired calcium handling |
+| **Action step** | Screen Vitamin D in adults >65 with gait changes |
+
+> **Research Note:**
+> Vitamin D is a *catalyst*, not a cure‑all. Best outcomes occur when paired with resistance training and ~**1.2 g/kg/day protein**.
+
