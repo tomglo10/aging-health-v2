@@ -134,7 +134,7 @@ Vitamin D plays a critical role here by:
 ---
 
 
-![Dashboard graphic showing Anti‑CCP as an illuminated orange ‘Check Engine’ warning light on the left, and CRP as a tachometer on the right with the needle in the high‑rev red zone. Additional small gauges along the bottom represent fuel, temperature, and glucose.”assets/img/dashboard.webp)**Figure 3:** Anti‑CCP is your ‘Check Engine’ light — it’s either on or off. CRP is your ‘Tachometer,’ showing how hard inflammation is revving right now.
+![Dashboard graphic showing Anti‑CCP as an illuminated orange ‘Check Engine’ warning light on the left, and CRP as a tachometer on the right with the needle in the high‑rev red zone. Additional small gauges along the bottom represent fuel, temperature, and glucose.](”assets/img/dashboard.webp)**Figure 3:** Anti‑CCP is your ‘Check Engine’ light — it’s either on or off. CRP is your ‘Tachometer,’ showing how hard inflammation is revving right now.
 
 
 ---
