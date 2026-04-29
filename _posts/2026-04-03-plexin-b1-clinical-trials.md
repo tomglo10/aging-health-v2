@@ -1,4 +1,4 @@
-cat <<'EOF' > _posts/2026-04-03-plexin-b1-clinical-trials.md
+_posts/2026-04-03-plexin-b1-clinical-trials.md
 ---
 layout: post
 title: "Plexin-B1 Clinical Trials: The 2026 Update"
@@ -21,7 +21,7 @@ As a health researcher, I’ve been tracking the shift from simple amyloid-clear
 
 ---
 
-EOF
+
 ### 1. The SIGNAL-AD Trial: Pepinemab’s Progress
 The most advanced clinical effort in the Plexin-B1 space centers on **Pepinemab**, a monoclonal antibody designed to block **SEMA4D**.
 

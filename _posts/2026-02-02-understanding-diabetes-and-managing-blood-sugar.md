@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
 description: "Understanding how everyday foods influence blood sugar and energy balance."
-image: /assets/img/metabolic-illustration.webp
+image: /assets/images/metabolic-illustration.webp
 tags: ['Cognitive Health', 'Cardiovascular', 'Liver Health', 'Diabetes', 'Nutrition',]
 ---
 
@@ -17,7 +17,7 @@ tags: ['Cognitive Health', 'Cardiovascular', 'Liver Health', 'Diabetes', 'Nutrit
 
 ---
 
-![Split-screen medical art: sugary foods spike glucose (red) vs. whole foods (blue), shown in a glowing bloodstream within a transparent body.](/assets/img/metabolic-illustration.webp)**Figure 1:** How food choices shape blood sugar: sugary foods trigger rapid spikes, while whole foods support steadier, healthier glucose levels.
+![Split-screen medical art: sugary foods spike glucose (red) vs. whole foods (blue), shown in a glowing bloodstream within a transparent body.](/assets/images/metabolic-illustration.webp)**Figure 1:** How food choices shape blood sugar: sugary foods trigger rapid spikes, while whole foods support steadier, healthier glucose levels.
 
 ## 🍎 The Food–Blood Sugar Connection
 
@@ -49,7 +49,7 @@ Emerging research links metabolic stability to lower risk of Alzheimer’s and o
 
 ---
 
-![The Standard American Diet  SAD](/assets/img/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods](https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.html), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
+![The Standard American Diet  SAD](/assets/images/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods](https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.html), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
 
 ---
 
@@ -93,7 +93,7 @@ High blood sugar acts like "shards of glass" in the bloodstream, damaging the li
 - **Nephropathy (Kidney):** The kidneys' delicate filters (nephrons) become scarred. Diabetes remains the leading cause of kidney failure in the U.S.
 - **Retinopathy (Eyes):** Small vessels in the retina leak fluid or bleed.
 
-![Normal Retina vs Diabetic Retinopathy](/assets/img/diabetic-retinopathy.webp)**figure 3** This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar.
+![Normal Retina vs Diabetic Retinopathy](/assets/images/diabetic-retinopathy.webp)**figure 3** This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar.
 
 - **Neuropathy (Nerves):** Chronic sugar toxicity damages nerve endings, often beginning in the feet. For seniors, this is the #1 risk factor for balance issues and undiagnosed infections.
 
@@ -126,13 +126,13 @@ Effective management requires a multidisciplinary approach:
 
 ## 📝 Daily Glucose & Medication Log
 
-| Time of Day | Glucose (mg/dL) | Medication Taken | Meal / Carbs | Energy (1–10) |
-|-------------|-----------------|------------------|--------------|---------------|
-| **Fasting (Morning)** |  | Metformin? | N/A |  |
-| **Post-Breakfast** |  |  |  |  |
-| **Post-Lunch** |  |  |  |  |
-| **Post-Dinner** |  | Metformin? |  |  |
-| **Weekly Ozempic Dose** | Day: | Dose: | Notes: | Side effects? |
+| Time of Day             | Glucose (mg/dL) | Medication Taken | Meal / Carbs | Energy (1–10) |
+| ----------------------- | --------------- | ---------------- | ------------ | ------------- |
+| **Fasting (Morning)**   |                 | Metformin?       | N/A          |               |
+| **Post-Breakfast**      |                 |                  |              |               |
+| **Post-Lunch**          |                 |                  |              |               |
+| **Post-Dinner**         |                 | Metformin?       |              |               |
+| **Weekly Ozempic Dose** | Day:            | Dose:            | Notes:       | Side effects? |
 
 *Note: Always share your logs with your endocrinologist before making dosage changes.*
 
