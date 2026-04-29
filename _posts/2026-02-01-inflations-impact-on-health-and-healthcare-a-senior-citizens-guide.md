@@ -21,7 +21,7 @@ toc: true
 {: .prompt-info }
 
 For older adults, inflation is not just an economic statistic—it is a **direct threat to physical longevity**.  
-When the cost of life‑saving prescriptions and essential [preventive screenings](https://www.aginghealth.website/2025/09/essential-health-screenings-seniors-aging.html) rises faster than fixed‑income adjustments, healthcare quietly becomes a *discretionary expense*.
+When the cost of life‑saving prescriptions and essential preventive screenings rises faster than fixed‑income adjustments, healthcare quietly becomes a *discretionary expense*.
 
 In 2026, seniors are increasingly forced to choose between groceries, utilities, and medications. This guide explains **why this trend is dangerous**—and how proactive healthcare advocacy can prevent financial stress from turning into medical decline.
 
@@ -51,7 +51,7 @@ Always consult a qualified healthcare provider regarding any medical condition.
 ---
 
 ![The heavy burden of inflation on senior health.](/assets/img/inflation-medicare.webp)
-_Figure 1. Healthcare providers play a critical role in helping seniors manage the **intersection of medical needs and financial constraints**._
+**Figure 1**. Healthcare providers play a critical role in helping seniors manage the **intersection of medical needs and financial constraints**.
 
 ---
 
@@ -170,7 +170,7 @@ By refusing to delay preventive care, advocating for affordable medications, and
 ---
 
 ![Prescription savings tip card.](/assets/img/savings-hack.webp)
-_Figure 2. Three proven ways seniors can save on prescriptions in 2026._
+**Figure 2.** Three proven ways seniors can save on prescriptions in 2026.
 
 ---
 
