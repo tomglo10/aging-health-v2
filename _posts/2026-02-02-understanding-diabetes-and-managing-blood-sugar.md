@@ -3,8 +3,7 @@ layout: post
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
 description: "Understanding how everyday foods influence blood sugar and energy balance."
-image: /assets/img
-/metabolic-illustration.webp
+image: /assets/img/metabolic-illustration.webp
 tags: ['Cognitive Health', 'Cardiovascular', 'Liver Health', 'Diabetes', 'Nutrition',]
 ---
 
