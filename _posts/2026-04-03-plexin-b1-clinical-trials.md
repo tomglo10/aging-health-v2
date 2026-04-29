@@ -1,4 +1,3 @@
-_posts/2026-04-03-plexin-b1-clinical-trials.md
 ---
 layout: post
 title: "Plexin-B1 Clinical Trials: The 2026 Update"
