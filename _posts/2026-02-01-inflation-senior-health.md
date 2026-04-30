@@ -47,8 +47,7 @@ Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![The heavy burden of inflation on senior health.]
-(/assets/img/inflation-medicare .webp)
+![The heavy burden of inflation on senior health.](/assets/img/inflation-medicare .webp)
 **Figure 1**. Healthcare providers play a critical role in helping seniors manage the **intersection of medical needs and financial constraints**.
 
 ---
