@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Food Additives & Type 2 Diabetes: Identifying Metabolic Disruptors"
-date: 2026-04-04
+date: 2026-04-30
 description: "A 2026 clinical update on how ultra-processed food additives disrupt insulin signaling and degrade gut health."
 image:
   path: /assets/img/ingredient-study.webp
-  alt: Label Literacy: Becoming a 'Medical Detective' in the grocery aisle.
+  alt: "Label Literacy: Becoming a 'Medical Detective' in the grocery aisle."
 category: [Health Research, Metabolism]
 tags: [diabetes, additives, gut-health, insulin-resistance, ultra-processed-foods]
 ---
