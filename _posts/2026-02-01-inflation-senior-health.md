@@ -15,8 +15,7 @@ tags:
   - prescription-costs
   - preventive-care
   - healthy-aging
-reading_time: true
-toc: true
+
 ---
  **Why Inflation Matters for Senior Health**
 {: .prompt-info }
