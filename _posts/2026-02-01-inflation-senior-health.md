@@ -3,7 +3,7 @@ layout: post
 title: "Inflation's Impact on Health and Healthcare: A Senior Citizen’s Guide"
 date: 2026-02-01 01:00:00 +0000
 description: "How inflation in 2026 increases healthcare costs for seniors—and what older adults can do to protect their health on a fixed income."
-image: 
+image: /assets/img/inflation-medicare .webp
 categories:
   - Health
   - Senior-Care
@@ -47,7 +47,8 @@ Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![The heavy burden of inflation on senior health.](/assets/img/inflation-medicare.webp)
+![The heavy burden of inflation on senior health.]
+(/assets/img/inflation-medicare .webp)
 **Figure 1**. Healthcare providers play a critical role in helping seniors manage the **intersection of medical needs and financial constraints**.
 
 ---
