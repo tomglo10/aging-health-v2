@@ -67,6 +67,37 @@ Use this logic flow to navigate care decisions with your neurologist:
     * *No* → Explore **cholinesterase inhibitors** (like Donepezil) first.
 
 ---
+🧬 The "Vagus Highway": How the Gut Influences LBD
+In 2026, we understand that a "leaky" gut barrier does more than cause digestive upset; it allows pro-inflammatory lipopolysaccharides (LPS) to enter the bloodstream, triggering systemic inflammation that weakens the blood-brain barrier.
+
+Synuclein Seeding: Research shows that chronic gut inflammation can cause alpha-synuclein to misfold in the intestinal lining. These misfolded proteins then use the vagus nerve as a highway to reach the brain's cognitive centers.
+
+The GLP-1 Connection: Modern therapies like GLP-1 agonists (often used for metabolic health) are being studied for their "neuroprotective" effects, as they help stabilize the gut barrier and reduce the "fire" in both the gut and the brain.
+---
+
+## 🦠 The Gut-Brain Axis: The "Bottom-Up" Origin of LBD
+
+Recent 2026 studies suggest that LBD may begin in the gut years before the first hallucination or "mini-stroke" symptom appears. This is known as the **Enteric Origin Hypothesis**.
+
+### 🧪 2026 Microbiome Targets
+To protect the brain, we must first protect the gut lining. Clinical research now focuses on these specific targets:
+
+- **Akkermansia Muciniphila:** A "keystone" bacteria that strengthens the mucus lining of the gut. Low levels are frequently seen in patients with early-stage LBD and Parkinson's.
+- **Short-Chain Fatty Acids (SCFAs):** Produced by fermenting fiber, SCFAs like *Butyrate* act as a direct fuel source for brain-protective cells (microglia).
+- **The "Leaky Gut" Marker:** High levels of *Zonulin* in the blood can indicate a compromised barrier, signaling a higher risk for neuro-inflammation.
+
+> **Researcher Tip:** Managing the Gut-Brain axis is why target protein intake (**1.2–1.5 g/kg**) and high-fiber "Prebiotic" foods are non-negotiable for LBD patients in 2026.
+{: .prompt-tip }
+
+
+###📊 2026 Gut-Brain Nutrition Table#
+
+|Nutrient           |Target Purpose in LBD               | 2026 Food Source|
+|Polyphenols        |Reduces oxidative stress in the gut |Blueberries, Green Tea, Extra Virgin Olive Oil  |
+|Resistant Starch   |Boosts Butyrate (SCFA) production   |Cooked and cooled potatoes/rice, green bananas|
+|Targeted Probiotics|Lowers "systemic fire" (CRP)Fermented foods (Kimchi, Kefir) or specific LBD strains|
+
+---
 
 ## Treatment: What Actually Helps
 
