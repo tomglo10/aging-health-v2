@@ -74,18 +74,27 @@ div ul li {
 #post-wrapper .preview-img {
   display: none;}
 
-/* 1. Hide the top banner image inside the post view */
-#post-wrapper > img.preview-img,
+/* 1. The 'Nuclear Option' for the top banner image */
+/* This targets the banner in multiple ways to ensure it stays hidden */
 .post-head-wrapper img,
-#post-wrapper > img:first-of-type {
+#post-wrapper img.preview-img,
+#post-wrapper > img:first-of-type,
+div[class*='post-head'] img {
   display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* 2. Ensure body images with captions look like professional figures */
+/* 2. Professional Fig-Caption Styling */
+/* This makes the 'Figure 1' text look like a medical journal */
 .normal + em, .normal + i {
   display: block;
   text-align: center;
-  font-size: 0.9rem;
-  color: #6a737d;
-  margin-top: 10px;
+  font-size: 0.95rem;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  color: #4a5568;
+  margin: 15px 0 30px 0;
+  font-weight: 500;
 }
