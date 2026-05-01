@@ -1,99 +1,39 @@
+---
+---
+
 /* ------------------------------
    HEADINGS — CHIRPY OVERRIDES
    ------------------------------ */
 
-/* H1 inside article/post content */
-.post-content h1,
-.content h1 {
-  font-family: Roboto;
+/* This will make your research headings stand out */
+.post-content h1, .content h1 {
+  font-family: 'Roboto', sans-serif;
   font-size: 36px;
   color: #1a237e;
   text-transform: capitalize;
   font-weight: 700;
-  font-style: italic;}
-
-/* H2 */
-.post-content h2,
-.content h2 {
-  font-size: 28px;
-  font-weight: 500;
   font-style: italic;
-  font-family: Roboto;
-  text-transform: capitalize;
-  color: #006064;}
-
-/* H3 */
-.post-content h3,
-.content h3 {
-  font-family: Roboto;
-  font-size: 23px;
-  font-weight: 500;
-  font-style: italic;
-  text-transform: capitalize;
-  color: #1b5e20;
 }
 
-/* H4 */
-.post-content h4,
-.content h4 {
-  font-family: Roboto;
-  font-size: 21px;
-  font-weight: 500;
-  font-style: italic;
-  color: #4e342e;
-  text-transform: capitalize;
-}
+/* ... (Keep all your other H2, H3, H4 styles here) ... */
 
 /* ------------------------------
-   BODY TEXT
+   THE IMAGE CLOAK
    ------------------------------ */
 
-.col-12.col-lg-11.col-xl-9.px-md-4,
-.post-content p,
-.content p {
-  font-family: "Roboto Serif", serif;
-  font-size: 19px;
-}
-
-/* Lists */
-.post-content ul li,
-.post-content ol li,
-.content ul li,
-.content ol li {
-  font-family: "Roboto Serif", serif;
-  font-size: 19px;
-}
-
-
-div ul li {
-  font-family: Roboto Serif;
-  font-size: 19px;
-}
-/* Keeps thumbnails on home, but hides the cropped header image inside the article */
-#post-wrapper .post-content > img:first-child,
-#post-wrapper .preview-img {
-  display: none;}
-
-/* 1. The 'Nuclear Option' for the top banner image */
-/* This targets the banner in multiple ways to ensure it stays hidden */
-.post-head-wrapper img,
+/* This stops the "Double Image" by hiding the top banner in posts */
+/* We are targeting the specific Chirpy class 'preview-img' */
 #post-wrapper img.preview-img,
-#post-wrapper > img:first-of-type,
-div[class*='post-head'] img {
+.post-head-wrapper img,
+#post-wrapper > img:first-child {
   display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
 }
 
-/* 2. Professional Fig-Caption Styling */
-/* This makes the 'Figure 1' text look like a medical journal */
+/* Professional Fig-Caption Styling */
 .normal + em, .normal + i {
   display: block;
   text-align: center;
   font-size: 0.95rem;
-  font-family: 'Segoe UI', Roboto, sans-serif;
   color: #4a5568;
   margin: 15px 0 30px 0;
   font-weight: 500;
