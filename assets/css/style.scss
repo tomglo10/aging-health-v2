@@ -1,0 +1,79 @@
+/* ------------------------------
+   HEADINGS — CHIRPY OVERRIDES
+   ------------------------------ */
+
+/* H1 inside article/post content */
+.post-content h1,
+.content h1 {
+  font-family: Roboto;
+  font-size: 36px;
+  color: #1a237e;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-style: italic;}
+
+/* H2 */
+.post-content h2,
+.content h2 {
+  font-size: 28px;
+  font-weight: 500;
+  font-style: italic;
+  font-family: Roboto;
+  text-transform: capitalize;
+  color: #006064;}
+
+/* H3 */
+.post-content h3,
+.content h3 {
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: 500;
+  font-style: italic;
+  text-transform: capitalize;
+  color: #1b5e20;
+}
+
+/* H4 */
+.post-content h4,
+.content h4 {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  font-style: italic;
+  color: #4e342e;
+  text-transform: capitalize;
+}
+
+/* ------------------------------
+   BODY TEXT
+   ------------------------------ */
+
+.col-12.col-lg-11.col-xl-9.px-md-4,
+.post-content p,
+.content p {
+  font-family: "Roboto Serif", serif;
+  font-size: 19px;
+}
+
+/* Lists */
+.post-content ul li,
+.post-content ol li,
+.content ul li,
+.content ol li {
+  font-family: "Roboto Serif", serif;
+  font-size: 19px;
+}
+
+
+div ul li {
+  font-family: Roboto Serif;
+  font-size: 19px;
+}
+/* Keeps thumbnails on home, but hides the cropped header image inside the article */
+#post-wrapper .post-content > img:first-child,
+#post-wrapper .preview-img {
+  display: none;}
+/* Hide the redundant giant banner image at the top of posts */
+#post-wrapper > img {
+  display: none !important;
+}
