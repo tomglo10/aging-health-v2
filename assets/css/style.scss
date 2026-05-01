@@ -73,7 +73,19 @@ div ul li {
 #post-wrapper .post-content > img:first-child,
 #post-wrapper .preview-img {
   display: none;}
-/* Hide the redundant giant banner image at the top of posts */
-#post-wrapper > img {
+
+/* 1. Hide the top banner image inside the post view */
+#post-wrapper > img.preview-img,
+.post-head-wrapper img,
+#post-wrapper > img:first-of-type {
   display: none !important;
+}
+
+/* 2. Ensure body images with captions look like professional figures */
+.normal + em, .normal + i {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6a737d;
+  margin-top: 10px;
 }
