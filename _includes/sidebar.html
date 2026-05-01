@@ -1,46 +1,48 @@
 <style>
-  /* --- 1. THE IMAGE CLOAK (Hides banners, keeps thumbnails) --- */
-  /* This targets only the post view, so your homepage stays beautiful */
-  .post-head-wrapper img,
-  #post-wrapper img.preview-img,
-  #post-wrapper > img:first-child,
-  div[class*='post-head'] img {
+  /* 1. THE PRECISION CLOAK */
+  /* This targets the specific div and link classes found in your 'Inspect' tool */
+  article header .post-meta .mt-3.mb-3,
+  article header .preview-img,
+  article header .preview-img img {
     display: none !important;
     visibility: hidden !important;
     height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
   }
 
-  /* --- 2. RESEARCH HEADINGS (Navy & Cyan Theme) --- */
-  .post-content h1, .content h1 {
-    font-family: 'Roboto', sans-serif !important;
-    font-size: 36px !important;
+  /* 2. RESEARCH HEADINGS (Navy & Cyan Theme) */
+  html body .post-content h1,
+  html body .content h1 {
     color: #1a237e !important;
+    font-family: 'Roboto', sans-serif !important;
     font-weight: 700 !important;
     font-style: italic !important;
   }
 
-  .post-content h2, .content h2 {
-    font-size: 28px !important;
+  html body .post-content h2,
+  html body .content h2 {
     color: #006064 !important;
+    font-size: 28px !important;
+    font-family: 'Roboto', sans-serif !important;
     font-weight: 500 !important;
-    font-style: italic !important;
   }
 
-  /* --- 3. MEDICAL FIGURE CAPTIONS --- */
+  /* 3. BODY TEXT READABILITY */
+  .post-content p, .post-content li {
+    font-family: "Roboto Serif", serif !important;
+    font-size: 19px !important;
+    line-height: 1.75;
+  }
+
+  /* 4. FIGURE CAPTIONS */
   .normal + em, .normal + i {
     display: block;
     text-align: center;
     font-size: 0.95rem;
     color: #4a5568;
-    margin: 15px 0 30px 0;
-    font-weight: 500;
-  }
-
-  /* --- 4. BODY TEXT READABILITY --- */
-  .post-content p, .content p, .post-content li {
-    font-family: "Roboto Serif", serif !important;
-    font-size: 19px !important;
-    line-height: 1.7;
+    margin: 10px 0 30px 0;
   }
 </style>
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
