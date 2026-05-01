@@ -3,9 +3,6 @@ layout: post
 title: "The Vagus Highway: How the Gut-Brain Axis Drives Neurodegeneration"
 date: 2026-05-01
 description: "Why 2026 clinical research treats the gut as the 'Ground Zero' for Lewy Body Dementia and Parkinson's Disease."
-image:
-  path: /assets/img/vagus-nerve-pathway.webp
-  alt: "Illustration of the Vagus Nerve connecting the enteric nervous system to the brain."
 category: [Health Research, Longevity Series]
 tags: [gut-brain-axis, neurodegeneration, alpha-synuclein, vagus-nerve, microbiome]
 ---
@@ -13,6 +10,13 @@ tags: [gut-brain-axis, neurodegeneration, alpha-synuclein, vagus-nerve, microbio
 > **The 2026 'Bottom-Up' Consensus**
 > Emerging research suggests that the abnormal proteins found in Lewy Body Dementia (LBD) may actually originate in the enteric nervous system—the "brain in the gut"—before traveling up the vagus nerve to the brain.
 {: .prompt-info }
+---
+
+![Vagus Nerve Pathway]({{ '/assets/img/vagus-nerve-pathway.webp' | relative_url }})
+{: .normal }
+_**Figure 1:** The Vagus nerve acts as a bidirectional highway, carrying alpha-synuclein "seeds" from the gut to the brain._
+
+---
 
 ## Ground Zero: The Enteric Origin Hypothesis
 
