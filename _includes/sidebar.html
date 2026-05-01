@@ -1,3 +1,48 @@
+<style>
+  /* --- 1. THE IMAGE CLOAK (Hides banners, keeps thumbnails) --- */
+  /* This targets only the post view, so your homepage stays beautiful */
+  .post-head-wrapper img,
+  #post-wrapper img.preview-img,
+  #post-wrapper > img:first-child,
+  div[class*='post-head'] img {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+  }
+
+  /* --- 2. RESEARCH HEADINGS (Navy & Cyan Theme) --- */
+  .post-content h1, .content h1 {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 36px !important;
+    color: #1a237e !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+  }
+
+  .post-content h2, .content h2 {
+    font-size: 28px !important;
+    color: #006064 !important;
+    font-weight: 500 !important;
+    font-style: italic !important;
+  }
+
+  /* --- 3. MEDICAL FIGURE CAPTIONS --- */
+  .normal + em, .normal + i {
+    display: block;
+    text-align: center;
+    font-size: 0.95rem;
+    color: #4a5568;
+    margin: 15px 0 30px 0;
+    font-weight: 500;
+  }
+
+  /* --- 4. BODY TEXT READABILITY --- */
+  .post-content p, .content p, .post-content li {
+    font-family: "Roboto Serif", serif !important;
+    font-size: 19px !important;
+    line-height: 1.7;
+  }
+</style>
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
