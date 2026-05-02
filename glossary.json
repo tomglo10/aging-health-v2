@@ -487,6 +487,9 @@
   { "term": "Inflammation-Driven Muscle Loss", "definition": "Muscle wasting caused by chronic inflammation, altered amino acid balance, and impaired liver function.", "category": "Muscle Health", "icon": "🔥", "url": "/glossary#Inflammation-Driven-Muscle-Loss" }
   { "term": "Hepatic Encephalopathy", "definition": "A decline in brain function that occurs when a damaged liver cannot properly filter toxins (like ammonia) from the blood, allowing them to reach the brain. Symptoms range from mild 'brain fog' to severe confusion or motor issues.",
     "category": "Cognitive Health",    "icon": "😶‍🌫️",    "url": "/glossary#Hepatic-Encephalopathy"  }
+   {"term": "Endothelial Dysfunction", "definition": "A condition where the inner lining of the blood vessels (the endothelium) fails to perform its normal functions, such as regulating blood pressure and preventing clots. In chronic inflammatory states like psoriasis, this is often the first step toward heart disease.",
+    "category": "Cardiovascular",  "icon": "🩸", "url": "/glossary#Endothelial-Dysfunction"
+  }
 ]
 
 

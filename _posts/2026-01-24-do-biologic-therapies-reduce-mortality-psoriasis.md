@@ -118,3 +118,6 @@ By reducing the systemic inflammatory load, many patients report improvements in
   ]
 }
 </script>
+> ### 🔬 The Endothelial Check
+> Endothelial dysfunction is the "invisible" stage of heart disease. It can be detected through specialized tests like **Flow-Mediated Dilation (FMD)** or **EndoPAT**. If you have moderate-to-severe psoriasis, ask your cardiologist if your endothelial health is being monitored alongside your skin treatments.
+{: .prompt-tip }
