@@ -14,6 +14,16 @@ Falls are the primary driver of traumatic brain injury (TBI) in adults over 65. 
 
 ---
 
+<div class="p-4 mb-4 text-center border rounded shadow-sm" style="background-color: #e0f2f1;">
+  <h5 class="mb-3" style="color: #004d40;">🖨️ Take This Audit With You</h5>
+  <p class="small text-muted mb-3">Download the print-friendly PDF version to perform a room-by-room walkthrough.</p>
+  <a href="{{ '/assets/pdf/senior-home-safety-checklist-2026.pdf' | relative_url }}" class="btn btn-lg btn-success shadow-sm" download>
+    <i class="fas fa-file-download me-2"></i> Download Checklist PDF
+  </a>
+</div>
+
+---
+
 ### 🛀 The Bathroom (High-Risk Zone)
 The bathroom is the most dangerous room in the house due to hard, slippery surfaces.
 * [ ] **Grab Bars:** Installed in the shower AND next to the toilet. (Ensure they are bolted into studs, not just suction cups).
