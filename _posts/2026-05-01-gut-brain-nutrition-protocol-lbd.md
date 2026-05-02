@@ -4,7 +4,7 @@ title: "The 2026 Gut-Brain Nutrition Protocol: Fueling the Vagus Nerve"
 date: 2026-05-01
 description: "A clinical dietary framework for supporting the enteric nervous system and reducing alpha-synuclein misfolding."
 image:
-  path: /assets/img/gut-brain-nutrition.webp
+  path: /assets/img/microbiome-fiber.webp
   alt: "The 2026 Gut-Brain Nutrition Protocol"
 category: [Health Research, Nutrition]
 tags: [gut-brain-axis, clinical-nutrition, vagus-nerve, microbiome, neuroprotection]
