@@ -1,37 +1,35 @@
 <style>
-  /* 2026 CLINICAL TARGETS CARD */
-  .clinical-targets-box {
+  /* SIDEBAR CARDS */
+  .sidebar-card {
     background: #f8f9fa;
     border: 1px solid #dee2e6;
-    border-left: 5px solid #1565c0; /* Clinical Blue */
     border-radius: 8px;
     padding: 1.2rem;
-    margin: 1.5rem 1rem;
+    margin: 1rem 1rem;
     width: calc(100% - 2rem);
   }
-  .clinical-targets-box h6 {
-    color: #1565c0;
+  .sidebar-card h6 {
     font-size: 0.85rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 0.75rem;
   }
-  .clinical-targets-box ul {
+  .targets-box { border-left: 5px solid #1565c0; }
+  .targets-box h6 { color: #1565c0; }
+
+  .quit-box { border-left: 5px solid #2e7d32; } /* Green for health/growth */
+  .quit-box h6 { color: #2e7d32; }
+
+  .sidebar-card ul {
     list-style: none;
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #2d3748;
   }
-  .clinical-targets-box li {
-    margin-bottom: 0.5rem;
-    display: flex;
-    justify-content: space-between;
-  }
-  .clinical-targets-box li strong {
-    color: #1a202c;
-  }
+  .sidebar-card li { margin-bottom: 0.5rem; display: flex; justify-content: space-between; }
+  .sidebar-card a { color: #2d3748; text-decoration: none; border-bottom: 1px solid transparent; }
+  .sidebar-card a:hover { border-bottom: 1px solid #2e7d32; }
 </style>
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
@@ -45,46 +43,16 @@
 
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
-      <li class="nav-item active">
-        <a href="{{ '/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-home"></i>
-          <span>HOME</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="{{ '/categories/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-stream"></i>
-          <span>CATEGORIES</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="{{ '/tags/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-tags"></i>
-          <span>TAGS</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="{{ '/archives/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-archive"></i>
-          <span>ARCHIVES</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="{{ '/about/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-info-circle"></i>
-          <span>ABOUT</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="{{ '/lbd-safety-checklist/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-shield-alt"></i>
-          <span>LBD SAFETY CHECKLIST</span>
-        </a>
-      </li>
+      <li class="nav-item active"><a href="{{ '/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-home"></i><span>HOME</span></a></li>
+      <li class="nav-item"><a href="{{ '/categories/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-stream"></i><span>CATEGORIES</span></a></li>
+      <li class="nav-item"><a href="{{ '/tags/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-tags"></i><span>TAGS</span></a></li>
+      <li class="nav-item"><a href="{{ '/archives/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-archive"></i><span>ARCHIVES</span></a></li>
+      <li class="nav-item"><a href="{{ '/about/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-info-circle"></i><span>ABOUT</span></a></li>
+      <li class="nav-item"><a href="{{ '/lbd-safety-checklist/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-shield-alt"></i><span>LBD SAFETY CHECKLIST</span></a></li>
     </ul>
   </nav>
 
-  <div class="clinical-targets-box">
+  <div class="sidebar-card targets-box">
     <h6>🎯 2026 Targets</h6>
     <ul>
       <li><strong>Protein:</strong> <span>1.2 – 1.6 g/kg</span></li>
@@ -95,16 +63,22 @@
     </ul>
   </div>
 
+  <div class="sidebar-card quit-box">
+    <h6>🚭 Quit Support</h6>
+    <p style="font-size: 0.8rem; line-height: 1.4; margin-bottom: 0.8rem;">
+      Tommy's Milestone: <strong>7 Years Smoke-Free.</strong> It's never too late to reset.
+    </p>
+    <ul>
+      <li><a href="https://smokefree.gov/" target="_blank">Smokefree.gov</a> <i class="fas fa-external-link-alt fa-xs"></i></li>
+      <li><a href="https://www.cdc.gov/tobacco/quit_smoking/index.htm" target="_blank">CDC Quit Tips</a> <i class="fas fa-external-link-alt fa-xs"></i></li>
+      <li><a href="{{ '/posts/lifestyle-changes-psoriasis-metabolic-risk/' | relative_url }}">My Journey</a> <i class="fas fa-arrow-right fa-xs"></i></li>
+    </ul>
+  </div>
+
   <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
-    <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
-      <i class="fas fa-adjust"></i>
-    </button>
+    <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle"><i class="fas fa-adjust"></i></button>
     <span class="icon-border"></span>
-    <a href="https://github.com/tomglo10" aria-label="github" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-github"></i>
-    </a>
-    <a href="/feed.xml" aria-label="rss">
-      <i class="fas fa-rss"></i>
-    </a>
+    <a href="https://github.com/tomglo10" aria-label="github" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+    <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
   </div>
 </aside>
