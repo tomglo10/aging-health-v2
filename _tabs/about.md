@@ -8,6 +8,6 @@ order: 4
 {: .prompt-tip }
 ### Explore more by topic:
 [**Heart**]({{ '/posts/diabetes-heart-attack-survivor-lessons/' | relative_url }}) | 
-[**Metabolism**]({{ '/posts/alzheimers-type-3-diabetes-insulin-resistance/' | relative_url }}) | 
+[**Metabolism**]({{ '/posts/posts/brain-health-is-alzheimers-really-type-3-diabetes/' | relative_url }}) | 
 [**Brain**]({{ '/posts/wisdom-aging-brain-cognitive-shifts/' | relative_url }}) | 
 [**Liver**]({{ '/posts/liver-cirrhosis-what-you-need-to-know/' | relative_url }})
