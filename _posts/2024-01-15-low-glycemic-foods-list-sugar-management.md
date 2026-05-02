@@ -32,9 +32,9 @@ I used to think only the Index mattered, but the **Load** is the real secret to 
 * **The Load (GL):** This is the **quantity** of the sugar in a real-world serving.
 * **The Watermelon Rule:** Watermelon has a high GI (speed), but its GL (total sugar) is low because it's mostly water. A small slice likely won't cause a crash. It’s about the "fuel gauge," not just the "speedometer."
 
+---
 
-
-[Image of Glycemic Index vs Glycemic Load comparison chart]
+!1[Side-by-side illustration comparing glycemic index and glycemic load, showing a high‑GI food causing a rapid blood sugar spike versus glycemic load accounting for portion size and overall blood sugar impact.](assets/img/glycemic-load-index.webp)**Figure 2** Glycemic index shows how fast a food raises blood sugar, while glycemic load considers both the speed and the amount of carbohydrates in a serving._
 
 
 ---
@@ -66,7 +66,7 @@ Be cautious. As fruit (like bananas) ripens, the starch converts to sugar. Opt f
 
 #### Why does my glucose spike even with "healthy" whole grains?
 Many "whole grain" breads are still highly processed. I recommend testing your blood sugar 2 hours after eating any grain to see your personal **"Spike Profile."**
-
+* **The Load (GL):** This is the **quantity** of the sugar in a real-world serving. (See: [**Glycemic Load**]({{ '/how-we-research/' | relative_url }}#Glycemic-Load) in our Research Glossary).
 ---
 
 > ### 🎯 March 2026 Clinical Update: Resilience Targets
@@ -84,6 +84,10 @@ Many "whole grain" breads are still highly processed. I recommend testing your b
 
 ---
 
+
+
+
+---
 {% include glossary.html %}
 
 ### 📥 Patient Tools
