@@ -49,28 +49,38 @@ This cliché oversimplifies emergencies. If someone shows signs of a [heart atta
 In films, characters wake up from a knockout as if nothing happened. In reality, any loss of consciousness is a [Traumatic Brain Injury (TBI)]({{ '/posts/falls-and-traumatic-brain-injury/' | relative_url }}). Even a brief "blackout" can lead to brain swelling or permanent damage.
 
 ### 4. "CPR Instantly Revives People"
-TV depicts CPR as a 100% success rate miracle. Real survival rates are lower, and the goal of CPR is to sustain the brain and organs until advanced life support arrives. This misleading narrative often causes bystanders to give up too early when they don't see an "instant" wake-up.
+TV depicts CPR as a 100% success rate miracle. Real survival rates are lower, and the goal of CPR is to sustain the brain and organs until advanced life support arrives.
+
+---
+
+## The Digital Guardrail: Spotting Fake Health News
+
+Just as movie tropes can mislead us, social media and AI-generated "miracle" clips can distort our understanding of health. In an era of deepfakes and viral headlines, use these four red flags to protect your health:
+
+1.  **The "Secret Cure" Narrative:** Beware of claims that "doctors are hiding" a cure. Real breakthroughs are published and peer-reviewed.
+2.  **Extreme Food Bans:** Avoid influencers who demand you cut out entire food groups overnight. "One-size-fits-all" panic is usually a red flag.
+3.  **Anecdotes Over Evidence:** "This worked for my neighbor" is not clinical data. Always look for citations from trusted institutions like the **CDC or NIA**.
+4.  **AI-Generated Doctors:** Be wary of videos where mouth movements don't match audio. Scammers often use AI to sell unverified supplements to seniors.
+
+> **The 3-Second Rule:** Before you hit "Share" on a shocking health post, wait 3 seconds. Ask: *Does this sound too simple to be true?* If yes, it probably is.
+{: .prompt-tip }
 
 ---
 
 ## 🧐 Media Literacy FAQ
 
 #### 1. Why do movies keep the 24-hour rule myth?
-It creates "dramatic tension." For a screenwriter, having a character isolated and unable to get help for 24 hours makes for a better story, even if it's dangerous advice in the real world.
+It creates "dramatic tension." For a screenwriter, having a character isolated and unable to get help for 24 hours makes for a better story, even if it's dangerous advice.
 
 #### 2. What should I provide when reporting someone missing?
 Provide a current photo, physical description, last known location, vehicle information, and a list of medications they may be missing.
 
-#### 3. Is bullet removal an emergency?
-Rarely. Hollywood makes "digging out the bullet" look essential, but surgeons often leave bullets in place if they aren't causing ongoing damage. Stopping the bleeding is the real priority.
-
 ---
 
 > ### 🎯 March 2026 Clinical Update: Resilience Targets
-> Protecting your cognitive and physical resilience helps you navigate emergencies more effectively.
-> * **Protein Support:** Aim for **1.2–1.6 g/kg** of high-quality protein (USDA 2026) to maintain the lean muscle mass needed for stability.
+> * **Protein Support:** Aim for **1.2–1.6 g/kg** of high-quality protein (USDA 2026) to maintain lean muscle mass.
 > * **Blood Pressure:** Target a systemic pressure of **<130/80 mmHg** to protect your brain's vascular integrity.
-> * **Nutrient Density:** Full-fat dairy is now the preferred choice for seniors to ensure maximum nutrient density and fat-soluble vitamin absorption.
+> * **Nutrient Density:** Full-fat dairy is now the preferred choice for seniors to ensure maximum nutrient absorption.
 {: .prompt-info }
 
 ---
@@ -83,10 +93,9 @@ Rarely. Hollywood makes "digging out the bullet" look essential, but surgeons of
 ---
 
 ### Sources & Scholarly References
-* *National CPR Association:* Common Medical Inaccuracies in Medical Dramas.
+* *National CPR Association:* Common Medical Inaccuracies.
 * *LegalClarity:* How Long Before You Can Report Someone Missing?
 * *BrainFacts.org:* What Happens When You're Knocked Unconscious?
-* *InForum:* The Myth of the 24-Hour Rule.
 
 <script type="application/ld+json">
 {
