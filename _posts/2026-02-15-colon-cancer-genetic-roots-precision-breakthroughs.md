@@ -62,7 +62,11 @@ Since early-onset colon cancer is on the rise, we must follow the **10-Year Rule
 | :--- | :--- | :--- |
 | **Immunotherapy** | Trains the immune system to attack. | Triple-punch combo (Chemo + Bev + Atezo). |
 | **Targeted Therapy** | Blocks specific mutations (KRAS/BRAF). | Adagrasib approval for KRAS-G12C mutations. |
-| **Precision Surgery** | Robotic-assisted removal. | "Watch-and-Wait" for complete responders. |
+| Precision Surgery | Robotic-assisted removal. | "Watch-and-Wait" for complete responders. |
+
+> ### 🏠 Post-Surgical Recovery Tip
+> Robotic-assisted surgery allows for faster discharge, but "Home Readiness" is still the priority. Before returning home, use our [**Seniors Home Safety Checklist**]({{ '/home-safety-checklist/' | relative_url }}) to audit your bathroom for grab bars and clear your hallways to prevent post-op falls.
+{: .prompt-tip }
 
 ---
 
@@ -86,7 +90,10 @@ Since early-onset colon cancer is on the rise, we must follow the **10-Year Rule
 **Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack, he specializes in translating complex genomic data into actionable health literacy for seniors and high-risk families.
 
 [**Heart**]({{ '/posts/lessons-from-a-2008-heart-attack-survivor/' | relative_url }}) | [**Metabolism**]({{ '/posts/brain-health-is-alzheimers-really-type-3-diabetes/' | relative_url }}) | [**Brain**]({{ '/posts/wisdom-aging-brain-cognitive-shifts/' | relative_url }}) | [**Liver**]({{ '/posts/liver-cirrhosis-what-you-need-to-know/' | relative_url }})
-
+### 📘 Related Patient Resources
+* [**Seniors Home Safety Checklist**]({{ '/home-safety-checklist/' | relative_url }}): Essential for post-surgical recovery and TBI prevention.
+* [**How We Research**]({{ '/how-we-research/' | relative_url }}): Learn more about our clinical verification process and 2026 standards.
+* [**Beginner’s Guide to Diabetes**]({{ '/posts/diabetes-guide/' | relative_url }}): Managing metabolic health to support cancer resilience.
 ---
 
 ### Glossary & Sources
