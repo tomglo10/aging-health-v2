@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Liver Cirrhosis: What You Need to Know"
+permalink: /posts/liver-cirrhosis-what-you-need-to-know/
 date: 2023-09-02
 description: "Understanding the causes, symptoms, and treatment options for decompensated liver cirrhosis and portal hypertension."
 image:

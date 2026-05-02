@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Evolving Mind: Embracing the Wisdom of the Aging Brain"
+permalink: /posts/wisdom-aging-brain-cognitive-shifts/
 date: 2025-07-07
 description: "Uncover the hidden potential of the aging brain. Learn about cognitive shifts, enhanced wisdom, and how to nurture your mind for vitality."
 image:

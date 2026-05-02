@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Brain Health: Is Alzheimer's Really Type 3 Diabetes?"
+title: "Brain Health: Is Alzheimer’s Really Type 3 Diabetes?"
+permalink: /posts/brain-health-is-alzheimers-really-type-3-diabetes/
+---
 date: 2026-02-03 06:46:00 -0500
 description: "Is Alzheimer’s ‘Type 3 diabetes’? A patient-researcher explains brain insulin resistance, glucose spikes, and practical steps to support cognitive health."
 toc: true
