@@ -69,7 +69,7 @@ The Vagus nerve is connected to the vocal cords and the muscles at the back of t
 ---
 
 
-![Vagus Nerve Physical Resets Summary]({{ '/assets/img/vagus-resets-summary.webp' | relative_url }})
+![Vagus Nerve Physical Resets Summary]({{ '/assets/img/vagus-resets-summary2.webp' | relative_url }})
 {: .normal }
 _**Figure 3:** The 2026 AgingHealth Vagal Reset Protocol: A combination of breathwork, thermal stimulus, and vocal activation for autonomic stability._
 
