@@ -4,7 +4,7 @@ title: "Seniors' Mental Health: Stress, Depression, and Internal Medicine's Role
 date: 2026-03-27
 description: "How internal medicine serves as the first line of defense in detecting and managing geriatric depression and stress."
 image:
-  path: /assets/img/senior-mental-health-doctor.webp
+  path: /assets/img/mental-health-counseling.webp
   alt: "Senior discussing mental health with an internal medicine doctor"
 category: [Health Research, Mental Health]
 tags: [internal-medicine, depression, stress, geriatric-care, patient-advocacy]
@@ -16,7 +16,7 @@ Seniors’ mental health is deeply intertwined with physical illness, life trans
 
 Understanding this connection empowers patients and families to ask better questions and pursue more effective, integrated care.
 
-![Mental Health Consultation]({{ '/assets/img/senior-mental-health-doctor.webp' | relative_url }})
+![Mental Health Consultation]({{ '/assets/img/mental-health-counseling.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Internal medicine supports both physical and emotional health in older adults, acting as a cornerstone of geriatric care._
 
