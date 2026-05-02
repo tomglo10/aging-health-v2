@@ -98,3 +98,6 @@ Use a mental clarity log alongside your blood pressure readings. Identifying cog
   "description": "Exploring the connection between portal hypertension, Carvedilol, and mini-stroke (TIA) prevention."
 }
 </script>
+> ### 🔬 The Ammonia Audit
+> If you are experiencing sudden "fogginess," it may not be a TIA. In patients with portal hypertension, ammonia buildup can cross the blood-brain barrier. Ask your doctor for a **Serum Ammonia** test and a **Vitamin B12** screen to rule out metabolic mimics before assuming a vascular stroke.
+{: .prompt-tip }
