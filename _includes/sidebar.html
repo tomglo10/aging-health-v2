@@ -1,56 +1,44 @@
 <style>
-  /* 1. THE PRECISION CLOAK */
-  /* This targets the specific div and link classes found in your 'Inspect' tool */
-  article header .post-meta .mt-3.mb-3,
-  article header .preview-img,
-  article header .preview-img img {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    overflow: hidden !important;
+  /* 2026 CLINICAL TARGETS CARD */
+  .clinical-targets-box {
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-left: 5px solid #1565c0; /* Clinical Blue */
+    border-radius: 8px;
+    padding: 1.2rem;
+    margin: 1.5rem 1rem;
+    width: calc(100% - 2rem);
   }
-
-  /* 2. RESEARCH HEADINGS (Navy & Cyan Theme) */
-  html body .post-content h1,
-  html body .content h1 {
-    color: #1a237e !important;
-    font-family: 'Roboto', sans-serif !important;
-    font-weight: 700 !important;
-    font-style: italic !important;
+  .clinical-targets-box h6 {
+    color: #1565c0;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.75rem;
   }
-
-  html body .post-content h2,
-  html body .content h2 {
-    color: #006064 !important;
-    font-size: 28px !important;
-    font-family: 'Roboto', sans-serif !important;
-    font-weight: 500 !important;
+  .clinical-targets-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.9rem;
+    color: #2d3748;
   }
-
-  /* 3. BODY TEXT READABILITY */
-  .post-content p, .post-content li {
-    font-family: "Roboto Serif", serif !important;
-    font-size: 19px !important;
-    line-height: 1.75;
+  .clinical-targets-box li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
   }
-
-  /* 4. FIGURE CAPTIONS */
-  .normal + em, .normal + i {
-    display: block;
-    text-align: center;
-    font-size: 0.95rem;
-    color: #4a5568;
-    margin: 10px 0 30px 0;
+  .clinical-targets-box li strong {
+    color: #1a202c;
   }
 </style>
+
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
-  <img src="{{ '/assets/img/avatar.jpg' | relative_url }}" width="112" height="112" alt="avatar" style="border-radius: 50%;">
+      <img src="{{ '/assets/img/avatar.jpg' | relative_url }}" width="112" height="112" alt="avatar" style="border-radius: 50%;">
     </a>
-
     <a class="site-title d-block" href="{{ '/' | relative_url }}">Aging Health Research 2026</a>
     <p class="site-subtitle fst-italic mb-0">Independent health research and patient advocacy.</p>
   </header>
@@ -95,6 +83,17 @@
       </li>
     </ul>
   </nav>
+
+  <div class="clinical-targets-box">
+    <h6>🎯 2026 Targets</h6>
+    <ul>
+      <li><strong>Protein:</strong> <span>1.2 – 1.6 g/kg</span></li>
+      <li><strong>BP (Sr):</strong> <span>&lt; 130/80</span></li>
+      <li><strong>A1c:</strong> <span>7.0% - 7.5%</span></li>
+      <li><strong>Fiber:</strong> <span>30g+ Daily</span></li>
+      <li><strong>Strength:</strong> <span>2x Weekly</span></li>
+    </ul>
+  </div>
 
   <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
