@@ -85,7 +85,7 @@ A quick-reference guide to help you distinguish between normal aging and clinica
 ### About the Researcher
 **Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack who manages Type 2 Diabetes, he specializes in translating complex medical data into actionable health literacy for seniors.
 
-[Heart]({{ '/2026/02/diabetes-heart-attack-survivor-lessons.html' | relative_url }}) | [Metabolism]({{ '/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html' | relative_url }}) | [Brain]({{ '/2025/07/wisdom-aging-brain-cognitive-shifts.html' | relative_url }}) | [Liver]({{ '/2023/09/liver-cirrhosis-what-you-need-to-know.html' | relative_url }})
+[Heart]({{ /2026-02-02-lessons-from-a-2008-heart-attack-survivor.md' | relative_url }}) | [Metabolism]({{ /2026-02-03-brain-health-is-alzheimers-really-type-3-diabetes.md' | relative_url }}) | [Brain]({{ '/2025/07/wisdom-aging-brain-cognitive-shifts.md' | relative_url }}) | [Liver]({{ '/2023/09/liver-cirrhosis-what-you-need-to-know.md' | relative_url }})
 
 ---
 
