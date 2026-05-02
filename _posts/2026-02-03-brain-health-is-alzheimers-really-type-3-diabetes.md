@@ -68,3 +68,4 @@ _**Figure 1:** Researchers increasingly describe Alzheimer’s as “Type 3 diab
   ]
 }
 </script>
+{% include glossary.html %}
