@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Seniors Home Safety Checklist: 2026 Edition"
-permalink: /home-safety-checklist/
-description: "A comprehensive room-by-room safety audit to reduce fall risk and prevent traumatic brain injury in older adults."
+title: Home Safety Checklist
+icon: fas fa-house-chimney-user
+order: 6
 ---
 
 ## Creating a Neuro-Protective Environment

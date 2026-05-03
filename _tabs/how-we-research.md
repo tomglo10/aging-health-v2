@@ -2,8 +2,7 @@
 layout: page
 title: How We Research
 icon: fas fa-microscope
-order: 4
-permalink: /how-we-research/
+order: 5
 ---
 
 ## Transparency in Health Literacy

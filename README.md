@@ -37,3 +37,13 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+> ### ⚙️ Technical Note: Codespace Capacity Management
+> **Status:** Capacity Reached (30/30)
+> **Issue:** GitHub Codespaces has reached the maximum allocation for personal accounts. This prevents the creation of new development environments for site updates.
+> 
+> **The Fix:** > * **Audit:** Review all active and stopped environments at `github.com/codespaces`.
+> * **Prune:** Delete "dormant" codespaces linked to completed content migrations (e.g., February 2026 batches).
+> * **Sync:** Ensure all changes are committed and pushed to `origin main` before deletion to prevent data loss.
+> 
+> **Pro-Tip:** Habit-stack your technical maintenance. Every time you finish a "Hub" migration (like the Psoriasis cluster), delete the associated codespace to keep your workbench clear.
+{: .prompt-warning }
