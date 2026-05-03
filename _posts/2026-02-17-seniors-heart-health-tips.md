@@ -7,7 +7,7 @@ description: "Exploring the rise of silent valve disease, the clinical debate ov
 image:
   path: /assets/img/heart-health.webp
   alt: "Maintaining an active lifestyle is crucial for cardiovascular resilience in senior years."
-category: [Cardiovascular, Longevity]
+categories: [Cardiovascular, Longevity]
 tags: [heart-health, valve-disease, statins, biological-aging, senior-advocacy]
 ---
 
@@ -28,11 +28,12 @@ _**Figure 1:** Cardiovascular resilience in senior years depends on a combinatio
 
 ## The Physiological Shifts of Aging
 
-With age, arterial elasticity naturally reduces and heart muscle walls often thicken. One primary driver is **atherosclerosis**, where fatty deposits (plaque) accumulate in arterial walls, narrowing blood flow to critical organs.
+With age, arterial elasticity naturally reduces and heart muscle walls often thicken. One primary driver is **atherosclerosis**, where fatty deposits (plaque) accumulate in arterial walls, narrowing blood flow to critical organs and increasing the risk of heart attacks and strokes.
 
+![Coronary Artery Disease]({{ '/assets/img/coronary-artery-disease.webp' | relative_url }})
+{: .normal }
+_**Figure 2:** Coronary artery disease occurs when plaque buildup narrows the arteries that supply blood to the heart, reducing oxygen flow._
 
-
-![Medical illustration showing coronary artery disease. The heart’s blocked coronary artery is highlighted with plaque buildup and reduced blood flow. Insets compare a normal artery with a diseased one showing plaque, narrowing, and blood clot formation.](/assets/img/coronary artery disease.webp )**Figure 2** Coronary artery disease occurs when plaque buildup narrows the arteries that supply blood to the heart, reducing oxygen flow and increasing the risk of heart attack.
 
 
 ### The Hidden Burden of Valve Disease
@@ -45,10 +46,11 @@ Heart valves that control blood flow can become stiff (**stenosis**) or weak (**
 {: .normal }
 _**Figure 3:** A healthy valve (left) opens fully. A stenotic valve (right) becomes calcified and narrowed, forcing the heart to work harder to maintain systemic circulation._
 
+![Aortic Stenosis Detail]({{ '/assets/img/aortic-stenosis.webp' | relative_url }})
+{: .normal }
+_**Figure 4:** Aortic stenosis occurs when the aortic valve becomes thickened and calcified, narrowing the opening and forcing the heart to pump harder._
 
 
----
-![Medical illustration showing a human heart with a narrowed aortic valve. The left side depicts the heart’s anatomy with thickened, calcified valve leaflets restricting blood flow. Two circular insets compare a healthy valve with thin, flexible leaflets and a stenotic valve with stiff, calcified leaflets and a small opening. Arrows highlight reduced blood flow through the narrowed valve, emphasizing obstruction and strain on the heart.](/assets/img/aortic-stenosis.webp)**Figure 4** Aortic stenosis occurs when the aortic valve becomes thickened and calcified, narrowing the opening and forcing the heart to pump harder.  senior‑friendly cardiovascular education — aortic valve disease awareness
 
 ---
 
@@ -64,8 +66,8 @@ While statins are proven to reduce heart attack and stroke risk, they are not un
 ---
 
 > ### 🎯 March 2026 Clinical Update: Resilience Targets
-> * **Blood Pressure:** To protect the delicate cerebral and cardiac micro-vasculature, the 2026 target for seniors is now **$<130/80 \text{ mmHg}$**.
-> * **Protein Support:** To combat sarcopenia and support the mechanical repair of heart tissue, seniors must target **$1.2\text{--}1.6 \text{ g/kg}$** of high-quality protein (USDA 2026).
+> * **Blood Pressure:** To protect the delicate cerebral and cardiac micro-vasculature, the 2026 target for seniors is now **<130/80 mmHg**.
+> * **Protein Support:** To combat sarcopenia and support the mechanical repair of heart tissue, seniors must target **1.2–1.6 g/kg** of high-quality protein (USDA 2026).
 > * **Vascular Integrity:** Maintaining these targets is essential for those managing [**Type 3 Diabetes**]({{ '/posts/brain-health-is-alzheimers-really-type-3-diabetes/' | relative_url }}) pathways or [**Liver Pressure**]({{ '/posts/mini-stroke-prevention-liver-pressure-carvedilol/' | relative_url }}).
 {: .prompt-info }
 
@@ -76,21 +78,21 @@ While statins are proven to reduce heart attack and stroke risk, they are not un
 Current treatments effectively manage the *symptoms* of heart disease, but the frontier of 2026 cardiology is shifting toward addressing the *mechanisms* of aging itself.
 
 1.  **Cellular Senescence:** Researchers are exploring "Senolytics"—drugs that clear out "zombie cells" that cause systemic inflammation.
-2.  **Epigenetic Reversal:** Healthy behaviors (The [**Big 6**]({{ '/posts/big-six-pillars-optimal-aging-health/' | relative_url }})) are now clinically proven to "turn back" the biological clock of heart cells.
+2.  **Epigenetic Reversal:** Healthy behaviors (The [**Big 6 Pillars**]({{ '/posts/big-six-pillars-optimal-aging-health/' | relative_url }})) are now clinically proven to "turn back" the biological clock of heart cells.
 3.  **Metabolic Repair:** Using medications like GLP-1s not just for weight, but for their direct [**vascular protection**]({{ '/posts/lessons-from-a-2008-heart-attack-survivor/' | relative_url }}) properties.
-
----
-
-### About the Researcher
-**Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack who manages Type 2 Diabetes, he specializes in translating complex cardiovascular data into actionable health literacy for the aging population.
-
-[**Heart**]({{ '/posts/lessons-from-a-2008-heart-attack-survivor/' | relative_url }}) | [**Metabolism**]({{ '/posts/low-glycemic-foods-sugar-management/' | relative_url }}) | [**Brain**]({{ '/posts/brain-health-is-alzheimers-really-type-3-diabetes/' | relative_url }}) | [**Liver**]({{ '/posts/liver-cirrhosis-what-you-need-to-know/' | relative_url }})
 
 ---
 
 > ### 🔬 The Structural vs. Vascular Difference
 > It is possible to have perfectly "clean" arteries (no plaque) but still suffer from **Stenosis** or **Valve Disease**. While statins and diet target the plaque, structural issues often require mechanical monitoring like an **Echocardiogram**. If you are experiencing unexplained shortness of breath despite stable glucose and blood pressure, ask for a structural heart check.
 {: .prompt-tip }
+
+---
+
+### About the Researcher
+**Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a [**major heart attack (2008)**]({{ '/posts/lessons-from-a-2008-heart-attack-survivor/' | relative_url }}) who manages Type 2 Diabetes, he specializes in translating complex cardiovascular data into actionable health literacy for the aging population.
+
+[**Heart**]({{ '/posts/lessons-from-a-2008-heart-attack-survivor/' | relative_url }}) | [**Metabolism**]({{ '/posts/low-glycemic-foods-sugar-management/' | relative_url }}) | [**Brain**]({{ '/posts/brain-health-is-alzheimers-really-type-3-diabetes/' | relative_url }}) | [**Liver**]({{ '/posts/liver-cirrhosis-what-you-need-to-know/' | relative_url }})
 
 ---
 
