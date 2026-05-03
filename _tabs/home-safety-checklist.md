@@ -3,7 +3,7 @@ layout: page
 title: Home Safety Checklist
 permalink: /home-safety-checklist/
 icon: fas fa-home
-order: 8
+order: 7
 ---
 
 > **CRITICAL SAFETY ALERT:** Up to 50% of Lewy Body Dementia (LBD) patients have severe, life-threatening reactions to traditional antipsychotic medications. **Always consult a neurologist before starting any psychiatric drug.**
