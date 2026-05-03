@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How We Research
-icon: fas fa-microscope
+icon: fas fa-search
 order: 5
 ---
 

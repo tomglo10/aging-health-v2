@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home Safety Checklist
-icon: fas fa-house-chimney-user
+icon: fas fa-home
 order: 6
 ---
 
