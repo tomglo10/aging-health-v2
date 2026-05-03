@@ -2,7 +2,7 @@
 layout: page
 title: How We Research
 icon: fas fa-microscope
-order: 5
+order: 11
 ---
 > **CRITICAL SAFETY ALERT:** Up to 50% of Lewy Body Dementia (LBD) patients have severe, life-threatening reactions to traditional antipsychotic medications. **Always consult a neurologist before starting any psychiatric drug.**
 {: .prompt-danger }
