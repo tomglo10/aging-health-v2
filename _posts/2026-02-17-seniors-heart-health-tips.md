@@ -32,7 +32,7 @@ With age, arterial elasticity naturally reduces and heart muscle walls often thi
 
 
 
-[Image of coronary artery disease]
+![Medical illustration showing coronary artery disease. The heart’s blocked coronary artery is highlighted with plaque buildup and reduced blood flow. Insets compare a normal artery with a diseased one showing plaque, narrowing, and blood clot formation.](/assets/img/coronary artery disease.webp )**Figure 2** Coronary artery disease occurs when plaque buildup narrows the arteries that supply blood to the heart, reducing oxygen flow and increasing the risk of heart attack.
 
 
 ### The Hidden Burden of Valve Disease
@@ -43,12 +43,12 @@ Heart valves that control blood flow can become stiff (**stenosis**) or weak (**
 
 ![Valve Stenosis Comparison]({{ '/assets/img/medical-illustration.webp' | relative_url }})
 {: .normal }
-_**Figure 2:** A healthy valve (left) opens fully. A stenotic valve (right) becomes calcified and narrowed, forcing the heart to work harder to maintain systemic circulation._
+_**Figure 3:** A healthy valve (left) opens fully. A stenotic valve (right) becomes calcified and narrowed, forcing the heart to work harder to maintain systemic circulation._
 
 
 
-[Image of aortic stenosis]
-
+---
+![Medical illustration showing a human heart with a narrowed aortic valve. The left side depicts the heart’s anatomy with thickened, calcified valve leaflets restricting blood flow. Two circular insets compare a healthy valve with thin, flexible leaflets and a stenotic valve with stiff, calcified leaflets and a small opening. Arrows highlight reduced blood flow through the narrowed valve, emphasizing obstruction and strain on the heart.](/assets/img/aortic-stenosis.webp)**Figure 4** Aortic stenosis occurs when the aortic valve becomes thickened and calcified, narrowing the opening and forcing the heart to pump harder.  senior‑friendly cardiovascular education — aortic valve disease awareness
 
 ---
 
