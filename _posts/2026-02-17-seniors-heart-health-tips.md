@@ -88,6 +88,12 @@ Current treatments effectively manage the *symptoms* of heart disease, but the f
 
 ---
 
+> ### 🔬 The Structural vs. Vascular Difference
+> It is possible to have perfectly "clean" arteries (no plaque) but still suffer from **Stenosis** or **Valve Disease**. While statins and diet target the plaque, structural issues often require mechanical monitoring like an **Echocardiogram**. If you are experiencing unexplained shortness of breath despite stable glucose and blood pressure, ask for a structural heart check.
+{: .prompt-tip }
+
+---
+
 {% include glossary.html %}
 
 ### Scientific Sources

@@ -491,7 +491,11 @@
     "category": "Cardiovascular",  "icon": "🩸", "url": "/glossary#Endothelial-Dysfunction"  }
   {"term": "Glycemic Load", "definition": "A measurement that evaluates the impact of carbohydrate consumption by taking into account both the Glycemic Index (how quickly sugar rises) and the total amount of carbohydrates in a typical serving. This offers a more practical understanding of a food's effect on blood sugar than the Glycemic Index alone.",
     "category": "Metabolism", "icon": "⚖️", "url": "/glossary#Glycemic-Load"}
-]
+  {"term": "Valve Disease", "definition": "A condition where one or more of the heart's valves (aortic, mitral, tricuspid, or pulmonary) do not function correctly, either failing to open fully or failing to close tightly, leading to disrupted blood flow.",
+    "category": "Cardiovascular", "icon": "🫀", "url": "/glossary#Valve-Disease" },
+  {"term": "Stenosis", "definition": "The narrowing or stiffening of a heart valve opening. This restriction forces the heart to work significantly harder to pump blood, often caused by the accumulation of calcium deposits as a result of biological aging.",
+    "category": "Cardiovascular", "icon": "⚠️", "url": "/glossary#Stenosis"}
+  ]
 
 
 
