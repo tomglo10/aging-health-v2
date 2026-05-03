@@ -61,7 +61,18 @@ To support our research into [**Colon Cancer**](/posts/colon-cancer-genetic-root
 *Aging Health Research provides educational information and is not a substitute for professional medical advice. Always consult your healthcare partner before making changes to your medication or lifestyle protocols.*
 
 ---
+---
 
+## 🔬 Cytokine & Inflammatory Marker Glossary
+
+In patients managing chronic systemic inflammation, understanding specific immune messengers (cytokines) is essential for evaluating treatment efficacy and long-term vascular risk.
+
+* **Cytokines:** Small signaling proteins that act as messengers between cells. They regulate the body’s immune response and can either promote or reduce inflammation.
+* **TNF-α (Tumor Necrosis Factor-alpha):** A primary pro-inflammatory cytokine. Elevated levels are linked to psoriasis, psoriatic arthritis, and the development of [**endothelial dysfunction**](/how-we-research/#Endothelial-Dysfunction).
+* **IL-17 (Interleukin-17):** A cytokine central to the development of skin plaques and joint inflammation. Most modern biologic therapies for psoriasis target this specific pathway.
+* **IL-23 (Interleukin-23):** An "upstream" cytokine that signals the immune system to produce IL-17 and other inflammatory cells.
+* **IL-6 (Interleukin-6):** A marker of systemic stress often associated with insulin resistance and the metabolic signaling pathways linked to [**Type 3 Diabetes**](/posts/brain-health-is-alzheimers-really-type-3-diabetes/).
+* **hs-CRP (High-Sensitivity C-Reactive Protein):** A blood test that measures general systemic inflammation. In 2026 clinical standards, an elevated hs-CRP in a patient with clear skin indicates that internal vascular inflammation may still be active.
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
