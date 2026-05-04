@@ -17,16 +17,14 @@
   }
   .targets-box { border-left: 5px solid #1565c0; }
   .targets-box h6 { color: #1565c0; }
-
-  .quit-box { border-left: 5px solid #2e7d32; } /* Green for health/growth */
+  .quit-box { border-left: 5px solid #2e7d32; }
   .quit-box h6 { color: #2e7d32; }
 
-  .sidebar-card ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 0.9rem;
-  }
+  /* COOKIE BOX */
+  .cookie-box { border-top: 3px solid #1565c0; background: #ebf8ff; }
+  .cookie-box p { font-size: 0.8rem; line-height: 1.4; margin-bottom: 0.5rem; color: #2d3748; }
+
+  .sidebar-card ul { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
   .sidebar-card li { margin-bottom: 0.5rem; display: flex; justify-content: space-between; }
   .sidebar-card a { color: #2d3748; text-decoration: none; border-bottom: 1px solid transparent; }
   .sidebar-card a:hover { border-bottom: 1px solid #2e7d32; }
@@ -41,21 +39,25 @@
     <p class="site-subtitle fst-italic mb-0">Independent health research and patient advocacy.</p>
   </header>
 
-<nav class="flex-column flex-grow-1 w-100 ps-0">
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
       <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-home"></i><span>HOME</span></a></li>
       <li class="nav-item"><a href="{{ '/categories/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-stream"></i><span>CATEGORIES</span></a></li>
       <li class="nav-item"><a href="{{ '/tags/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-tags"></i><span>TAGS</span></a></li>
       <li class="nav-item"><a href="{{ '/archives/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-archive"></i><span>ARCHIVES</span></a></li>
       <li class="nav-item"><a href="{{ '/about/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-info-circle"></i><span>ABOUT</span></a></li>
-
       <li class="nav-item"><a href="{{ '/lbd-safety-checklist/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-shield-alt"></i><span>LBD SAFETY CHECKLIST</span></a></li>
       <li class="nav-item"><a href="{{ '/how-we-research/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-microscope"></i><span>HOW WE RESEARCH</span></a></li>
       <li class="nav-item"><a href="{{ '/patient-tools/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-file-medical"></i><span>PATIENT TOOLS</span></a></li>
       <li class="nav-item"><a href="{{ '/home-safety-checklist/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-home"></i><span>HOME SAFETY CHECKLIST</span></a></li>
-      <li class="nav-item"><a href="{{ '/privacy-policy/' | relative_url }}" class="nav-link"><i class="fa-fw fas fa-user-shield"></i><span>PRIVACY POLICY</span></a></li>
     </ul>
   </nav>
+
+  <div id="cookie-notice" class="sidebar-card cookie-box" style="display: none;">
+    <h6>🍪 Cookie Notice</h6>
+    <p>This site uses cookies to improve research resources. <a href="/privacy-policy/"><strong>Privacy Policy</strong></a></p>
+    <button onclick="acceptCookies()" style="width: 100%; background: #1565c0; color: white; border: none; padding: 5px; border-radius: 4px; cursor: pointer; font-size: 0.8rem; font-weight: bold;">Accept</button>
+  </div>
 
   <div class="sidebar-card targets-box">
     <h6>🎯 2026 Targets</h6>
@@ -68,16 +70,14 @@
     </ul>
   </div>
 
- <div class="sidebar-card quit-box">
+  <div class="sidebar-card quit-box">
     <h6>🚭 Quit & Resilience</h6>
     <p style="font-size: 0.8rem; line-height: 1.4; margin-bottom: 0.8rem;">
-      Tommy's Milestone: <strong>7 Years Smoke-Free.</strong> Resetting the mind and body.
+      Tommy's Milestone: <strong>7 Years Smoke-Free.</strong>
     </p>
     <ul>
-      <li><a href="{{ '/posts/cognitive-reframing-cbt-guide/' | relative_url }}"><strong>Cognitive Reframing</strong></a> <i class="fas fa-brain fa-xs"></i></li>
-      <li><a href="{{ '/posts/lifestyle-changes-psoriasis-metabolic-risk/' | relative_url }}">The 7-Year Journey</a> <i class="fas fa-arrow-right fa-xs"></i></li>
-      <li><a href="https://smokefree.gov/" target="_blank">Smokefree.gov</a> <i class="fas fa-external-link-alt fa-xs"></i></li>
-      <li><a href="https://www.cdc.gov/tobacco/quit_smoking/index.htm" target="_blank">CDC Quit Tips</a> <i class="fas fa-external-link-alt fa-xs"></i></li>
+      <li><a href="{{ '/posts/cognitive-reframing-cbt-guide/' | relative_url }}">Cognitive Reframing</a></li>
+      <li><a href="https://smokefree.gov/" target="_blank">Smokefree.gov</a></li>
     </ul>
   </div>
 
@@ -88,23 +88,11 @@
     <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
   </div>
 </aside>
-<div id="cookie-notice" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: #1a202c; color: #fff; padding: 1rem; box-shadow: 0 -4px 15px rgba(0,0,0,0.4); z-index: 999999; font-family: sans-serif; border-top: 4px solid #1565c0;">
-  <div style="max-width: 1100px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap;">
-    <p style="margin: 0; font-size: 0.85rem; line-height: 1.4; flex: 1; min-width: 280px;">
-      <strong>Research Transparency:</strong> This site uses cookies to improve health literacy resources. By continuing, you agree to our <a href="/privacy-policy/" style="color: #63b3ed; text-decoration: underline;">Privacy Policy</a>.
-    </p>
-    <button onclick="acceptCookies()" style="background: #1565c0; color: white; border: none; padding: 0.4rem 1.2rem; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 0.85rem;">
-      Got it
-    </button>
-  </div>
-</div>
 
 <script>
-  // Instant check - runs as soon as sidebar loads
   if (!localStorage.getItem('agingHealthConsent')) {
     document.getElementById('cookie-notice').style.display = 'block';
   }
-
   function acceptCookies() {
     localStorage.setItem('agingHealthConsent', 'true');
     document.getElementById('cookie-notice').style.display = 'none';
