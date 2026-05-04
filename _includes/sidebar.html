@@ -1,35 +1,3 @@
-<style>
-  /* SIDEBAR CARDS */
-  .sidebar-card {
-    background: #f8f9fa;
-    border: 1px solid #dee2e6;
-    border-radius: 8px;
-    padding: 1.2rem;
-    margin: 1rem 1rem;
-    width: calc(100% - 2rem);
-  }
-  .sidebar-card h6 {
-    font-size: 0.85rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 0.75rem;
-  }
-  .targets-box { border-left: 5px solid #1565c0; }
-  .targets-box h6 { color: #1565c0; }
-  .quit-box { border-left: 5px solid #2e7d32; }
-  .quit-box h6 { color: #2e7d32; }
-
-  /* COOKIE BOX */
-  .cookie-box { border-top: 3px solid #1565c0; background: #ebf8ff; }
-  .cookie-box p { font-size: 0.8rem; line-height: 1.4; margin-bottom: 0.5rem; color: #2d3748; }
-
-  .sidebar-card ul { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
-  .sidebar-card li { margin-bottom: 0.5rem; display: flex; justify-content: space-between; }
-  .sidebar-card a { color: #2d3748; text-decoration: none; border-bottom: 1px solid transparent; }
-  .sidebar-card a:hover { border-bottom: 1px solid #2e7d32; }
-</style>
-
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
@@ -53,31 +21,12 @@
     </ul>
   </nav>
 
-  <div id="cookie-notice" class="sidebar-card cookie-box" style="display: none;">
-    <h6>🍪 Cookie Notice</h6>
-    <p>This site uses cookies to improve research resources. <a href="/privacy-policy/"><strong>Privacy Policy</strong></a></p>
-    <button onclick="acceptCookies()" style="width: 100%; background: #1565c0; color: white; border: none; padding: 5px; border-radius: 4px; cursor: pointer; font-size: 0.8rem; font-weight: bold;">Accept</button>
-  </div>
-
-  <div class="sidebar-card targets-box">
-    <h6>🎯 2026 Targets</h6>
-    <ul>
-      <li><strong>Protein:</strong> <span>1.2 – 1.6 g/kg</span></li>
-      <li><strong>BP (Sr):</strong> <span>&lt; 130/80</span></li>
-      <li><strong>A1c:</strong> <span>7.0% - 7.5%</span></li>
-      <li><strong>Fiber:</strong> <span>30g+ Daily</span></li>
-      <li><strong>Strength:</strong> <span>2x Weekly</span></li>
-    </ul>
-  </div>
-
-  <div class="sidebar-card quit-box">
-    <h6>🚭 Quit & Resilience</h6>
-    <p style="font-size: 0.8rem; line-height: 1.4; margin-bottom: 0.8rem;">
-      Tommy's Milestone: <strong>7 Years Smoke-Free.</strong>
-    </p>
-    <ul>
-      <li><a href="{{ '/posts/cognitive-reframing-cbt-guide/' | relative_url }}">Cognitive Reframing</a></li>
-      <li><a href="https://smokefree.gov/" target="_blank">Smokefree.gov</a></li>
+  <div class="sidebar-card targets-box" style="background: #f8f9fa; border: 1px solid #dee2e6; border-left: 5px solid #1565c0; border-radius: 8px; padding: 1rem; margin: 1rem; width: calc(100% - 2rem);">
+    <h6 style="color: #1565c0; font-size: 0.85rem; text-transform: uppercase; margin-bottom: 0.5rem;">🎯 2026 Targets</h6>
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.85rem;">
+      <li style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;"><strong>Protein:</strong> 1.2 – 1.6 g/kg</li>
+      <li style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;"><strong>BP (Sr):</strong> < 130/80</li>
+      <li style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;"><strong>A1c:</strong> 7.0% - 7.5%</li>
     </ul>
   </div>
 
@@ -88,13 +37,3 @@
     <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
   </div>
 </aside>
-
-<script>
-  if (!localStorage.getItem('agingHealthConsent')) {
-    document.getElementById('cookie-notice').style.display = 'block';
-  }
-  function acceptCookies() {
-    localStorage.setItem('agingHealthConsent', 'true');
-    document.getElementById('cookie-notice').style.display = 'none';
-  }
-</script>
