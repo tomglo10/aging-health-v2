@@ -21,7 +21,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ---
 
-![Image of an energy efficient home design](/assets/img/energy‑efficient.webp)
+![Image of an energy efficient home design](/assets/img/energy-efficient.webp)
 *Figure 2: Energy‑efficient house: insulated walls and attic, triple‑pane windows, solar panels on roof, heat‑pump HVAC, sealed ducts, and LED lighting.*
 
 ---
