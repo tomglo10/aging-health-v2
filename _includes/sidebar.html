@@ -88,3 +88,25 @@
     <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
   </div>
 </aside>
+<div id="cookie-notice" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: #1a202c; color: #fff; padding: 1rem; box-shadow: 0 -4px 15px rgba(0,0,0,0.4); z-index: 999999; font-family: sans-serif; border-top: 4px solid #1565c0;">
+  <div style="max-width: 1100px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap;">
+    <p style="margin: 0; font-size: 0.85rem; line-height: 1.4; flex: 1; min-width: 280px;">
+      <strong>Research Transparency:</strong> This site uses cookies to improve health literacy resources. By continuing, you agree to our <a href="/privacy-policy/" style="color: #63b3ed; text-decoration: underline;">Privacy Policy</a>.
+    </p>
+    <button onclick="acceptCookies()" style="background: #1565c0; color: white; border: none; padding: 0.4rem 1.2rem; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 0.85rem;">
+      Got it
+    </button>
+  </div>
+</div>
+
+<script>
+  // Instant check - runs as soon as sidebar loads
+  if (!localStorage.getItem('agingHealthConsent')) {
+    document.getElementById('cookie-notice').style.display = 'block';
+  }
+
+  function acceptCookies() {
+    localStorage.setItem('agingHealthConsent', 'true');
+    document.getElementById('cookie-notice').style.display = 'none';
+  }
+</script>
