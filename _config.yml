@@ -186,7 +186,8 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
- tabs:
+# Manual whitelist for sidebar tabs
+tabs:
   - archives
   - categories
   - tags
