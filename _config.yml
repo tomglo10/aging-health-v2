@@ -1,4 +1,4 @@
-# Aging Health Research 2026
+# Aging Health Research 2026 - Master Configuration
 theme: jekyll-theme-chirpy
 lang: en
 timezone: America/Chicago
@@ -25,12 +25,22 @@ author:
       url: https://aginghealth.website
       icon: "fas fa-globe"
 
+# --- THE MISSING ENGINE (PLUGINS) ---
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# --- THE MISSING FUEL LINE (PAGINATION) ---
+paginate: 10
+paginate_path: "/page:num/"
+
 # Analytics & Cookies
 analytics:
   google:
     id: G-DYSMMKT4C7
 
-# ENABLING COOKIE NOTICE
 cookie_notice:
   enabled: true
 
