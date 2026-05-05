@@ -82,6 +82,8 @@ Over a typical lifetime, your salivary glands produce enough fluid to **fill two
 You aren't just one person; you are a galaxy of **30 trillion human cells**. Each one is a specialized worker—some carry oxygen, some think, some move. Even more surprising? You host trillions of bacterial cells that help you digest and stay healthy. You are quite literally a walking ecosystem.
 
 
+---
+![Image of the human outside at night.](/assets/imgbrain-nightwork.webp/)**Figure 5** Your brain is busy at night.
 
 ---
 
