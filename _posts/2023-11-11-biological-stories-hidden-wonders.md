@@ -83,7 +83,7 @@ You aren't just one person; you are a galaxy of **30 trillion human cells**. Eac
 
 
 ---
-![Image of the human outside at night.](/assets/img/brain-nightwork.webp/)**Figure 5** Your brain is busy at night.
+![Image of the human outside at night.](/assets/img/brain-nightwork.webp)**Figure 5** Your brain is busy at night.
 
 ---
 
