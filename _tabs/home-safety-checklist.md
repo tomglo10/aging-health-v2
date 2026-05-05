@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Home Safety Checklist
-permalink: /home-safety-checklist/
-icon: fas fa-house-chimney-user
+icon: fas fa-home
 order: 8
 ---
 
-## 🏠 Home Safety Audit
-A clinical-grade checklist for maintaining a safe environment for seniors with mobility or cognitive challenges.
+## The Vascular-Safe Home
+Beyond grab bars and lighting, your home environment is a key tool for managing systemic inflammation and blood pressure.
 
-* [ ] **Lighting:** All walkways have 500+ lumens.
-* [ ] **Tripping Hazards:** Rugs secured with non-slip backing.
-* [ ] **Vascular Rest:** Accessible seating for interval rest.
+{: .prompt-tip }
+> ### 📥 [Download: 2026 Home Vascular Defense Checklist (PDF)](/assets/pdf/2026-Home-Vascular-Defense-Checklist.pdf)
+> A comprehensive guide to auditing your home for thermal stability, blue light hygiene, and metabolic movement zones.
