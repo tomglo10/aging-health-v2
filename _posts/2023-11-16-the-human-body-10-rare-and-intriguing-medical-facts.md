@@ -32,7 +32,7 @@ While you sleep, your brain is performing a "high-pressure wash." The **glymphat
 ### 3. The Gut Microbiota: A Hidden Galaxy
 You are more "microbe" than "human." Trillions of bacteria, viruses, and fungi live in your gut, forming the **Microbiota**. This ecosystem doesn't just digest food; it talks directly to your brain via the "gut-brain axis," influencing your mood and immune resilience.
 
-![Trillions of microorganisms in the human gut](/assets/img/microorganisms.webp)
+![Trillions of microorganisms in the human gut](/assets/img/human-gut-microbiome..webp)
 *Figure 3: This diverse community of bacteria influences everything from digestion to mental clarity.*
 
 ### 4. The Placebo Effect: The Mind’s Alchemy
@@ -62,7 +62,7 @@ Your DNA is the "script," but **Epigenetics** is the "director." Life experience
 ### 8. Microchimerism: A Living Legacy
 During pregnancy, cells are exchanged between mother and fetus. These fetal cells can persist in a mother’s heart, brain, and liver for decades. Recent research suggests these "legacy cells" act like a repair kit, rushing to the site of an injury to help the mother heal.
 
-![Fetal and maternal cell exchange](/assets/img/Microchimerism.webp)
+![Fetal and maternal cell exchange](/assets/img/microchimerism.webp)
 *Figure 8: Cells from another person living inside you can influence immune function and tissue repair.*
 
 ### 9. Bioelectricity: The Spark of Life
