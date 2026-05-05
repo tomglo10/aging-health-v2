@@ -285,8 +285,7 @@ They talk in voltage, sending signals that ripple across tissues like messages i
 
 But when the pattern is strong and coherent, your body repairs, regenerates, and coordinates itself with remarkable intelligence.
 
-#### 
-You Are a Living Battery
+#### You Are a Living Battery
 
 Bioelectricity is the spark behind life’s organization.
 It’s the quiet force that keeps your heart beating, your wounds closing, and your cells aligned with their purpose.
