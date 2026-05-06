@@ -2,7 +2,7 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: America/Chicago
 
-title: "Aging Health Research" 
+title: "Aging Health Research"
 tagline: "Independent health research and patient advocacy."
 description: "Translating 2026 clinical data into health literacy for seniors."
 url: "https://aginghealth.website"
@@ -27,8 +27,9 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-theme-chirpy
+  - jekyll-seo-tag
 
 # --- THE MISSING FUEL LINE (PAGINATION) ---
 paginate: 10
@@ -58,20 +59,31 @@ collections:
   tabs:
     output: true
     sort_by: order
+    # 2026 Archive Configuration - Building the 'Capillaries'
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Ensure these point to the correct root
+category_dir: categories
+tag_dir: tags
 
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: post
-      permalink: /posts/:title/
+      layout: "post"
+      permalink: "/posts/:title/"
   - scope:
-      path: ""
-      type: tabs
+      path: "_tabs"
     values:
-      layout: page
-      permalink: /:title/
+      layout: "page"
 
 exclude:
   - "*.gem"
