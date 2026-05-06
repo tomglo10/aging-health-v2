@@ -1,25 +1,25 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener("DOMContentLoaded", function() {
   fetch('/assets/js/autolink-map.json')
-    .then((response) => response.json())
-    .then((linkMap) => {
-      // Scopes the search specifically to the post content area in Chirpy
-      const postContent =
-        document.querySelector('.content.post-content') ||
-        document.querySelector('.content');
+    .then(response => response.json())
+    .then(linkMap => {
+      const postContent = document.querySelector('.content.post-content') || document.querySelector('.content');
       if (!postContent) return;
 
       let html = postContent.innerHTML;
+      const currentPath = window.location.pathname;
 
-      Object.keys(linkMap).forEach((keyword) => {
-        // RegEx: Finds the keyword but ignores it if it's already inside a link, heading, or code block
-        const regex = new RegExp(
-          `(?<!<[^>]*)${keyword}(?![^<]*</a>|[###])`,
-          'i',
-        );
+      Object.keys(linkMap).forEach(keyword => {
+        const targetPath = linkMap[keyword];
 
-        // We replace only the FIRST occurrence to prevent "link-bloat"
+        // GHOST-LINK PREVENTION: Skip if we are already on that page
+        if (currentPath === targetPath || currentPath === targetPath + '/') {
+          return;
+        }
+
+        const regex = new RegExp(`(?<!<[^>]*)${keyword}(?![^<]*</a>|[###])`, 'i');
+
         html = html.replace(regex, (match) => {
-          return `<a href="${linkMap[keyword]}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="Learn more about ${match}">${match}</a>`;
+          return `<a href="${targetPath}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="Learn more about ${match}">${match}</a>`;
         });
       });
 
