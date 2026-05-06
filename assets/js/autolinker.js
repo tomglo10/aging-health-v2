@@ -1,31 +1,35 @@
 document.addEventListener("DOMContentLoaded", function() {
-  console.log("Glossary Pulse Check: Searching for clinical terms...");
+  // 1. THE PULSE CHECK - If you see this in the F12 Console, the script is LOADED.
+  console.log("Glossary Engine: Starting up...");
 
   fetch('/assets/js/glossary.json')
     .then(response => response.json())
     .then(glossary => {
-      // Find the main content area in Chirpy
-      const contentArea = document.querySelector('.post-content') || document.querySelector('article');
+      // 2. THE TARGET CHECK - Trying all possible Chirpy content areas
+      const contentArea = document.querySelector('.post-content') ||
+                          document.querySelector('.content') ||
+                          document.querySelector('article');
 
       if (!contentArea) {
-        console.log("Glossary Error: Post content area not found.");
+        console.error("Glossary Error: Could not find the post body.");
         return;
       }
 
       let html = contentArea.innerHTML;
 
+      // 3. THE SUTURING - Loop through terms
       glossary.forEach(entry => {
         const term = entry.term;
         const url = entry.url;
         const definition = entry.definition;
 
-        // REGEX: Matches whole words only, ignores matches inside <a> tags or <img> tags
+        // Regex: Matches whole words, skips terms already inside <a> tags
         const regex = new RegExp(`\\b(${term})\\b(?![^<]*</a>)`, 'gi');
 
-        html = html.replace(regex, (match) => {
-          console.log(`Glossary: Linked [${match}] to ${url}`);
-          return `<a href="${url}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${definition}">${match}</a>`;
-        });
+        if (html.match(regex)) {
+          console.log(`Glossary: Successfully linked [${term}]`);
+          html = html.replace(regex, `<a href="${url}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${definition}">$1</a>`);
+        }
       });
 
       contentArea.innerHTML = html;
