@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy-policy/
 icon: fas fa-user-shield
-order: 9
+order: 10
+permalink: /privacy-policy/
 ---
 
-## Privacy Policy
-This site is a non-commercial research hub. 
+### Privacy & Data Integrity
+This site is a non-commercial research platform. 
 
 * **Data Collection:** We do not track personal health data.
-* **Cookies:** We use minimal cookies for site performance and analytics (Google Analytics).
-* **External Links:** We provide links to clinical sources; please review their individual privacy policies.
-
-**Last Updated:** May 2026
+* **Cookies:** This site uses standard GitHub Pages hosting which may use basic functional cookies.
+* **Third Parties:** We do not sell or share any information.
+* **Health Disclaimer:** All data is for educational purposes and health literacy advocacy only.

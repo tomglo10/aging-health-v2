@@ -7,11 +7,7 @@ permalink: /lbd-safety-checklist/
 ---
 
 ### Lewy Body Dementia (LBD) Safety Protocol
-LBD presents unique challenges, particularly regarding autonomic dysfunction and movement. Use this checklist to ensure a safe environment.
 
-* **[ ] Medication Review:** Are neuroleptics strictly monitored? (Sensitivity risk).
-* **[ ] Fall Prevention:** Clear paths, removal of "visual illusions" (busy rugs).
-* **[ ] Hydration Monitoring:** Checking for orthostatic hypotension.
-* **[ ] Caregiver Support:** Emergency contact list and "In Case of Hospitalization" folder.
-
-*Download the full clinical protocol [here](#).*
+* **[ ] Medication Review:** Are neuroleptics strictly monitored? 
+* **[ ] Fall Prevention:** Check the [Home Safety Checklist](/home-safety-checklist/) for flooring tips.
+* **[ ] Patient Advocacy:** See our [Patient Tools](/patient-tools/) for clinical logs.
