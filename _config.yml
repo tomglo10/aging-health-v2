@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-archives
-  - jekyll-theme-chirpy
+  - jekyll-include-cache
   - jekyll-seo-tag
 
 # --- THE MISSING FUEL LINE (PAGINATION) ---

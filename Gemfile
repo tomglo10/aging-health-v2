@@ -1,14 +1,16 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.5"
+# The core engine
+gem "jekyll", "~> 4.3"
 
-gem "html-proofer", "~> 5.0", group: :test
+# The theme - This was the missing link
+gem "jekyll-theme-chirpy", "~> 7.0"
 
-platforms :windows, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+# The plugins required for your navigation capillaries
+group :jekyll_plugins do
+  gem "jekyll-archives"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-include-cache"
+  gem "jekyll-seo-tag"
 end
-
-gem "wdm", "~> 0.2.0", :platforms => [:windows]
