@@ -1,28 +1,34 @@
 document.addEventListener("DOMContentLoaded", function() {
+  console.log("Glossary Pulse Check: Searching for clinical terms...");
+
   fetch('/assets/js/glossary.json')
     .then(response => response.json())
-    .then(glossaryArray => {
-      const postContent = document.querySelector('.content.post-content') || document.querySelector('.content');
-      if (!postContent) return;
+    .then(glossary => {
+      // Find the main content area in Chirpy
+      const contentArea = document.querySelector('.post-content') || document.querySelector('article');
 
-      let html = postContent.innerHTML;
-      const currentPath = window.location.pathname;
+      if (!contentArea) {
+        console.log("Glossary Error: Post content area not found.");
+        return;
+      }
 
-      glossaryArray.forEach(entry => {
-        const keyword = entry.term;
-        const targetPath = entry.url;
+      let html = contentArea.innerHTML;
 
-        // SKIP: Don't link if we are already on the glossary or target page
-        if (currentPath.includes('/glossary')) return;
+      glossary.forEach(entry => {
+        const term = entry.term;
+        const url = entry.url;
+        const definition = entry.definition;
 
-        // REGEX: Matches the term but avoids breaking existing links/images
-        const regex = new RegExp(`(?<!<[^>]*)${keyword}(?![^<]*</a>|[###])`, 'gi');
+        // REGEX: Matches whole words only, ignores matches inside <a> tags or <img> tags
+        const regex = new RegExp(`\\b(${term})\\b(?![^<]*</a>)`, 'gi');
 
         html = html.replace(regex, (match) => {
-          return `<a href="${targetPath}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${entry.definition}">${match}</a>`;
+          console.log(`Glossary: Linked [${match}] to ${url}`);
+          return `<a href="${url}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${definition}">${match}</a>`;
         });
       });
 
-      postContent.innerHTML = html;
-    });
+      contentArea.innerHTML = html;
+    })
+    .catch(error => console.error("Glossary Fetch Error:", error));
 });
