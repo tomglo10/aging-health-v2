@@ -1,14 +1,12 @@
-# Aging Health Research 2026 - Master Configuration
 theme: jekyll-theme-chirpy
 lang: en
 timezone: America/Chicago
 
-title: "Aging Health Research 2026"
+title: "Aging Health Research" 
 tagline: "Independent health research and patient advocacy."
 description: "Translating 2026 clinical data into health literacy for seniors."
 url: "https://aginghealth.website"
 baseurl: ""
-
 github:
   username: tomglo10
 
