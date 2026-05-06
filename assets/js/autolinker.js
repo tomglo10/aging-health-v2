@@ -1,25 +1,25 @@
 document.addEventListener("DOMContentLoaded", function() {
-  fetch('/assets/js/autolink-map.json')
+  fetch('/assets/js/glossary.json')
     .then(response => response.json())
-    .then(linkMap => {
+    .then(glossaryArray => {
       const postContent = document.querySelector('.content.post-content') || document.querySelector('.content');
       if (!postContent) return;
 
       let html = postContent.innerHTML;
       const currentPath = window.location.pathname;
 
-      Object.keys(linkMap).forEach(keyword => {
-        const targetPath = linkMap[keyword];
+      glossaryArray.forEach(entry => {
+        const keyword = entry.term;
+        const targetPath = entry.url;
 
-        // GHOST-LINK PREVENTION: Skip if we are already on that page
-        if (currentPath === targetPath || currentPath === targetPath + '/') {
-          return;
-        }
+        // SKIP: Don't link if we are already on the glossary or target page
+        if (currentPath.includes('/glossary')) return;
 
-        const regex = new RegExp(`(?<!<[^>]*)${keyword}(?![^<]*</a>|[###])`, 'i');
+        // REGEX: Matches the term but avoids breaking existing links/images
+        const regex = new RegExp(`(?<!<[^>]*)${keyword}(?![^<]*</a>|[###])`, 'gi');
 
         html = html.replace(regex, (match) => {
-          return `<a href="${targetPath}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="Learn more about ${match}">${match}</a>`;
+          return `<a href="${targetPath}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${entry.definition}">${match}</a>`;
         });
       });
 

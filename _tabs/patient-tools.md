@@ -2,12 +2,12 @@
 layout: page
 title: Patient Tools
 icon: fas fa-file-medical
-order: 8
 permalink: /patient-tools/
 ---
 
-### Interactive Health Literacy Tools
+### Clinical Advocacy Tools
 
-* **[Research Methodology](/how-we-research/):** Learn how we translate 2026 clinical data.
-* **[Safety Audit](/home-safety-checklist/):** Essential for aging-in-place.
-* **[Privacy Standards](/privacy-policy/):** How your data is handled.
+* **[LBD Safety Checklist](/lbd-safety-checklist/):** Essential for neuro-care.
+* **[Home Safety Audit](/home-safety-checklist/):** Environmental optimization.
+* **[Glossary of Terms](/glossary/):** Instant translation of 2026 clinical data.
+* **[Privacy Policy](/privacy-policy/):** Data integrity standards.
