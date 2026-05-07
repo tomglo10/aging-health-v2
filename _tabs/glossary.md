@@ -5,47 +5,24 @@ icon: fas fa-book-medical
 order: 7
 permalink: /glossary/
 ---
-
-<input type="text" id="glossarySearch" placeholder="Search for a clinical term (e.g., Sarcopenia)..." style="width: 100%; padding: 12px; margin-bottom: 20px; border-radius: 8px; border: 1px solid #dee2e6;">
-
-<div id="glossaryContainer">
-  <p>Loading the research database...</p>
+<div class="card mb-4 shadow-sm" style="border-left: 5px solid #00796b; background-color: #fdfdfd;">
+  <div class="card-body">
+    <h3 class="card-title h5 mb-4" style="color: #00796b;">🧩 Clinical Research Glossary</h3>
+    <dl class="mb-0">
+      {% for item in site.data.glossary %}
+      <div id="{{ item.term | slugify }}" class="mb-4 pb-2" style="border-bottom: 1px solid #eee; scroll-margin-top: 100px;">
+        <dt class="d-flex align-items-center">
+          <span class="me-2" style="font-size: 1.2rem;">{{ item.icon }}</span>
+          <span class="h6 mb-0"><strong>{{ item.term }}</strong></span>
+          <span class="badge rounded-pill ms-auto px-3 py-2" style="background-color: #e0f2f1; color: #004d40; font-size: 0.75rem;">
+            {{ item.category }}
+          </span>
+        </dt>
+        <dd class="mt-2 text-muted" style="font-size: 0.95rem; line-height: 1.5;">
+          {{ item.definition }}
+        </dd>
+      </div>
+      {% endfor %}
+    </dl>
+  </div>
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  fetch('/glossary.json')
-    .then(response => response.json())
-    .then(data => {
-      const container = document.getElementById('glossaryContainer');
-      const searchInput = document.getElementById('glossarySearch');
-      
-      const renderGlossary = (filter = "") => {
-        container.innerHTML = "";
-        const filtered = data.filter(item => 
-          item.term.toLowerCase().includes(filter.toLowerCase()) || 
-          item.definition.toLowerCase().includes(filter.toLowerCase())
-        );
-
-        filtered.forEach(item => {
-          const div = document.createElement('div');
-          div.id = item.term.replace(/\s+/g, '-'); // Creates the #Anchor
-          div.style.marginBottom = "30px";
-          div.style.padding = "15px";
-          div.style.borderLeft = "4px solid #1565c0";
-          div.style.background = "#f8f9fa";
-          
-          div.innerHTML = `
-            <h3 style="margin-top:0;">${item.icon} ${item.term}</h3>
-            <p><strong>Definition:</strong> ${item.definition}</p>
-            <span style="font-size: 0.8rem; background: #e9ecef; padding: 2px 8px; border-radius: 4px;">${item.category}</span>
-          `;
-          container.appendChild(div);
-        });
-      };
-
-      searchInput.addEventListener('input', (e) => renderGlossary(e.target.value));
-      renderGlossary();
-    });
-});
-</script>

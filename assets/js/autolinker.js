@@ -1,49 +1,44 @@
 document.addEventListener("DOMContentLoaded", function() {
-  console.log("Glossary Engine: Starting up...");
-
-  // Fetching directly from the root
   fetch('/glossary.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error("Glossary file not found at root (Check if file is actually named glossary.json)");
-      }
-      return response.json();
-    })
+    .then(response => response.json())
     .then(glossary => {
-      console.log("Glossary Engine: Success! Found " + glossary.length + " terms.");
+      const content = document.querySelector('.post-content') || document.querySelector('article');
+      if (!content) return;
 
-      // Target the Chirpy post content area
-      const contentArea = document.querySelector('.post-content') ||
-                          document.querySelector('.content') ||
-                          document.querySelector('article');
-
-      if (!contentArea) {
-        console.error("Glossary Error: Content area not found.");
-        return;
-      }
-
-      let html = contentArea.innerHTML;
-
-      // Sort terms by length (longest first) so 'Blood Pressure' links before 'Blood'
+      // Sort: Longest terms first to prevent partial matches
       glossary.sort((a, b) => b.term.length - a.term.length);
 
-      glossary.forEach(entry => {
-        const term = entry.term;
-        const url = entry.url;
-        const definition = entry.definition;
+      const walk = (node) => {
+        let child = node.firstChild;
+        while (child) {
+          if (child.nodeType === 3) { // Text node
+            const parent = child.parentNode.tagName.toLowerCase();
+            // SKIP headers, links, and code
+            if (!['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre'].includes(parent)) {
+              let text = child.nodeValue;
+              let hasMatch = false;
 
-        // Regex: Matches whole words, skips terms already inside <a> tags
-        const regex = new RegExp(`\\b(${term})\\b(?![^<]*</a>)`, 'gi');
+              glossary.forEach(entry => {
+                const regex = new RegExp(`\\b(${entry.term})\\b`, 'i');
+                if (text.match(regex)) {
+                  const url = `/glossary/#${entry.term.toLowerCase().replace(/\s+/g, '-')}`;
+                  text = text.replace(regex, `<a href="${url}" class="glossary-link" title="${entry.definition}">$1</a>`);
+                  hasMatch = true;
+                }
+              });
 
-        if (html.match(regex)) {
-          console.log(`Glossary: Linking [${term}] to ${url}`);
-          html = html.replace(regex, `<a href="${url}" class="autolink" style="text-decoration: underline; color: var(--link-color);" title="${definition}">$1</a>`);
+              if (hasMatch) {
+                const temp = document.createElement('span');
+                temp.innerHTML = text;
+                node.replaceChild(temp, child);
+              }
+            }
+          } else {
+            walk(child);
+          }
+          child = child.nextSibling;
         }
-      });
-
-      contentArea.innerHTML = html;
-    })
-    .catch(error => {
-      console.error("Glossary Fetch Error:", error);
+      };
+      walk(content);
     });
 });
