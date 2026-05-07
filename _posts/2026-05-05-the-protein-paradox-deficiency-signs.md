@@ -73,9 +73,11 @@ A lack of protein can disrupt your **Circadian Rhythm**.
 * **The Tryptophan-Serotonin-Melatonin Pathway:** You need protein to create the precursors for Melatonin (the sleep hormone).
 * **Nighttime Cortisol:** When protein is low, the body may release cortisol at night to maintain blood sugar, causing you to wake up in a "wired" state.
 
+---
 
+![The biochemical pathway from tryptophan to serotonin and melatonin, with glowing molecular structures and arrows labeled with enzymatic steps](/assets/img/tryptophan-serotonin-melatonin-pathway)_Figure 2: The tryptophan–serotonin–melatonin pathway visualized as a luminous molecular cascade—linking mood, circadian rhythm, and sleep through sequential enzymatic transformations._
 
-[Image of the tryptophan-serotonin-melatonin pathway]
+---
 
 
 ## 10. The "Slow Motion" Metabolism
