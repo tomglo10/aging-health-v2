@@ -7,6 +7,10 @@ tagline: "Independent health research and patient advocacy."
 description: "Translating 2026 clinical data into health literacy for seniors."
 url: "https://aginghealth.website"
 baseurl: ""
+
+# Add this line here:
+math: true
+
 github:
   username: tomglo10
 
